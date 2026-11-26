@@ -6,7 +6,8 @@
 
 話の軸は「リカバリー（復旧）を、年に一度の訓練から日常の運用の一部へ変える」ことです。サービスは今週月曜に一般提供（GA）となり、最初の対象は Azure VM だけです。**発表では画面を使ったデモは行われていません。** デモはブースの動画とクリックスルー形式で見られると案内されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1101](https://ignite.microsoft.com/en-US/sessions/THRSP1101)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1101](https://ignite.microsoft.com/en-US/sessions/THRSP1101)\
+YouTube URL: [https://www.youtube.com/watch?v=g5BwUPD6do8](https://www.youtube.com/watch?v=g5BwUPD6do8)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 画面を使ったデモが中心のセッションです。ただし、録音から分かるのは語られた範囲の操作だけなので、画面の細部は確認できません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK532](https://ignite.microsoft.com/en-US/sessions/BRK532)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK532](https://ignite.microsoft.com/en-US/sessions/BRK532)\
+YouTube URL: [https://www.youtube.com/watch?v=ypxEcYFkL9Y](https://www.youtube.com/watch?v=ypxEcYFkL9Y)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表の前半では、Hank Bowman が Python でエージェントを段階的に組み立てるデモを行いました。モデルへの接続、MCP サーバーへの接続、A2A で別のエージェントを呼び出す構成、Foundry IQ による文書検索、そして Foundry へのホスティングという順序です。後半では Anthony Bartolo が、VS Code と GitHub Copilot を使って課題を進める方法、ハンズオンラボ（Lab 667）、課題解決型の学習イベント OpenHack、そして今回の課題を各地で開催するツアーを紹介しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK555](https://ignite.microsoft.com/en-US/sessions/BRK555)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK555](https://ignite.microsoft.com/en-US/sessions/BRK555)\
+YouTube URL: [https://www.youtube.com/watch?v=5ab_5toumWU](https://www.youtube.com/watch?v=5ab_5toumWU)
 
 ## 2. 発表者
 

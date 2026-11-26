@@ -10,7 +10,8 @@
 
 > 補足：セッションタイトルには Entra が含まれますが、トランスクリプトに "Entra" という語は出てきません。Microsoft に関する言及は、後述の「SMS 認証の終了」についての 1 か所だけです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1140](https://ignite.microsoft.com/en-US/sessions/THRSP1140)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1140](https://ignite.microsoft.com/en-US/sessions/THRSP1140)\
+YouTube URL: [https://www.youtube.com/watch?v=e7pGV_hHhBM](https://www.youtube.com/watch?v=e7pGV_hHhBM)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 結論は、「顧客の目標から出発し、パートナーの産業知識と提供力で成果に変え、成果を測定して示す」という流れです。締めくくりの言葉は「まず自分で体験し、そのうえで販売する」でした。画面を使ったデモはなく、スライドと口頭の説明、アナリストの講演、対談で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK520](https://ignite.microsoft.com/en-US/sessions/BRK520)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK520](https://ignite.microsoft.com/en-US/sessions/BRK520)\
+YouTube URL: [https://www.youtube.com/watch?v=iNit0a54LZM](https://www.youtube.com/watch?v=iNit0a54LZM)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1075](https://ignite.microsoft.com/en-US/sessions/THRSP1075)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1075](https://ignite.microsoft.com/en-US/sessions/THRSP1075)\
+YouTube URL: [https://www.youtube.com/watch?v=bxYs4BKS58o](https://www.youtube.com/watch?v=bxYs4BKS58o)
 
 ## 2. 発表者
 

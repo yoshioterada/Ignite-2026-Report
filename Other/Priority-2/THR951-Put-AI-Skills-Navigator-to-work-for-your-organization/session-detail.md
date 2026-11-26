@@ -6,7 +6,8 @@
 
 扱われた課題は次の 5 つです。個人と会社の学習履歴をひとつにまとめる方法、Ignite で発表された新製品の学習コンテンツを学習者へ届ける方法、独自のプレイリスト（学習計画）の作成、進捗とスキルの組織レポート、Microsoft Copilot の中で学べる学習エージェントです。**すべての機能は現在利用でき、料金はかからない**と繰り返し説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR951](https://ignite.microsoft.com/en-US/sessions/THR951)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR951](https://ignite.microsoft.com/en-US/sessions/THR951)\
+YouTube URL: [https://www.youtube.com/watch?v=-2a4MCyEKV8](https://www.youtube.com/watch?v=-2a4MCyEKV8)
 
 ## 2. 発表者
 

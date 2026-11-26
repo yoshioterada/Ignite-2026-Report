@@ -8,7 +8,8 @@
 
 > 補足：トランスクリプトでは Inforcer が「Enforcer」と書き起こされています。メタデータの記載に合わせて、本文では Inforcer と表記します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR931](https://ignite.microsoft.com/en-US/sessions/THR931)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR931](https://ignite.microsoft.com/en-US/sessions/THR931)\
+YouTube URL: [https://www.youtube.com/watch?v=wqk8KiAdAsg](https://www.youtube.com/watch?v=wqk8KiAdAsg)
 
 ## 2. 発表者
 

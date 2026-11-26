@@ -6,7 +6,8 @@
 
 デモでは、顧客が先に SMS で手荷物の追加を依頼し、その後に電話をかけて座席を変更します。2 つのチャネルが 1 つの会話として扱われ、過去のやり取りの記憶も使われる様子が示されました。この連携は**オープンソースで、現時点で一般提供されている**と説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1120](https://ignite.microsoft.com/en-US/sessions/THRSP1120)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1120](https://ignite.microsoft.com/en-US/sessions/THRSP1120)\
+YouTube URL: [https://www.youtube.com/watch?v=HFOBe1pw4as](https://www.youtube.com/watch?v=HFOBe1pw4as)
 
 ## 2. 発表者
 

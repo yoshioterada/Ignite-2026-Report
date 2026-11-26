@@ -8,7 +8,8 @@
 
 結論を先に言うと、発表者が繰り返し伝えているのは **「柔軟性とスケールにはコントロールが必要で、そのコントロールは利用開始前に設定する」** という考え方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK266](https://ignite.microsoft.com/en-US/sessions/BRK266)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK266](https://ignite.microsoft.com/en-US/sessions/BRK266)\
+YouTube URL: [https://www.youtube.com/watch?v=O5elv3UmUOo](https://www.youtube.com/watch?v=O5elv3UmUOo)
 
 ## 2. 発表者
 

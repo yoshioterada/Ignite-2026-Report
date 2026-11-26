@@ -8,7 +8,8 @@
 
 このセッションにはライブデモ（画面操作）はありません。商談の流れは、登壇者が役を演じる寸劇で説明されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK512](https://ignite.microsoft.com/en-US/sessions/BRK512)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK512](https://ignite.microsoft.com/en-US/sessions/BRK512)\
+YouTube URL: [https://www.youtube.com/watch?v=0S3Dy1aWoio](https://www.youtube.com/watch?v=0S3Dy1aWoio)
 
 ## 2. 発表者
 

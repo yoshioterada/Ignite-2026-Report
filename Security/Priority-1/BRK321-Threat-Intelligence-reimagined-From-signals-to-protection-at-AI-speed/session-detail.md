@@ -8,7 +8,8 @@
 
 > 注意：製品名や攻撃グループ名の一部は、音声認識の結果が不確かです。該当箇所には注記を付けています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK321](https://ignite.microsoft.com/en-US/sessions/BRK321)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK321](https://ignite.microsoft.com/en-US/sessions/BRK321)\
+YouTube URL: [https://www.youtube.com/watch?v=tqkkDA5FYwI](https://www.youtube.com/watch?v=tqkkDA5FYwI)
 
 ## 2. 発表者
 

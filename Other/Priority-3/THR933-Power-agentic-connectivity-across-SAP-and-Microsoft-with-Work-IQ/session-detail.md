@@ -11,7 +11,8 @@
 
 発表の途中で、autopilot を使って「Copilot と Joule の連携を 3 分で一から作る」という趣旨のデモ（録画）が上映されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR933](https://ignite.microsoft.com/en-US/sessions/THR933)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR933](https://ignite.microsoft.com/en-US/sessions/THR933)\
+YouTube URL: [https://www.youtube.com/watch?v=CSs0BI0_kVM](https://www.youtube.com/watch?v=CSs0BI0_kVM)
 
 ## 2. 発表者
 

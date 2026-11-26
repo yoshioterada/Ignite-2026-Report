@@ -8,7 +8,8 @@
 
 発表の要点は、**Copilot が組織について正確に答えるには「質の高い人事データ」と「自社の用語や指標の定義（コンテキスト）」の両方が必要であり、その両方を整える導線が用意されている**ことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR853](https://ignite.microsoft.com/en-US/sessions/THR853)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR853](https://ignite.microsoft.com/en-US/sessions/THR853)\
+YouTube URL: [https://www.youtube.com/watch?v=dHKrofLTF4E](https://www.youtube.com/watch?v=dHKrofLTF4E)
 
 ## 2. 発表者
 

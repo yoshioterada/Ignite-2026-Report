@@ -6,7 +6,8 @@
 
 冒頭で語られる大きな主張は、営業担当者やサービス担当者が **CRM アプリを開かなくても、Copilot、Teams、Outlook といった普段の作業場所で CRM の価値を受け取れるようにする**ということです。その実例として、EY（グローバル営業変革での全社展開）と MSC（Mediterranean Shipping Company、カスタマーサービスの自動化）の取り組みが語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK385](https://ignite.microsoft.com/en-US/sessions/BRK385)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK385](https://ignite.microsoft.com/en-US/sessions/BRK385)\
+YouTube URL: [https://www.youtube.com/watch?v=DpU1UbPNqOU](https://www.youtube.com/watch?v=DpU1UbPNqOU)
 
 ## 2. 発表者
 

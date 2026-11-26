@@ -6,7 +6,8 @@
 
 目玉は **Azure HorizonDB（PostgreSQL のクラウドネイティブ版）の GA** です。ほかにも、Fabric 上で OLTP と OLAP を 1 つの PostgreSQL 接続でまとめて扱う仕組み、Cosmos DB の新しい AI 機能、モダナイゼーション支援の Azure Catalyst（パブリックプレビュー）、データベース群を横断して監視・診断する Database Hub と database agents が紹介されました。デモが 4 回あり、HorizonDB のベンチマーク、HorizonDB の機能紹介、Fabric を使ったアプリ開発と高速化、database agents による性能問題の調査が実演されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK362](https://ignite.microsoft.com/en-US/sessions/BRK362)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK362](https://ignite.microsoft.com/en-US/sessions/BRK362)\
+YouTube URL: [https://www.youtube.com/watch?v=elx2sMWmUmc](https://www.youtube.com/watch?v=elx2sMWmUmc)
 
 ## 2. 発表者
 

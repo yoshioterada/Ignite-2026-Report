@@ -12,7 +12,8 @@
 
 画面を使ったデモが 3 回あります。Joule Studio でのエージェント作成、AI Agent Hub を中心とするガバナンス画面、BDC Connect のセットアップです。BDC Connect の Fabric 連携は、発表時点でプライベートプレビューで、GA（一般提供）は 3 月を予定していると説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP625](https://ignite.microsoft.com/en-US/sessions/BRKSP625)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP625](https://ignite.microsoft.com/en-US/sessions/BRKSP625)\
+YouTube URL: [https://www.youtube.com/watch?v=wq35fS1Dey4](https://www.youtube.com/watch?v=wq35fS1Dey4)
 
 ## 2. 発表者
 

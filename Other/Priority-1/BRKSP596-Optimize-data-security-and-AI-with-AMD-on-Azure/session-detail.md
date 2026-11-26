@@ -13,7 +13,8 @@
 
 VM のシリーズ選びや、データベース、機密データの保護、AI パイプラインのコンピュート基盤に関心がある IT 技術者に向いた内容です。このセッションでは画面を使ったデモは行われていません（スライド、動画、口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP596](https://ignite.microsoft.com/en-US/sessions/BRKSP596)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP596](https://ignite.microsoft.com/en-US/sessions/BRKSP596)\
+YouTube URL: [https://www.youtube.com/watch?v=92c4e5jDWbE](https://www.youtube.com/watch?v=92c4e5jDWbE)
 
 ## 2. 発表者
 

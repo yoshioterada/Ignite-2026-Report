@@ -6,7 +6,8 @@
 
 主張の中心は、**エージェントを作るのは簡単でも、評価・バージョン管理・コスト・セキュリティ・ガバナンスを整えなければ、2 つ目、3 つ目のエージェントが 1 つ目と同じ手間のかかるものになる**という点です。エージェント開発の本番化では、従来のプログラムとは考え方を変える必要があると繰り返し述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR934](https://ignite.microsoft.com/en-US/sessions/THR934)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR934](https://ignite.microsoft.com/en-US/sessions/THR934)\
+YouTube URL: [https://www.youtube.com/watch?v=RkZsM1GjuZE](https://www.youtube.com/watch?v=RkZsM1GjuZE)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 最も重要な主張は、人間の従業員やベンダーを守るために身につけた知見があれば、自律型エージェントを守るために必要なことの **80〜90%** までは到達できる、という点です。エージェント向けに追加で必要になる作業は、主に 2 つの要素に絞られると説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK212](https://ignite.microsoft.com/en-US/sessions/BRK212)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK212](https://ignite.microsoft.com/en-US/sessions/BRK212)\
+YouTube URL: [https://www.youtube.com/watch?v=EMVugNb9jb4](https://www.youtube.com/watch?v=EMVugNb9jb4)
 
 ## 2. 発表者
 

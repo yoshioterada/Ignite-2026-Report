@@ -8,7 +8,8 @@
 
 > 注意：セッションのタイトルには「最大 50% の ROI」とありますが、50% という数値は発話では語られていません。語られた ROI の数値は、Forrester の調査にある 3 年間で 135% 超です（5.4 節）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR908](https://ignite.microsoft.com/en-US/sessions/THR908)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR908](https://ignite.microsoft.com/en-US/sessions/THR908)\
+YouTube URL: [https://www.youtube.com/watch?v=CYhy09vFmxo](https://www.youtube.com/watch?v=CYhy09vFmxo)
 
 ## 2. 発表者
 

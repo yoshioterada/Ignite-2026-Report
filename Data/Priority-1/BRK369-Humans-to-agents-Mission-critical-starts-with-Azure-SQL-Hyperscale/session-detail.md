@@ -8,7 +8,8 @@
 
 デモは 4 本（serverless と elastic pool と cross-database query、ベクトル検索のスケール、エージェント、automatic index compaction）あります。画面の細部は音声からは分からないため、語られた範囲のみを書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK369](https://ignite.microsoft.com/en-US/sessions/BRK369)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK369](https://ignite.microsoft.com/en-US/sessions/BRK369)\
+YouTube URL: [https://www.youtube.com/watch?v=Upm5aN0z_s4](https://www.youtube.com/watch?v=Upm5aN0z_s4)
 
 ## 2. 発表者
 

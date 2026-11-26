@@ -8,7 +8,8 @@
 
 なお、このセッションは多くのテーマを広く紹介する（breadth-first）構成で、個別のテーマ（ハーネスの使い分けなど）の詳細は別セッションで扱われると、Ashvini 氏が説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK265](https://ignite.microsoft.com/en-US/sessions/BRK265)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK265](https://ignite.microsoft.com/en-US/sessions/BRK265)\
+YouTube URL: [https://www.youtube.com/watch?v=EysVZqlGoUw](https://www.youtube.com/watch?v=EysVZqlGoUw)
 
 ## 2. 発表者
 

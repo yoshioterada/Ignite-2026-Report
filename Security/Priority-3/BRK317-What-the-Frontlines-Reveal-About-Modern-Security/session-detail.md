@@ -8,7 +8,8 @@
 
 具体例として、ClickFix という手口の新しい変種を追った調査（28 本の長いスクリプトを解析した事例）と、2 つの攻撃グループが同時に入り込んでいたランサムウェア事案が紹介されます。なお、このセッションでは画面を使ったライブデモは行われておらず、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK317](https://ignite.microsoft.com/en-US/sessions/BRK317)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK317](https://ignite.microsoft.com/en-US/sessions/BRK317)\
+YouTube URL: [https://www.youtube.com/watch?v=Pv4_Y7NJ0wI](https://www.youtube.com/watch?v=Pv4_Y7NJ0wI)
 
 ## 2. 発表者
 

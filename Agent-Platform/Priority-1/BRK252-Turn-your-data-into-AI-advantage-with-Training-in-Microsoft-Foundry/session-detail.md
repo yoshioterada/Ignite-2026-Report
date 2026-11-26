@@ -8,7 +8,8 @@
 
 結論を先に書くと、発表の主張は **「フロンティアモデルで価値が出せることを確認したうえで、自社の IP（データ・知識）を使って小さなモデルを育てれば、高い性能を保ちながらコストを大きく下げられる」** ということです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK252](https://ignite.microsoft.com/en-US/sessions/BRK252)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK252](https://ignite.microsoft.com/en-US/sessions/BRK252)\
+YouTube URL: [https://www.youtube.com/watch?v=0YYnTOrqO98](https://www.youtube.com/watch?v=0YYnTOrqO98)
 
 ## 2. 発表者
 

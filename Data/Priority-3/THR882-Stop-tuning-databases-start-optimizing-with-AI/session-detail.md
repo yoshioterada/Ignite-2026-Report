@@ -8,7 +8,8 @@
 
 発表は 25 分ほどの短いセッションで、Visual Studio Code の Postgres 拡張機能を使った画面デモが中心です。デモは、インデックス不足による CPU 高騰、長時間セッションによる接続枯渇、そして MCP サーバー経由で Copilot に調査内容を問い合わせる流れの 3 つです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR882](https://ignite.microsoft.com/en-US/sessions/THR882)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR882](https://ignite.microsoft.com/en-US/sessions/THR882)\
+YouTube URL: [https://www.youtube.com/watch?v=ip7Nx8MLxzs](https://www.youtube.com/watch?v=ip7Nx8MLxzs)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 全体を貫く答えは、**「ワークロードごとに、パブリッククラウド、ハイブリッド（Azure Local 接続型）、切断型（disconnected）のどこで動かすかを選ぶ。選択は後から変えられる」** というものです。画面を使ったデモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1025](https://ignite.microsoft.com/en-US/sessions/THR1025)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1025](https://ignite.microsoft.com/en-US/sessions/THR1025)\
+YouTube URL: [https://www.youtube.com/watch?v=EDVi4DnNBno](https://www.youtube.com/watch?v=EDVi4DnNBno)
 
 ## 2. 発表者
 

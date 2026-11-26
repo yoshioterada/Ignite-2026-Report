@@ -12,7 +12,8 @@
 - どの入口から作ったアプリも、同じ場所に載って同じガバナンスを受けること
 - 管理者が Microsoft Admin Center で何を設定・確認できるのか
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK378](https://ignite.microsoft.com/en-US/sessions/BRK378)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK378](https://ignite.microsoft.com/en-US/sessions/BRK378)\
+YouTube URL: [https://www.youtube.com/watch?v=UvhBVhnm9Vg](https://www.youtube.com/watch?v=UvhBVhnm9Vg)
 
 ## 2. 発表者
 

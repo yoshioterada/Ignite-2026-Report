@@ -8,7 +8,8 @@
 
 セッションの中盤で、画面を使ったライブデモが行われます。チケット販売のデータに、Bot によるものと見立てた異常な販売が混ざった状況を、T-SQL のループで作り、Fabric の Event House で KQL を使って検知します。デモは約 7 分で、登壇者は、編集した動画ではなくすべてライブだと強調しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1018](https://ignite.microsoft.com/en-US/sessions/THR1018)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1018](https://ignite.microsoft.com/en-US/sessions/THR1018)\
+YouTube URL: [https://www.youtube.com/watch?v=p0nu4v1lTuQ](https://www.youtube.com/watch?v=p0nu4v1lTuQ)
 
 ## 2. 発表者
 

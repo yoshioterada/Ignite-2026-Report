@@ -8,7 +8,8 @@
 
 発表全体の主張は、**AI とエージェントを活かすにはデータ基盤の整備が出発点であり、Fabric Data Factory はそのための統合・変換・配布・オーケストレーションを同じプラットフォーム上で提供する**、というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK353](https://ignite.microsoft.com/en-US/sessions/BRK353)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK353](https://ignite.microsoft.com/en-US/sessions/BRK353)\
+YouTube URL: [https://www.youtube.com/watch?v=MbHxAdZqUd0](https://www.youtube.com/watch?v=MbHxAdZqUd0)
 
 ## 2. 発表者
 

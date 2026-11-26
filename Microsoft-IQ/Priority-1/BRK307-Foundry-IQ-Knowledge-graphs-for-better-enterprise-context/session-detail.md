@@ -14,7 +14,8 @@
 
 > 補足：公式概要には「Microsoft がホストする agentic retriever（モデル容量を自分で用意しなくてよいもの）」も紹介すると書かれています。しかし、トランスクリプトではこの話題は確認できませんでした。この文書でも扱いません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK307](https://ignite.microsoft.com/en-US/sessions/BRK307)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK307](https://ignite.microsoft.com/en-US/sessions/BRK307)\
+YouTube URL: [https://www.youtube.com/watch?v=hqqrvyVSOpo](https://www.youtube.com/watch?v=hqqrvyVSOpo)
 
 ## 2. 発表者
 

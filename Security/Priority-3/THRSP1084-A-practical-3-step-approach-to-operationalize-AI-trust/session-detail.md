@@ -8,7 +8,8 @@
 
 > 注意：セッションの後半は、登壇者の会社の製品を使った説明です。Microsoft の製品への言及（Agent 365、Purview）は、製品名を挙げた程度にとどまります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1084](https://ignite.microsoft.com/en-US/sessions/THRSP1084)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1084](https://ignite.microsoft.com/en-US/sessions/THRSP1084)\
+YouTube URL: [https://www.youtube.com/watch?v=3uQN2OBDdsI](https://www.youtube.com/watch?v=3uQN2OBDdsI)
 
 ## 2. 発表者
 

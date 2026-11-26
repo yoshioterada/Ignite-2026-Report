@@ -15,7 +15,8 @@
 
 なお、このセッションでは画面を使ったデモは行われていません。スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP610](https://ignite.microsoft.com/en-US/sessions/BRKSP610)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP610](https://ignite.microsoft.com/en-US/sessions/BRKSP610)\
+YouTube URL: [https://www.youtube.com/watch?v=-4U2nwth3ag](https://www.youtube.com/watch?v=-4U2nwth3ag)
 
 ## 2. 発表者
 

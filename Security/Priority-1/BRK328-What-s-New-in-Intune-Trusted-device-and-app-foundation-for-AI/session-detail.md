@@ -6,7 +6,8 @@
 
 内容は大きく 3 つの段階で進みます。まず管理対象（estate）の広がりと、そこから得られる情報の速さ・新しさ・網羅性。次にアプリと構成の管理（governance）。最後に、変更が届いたかの検証、ドリフト（設定のずれ）の検知、復旧です。デモが多く、サーバー管理、同期の高速化、アプリインベントリ、CIS ベンチマーク、Multi-admin approval、Deployment plans、Windows Device Health、unassisted remote help、脆弱性対応のエージェントなどが画面で紹介されました。Wells Fargo の Kevin Odom 氏との対談も含まれます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK328](https://ignite.microsoft.com/en-US/sessions/BRK328)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK328](https://ignite.microsoft.com/en-US/sessions/BRK328)\
+YouTube URL: [https://www.youtube.com/watch?v=hS-sSjcSQag](https://www.youtube.com/watch?v=hS-sSjcSQag)
 
 ## 2. 発表者
 

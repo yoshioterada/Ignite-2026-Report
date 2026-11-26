@@ -6,7 +6,8 @@
 
 発表の主題は「GPU が足りないのではなく、使い方（適切なサイズと適合）の問題だ」という点です。導入初日（day 0）に適切な SKU を選ぶ段階と、稼働後（day N）に推論が遅くなる原因を見つけて直す段階の 2 つについて、合計 3 つのデモを交えて説明します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1028](https://ignite.microsoft.com/en-US/sessions/THR1028)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1028](https://ignite.microsoft.com/en-US/sessions/THR1028)\
+YouTube URL: [https://www.youtube.com/watch?v=3erDLd5avSc](https://www.youtube.com/watch?v=3erDLd5avSc)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 > 注意：公式の概要には、planner、WebIQ research agent、validator がグラフ上で動くライブビルドを見せるとありますが、トランスクリプトからは、そのような構成を実際に組み上げる場面は確認できませんでした。登壇者自身も、時間を見誤って高レベルの紹介に絞ったと述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR929](https://ignite.microsoft.com/en-US/sessions/THR929)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR929](https://ignite.microsoft.com/en-US/sessions/THR929)\
+YouTube URL: [https://www.youtube.com/watch?v=AKM9dZmbUww](https://www.youtube.com/watch?v=AKM9dZmbUww)
 
 ## 2. 発表者
 

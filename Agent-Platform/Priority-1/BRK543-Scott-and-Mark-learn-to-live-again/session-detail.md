@@ -8,7 +8,8 @@
 
 > 補足：トランスクリプトには Mark 氏と Scott 氏の話者ラベルがあります。ただしラベルは発言者が切り替わる箇所にしか付かないため、連続した長い発言では誰の言葉か確定できない部分があります。そうした箇所は「登壇者」と書いています。また、固有名詞（プロジェクト名やモデル名）には音声認識の誤りが疑われるものが多く、本資料では聞こえた綴りに注記を付けています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK543](https://ignite.microsoft.com/en-US/sessions/BRK543)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK543](https://ignite.microsoft.com/en-US/sessions/BRK543)\
+YouTube URL: [https://www.youtube.com/watch?v=xovJYj-tGnQ](https://www.youtube.com/watch?v=xovJYj-tGnQ)
 
 ## 2. 発表者
 

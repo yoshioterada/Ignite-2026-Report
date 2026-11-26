@@ -6,7 +6,8 @@
 
 構成は 3 部です。最初に Komatsu の Raghu Balam 氏が、社内で AI を広げる際の課題と、共通の AI 基盤を作った経緯を話します。次に Microsoft の 2 人の Principal Product Manager が、ゲートウェイのポータルを使ったデモを続けて見せます。最後に Raghu 氏が戻り、ゲートウェイを導入して得られた 4 つの利点を説明します。デモでは、モデルの登録、Entra による認証、MCP サーバーの登録、429 エラーへの対処、ログに混入したシークレットの遮断、複数の MCP サーバーの束ね方、自動モデル選択までが、一連の流れで紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK425](https://ignite.microsoft.com/en-US/sessions/BRK425)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK425](https://ignite.microsoft.com/en-US/sessions/BRK425)\
+YouTube URL: [https://www.youtube.com/watch?v=wK9o51K5yVg](https://www.youtube.com/watch?v=wK9o51K5yVg)
 
 ## 2. 発表者
 

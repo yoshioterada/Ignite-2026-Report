@@ -6,7 +6,8 @@
 
 最初に押さえておきたい点は 2 つあります。1 つは、Sitecore がキャッシュとしてだけでなく、エンティティデータの保存先とメッセージブローカーとしても Redis を使っているという事例です。もう 1 つは、キャッシュの追加はパフォーマンスを上げる一方で複雑さも増やすため、先にデータベース側の最適化を検討すべきだという考え方です。本番運用の落とし穴を確認する Azure Managed Redis Agent Kit（パブリックプレビュー）のデモもあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK374](https://ignite.microsoft.com/en-US/sessions/BRK374)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK374](https://ignite.microsoft.com/en-US/sessions/BRK374)\
+YouTube URL: [https://www.youtube.com/watch?v=yI9MA0K_fk0](https://www.youtube.com/watch?v=yI9MA0K_fk0)
 
 ## 2. 発表者
 

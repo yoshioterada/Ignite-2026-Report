@@ -6,7 +6,8 @@
 
 全体を貫くのは、**「チャネル第一、Marketplace で提供する」**という考え方です。画面を使ったデモは行われておらず、スライドと口頭の説明が中心です。各ヒントにドーナツの種類が割り当てられ、ヒントの切り替えごとに会場が拍手や歓声で応じる、参加型の進行でした。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR935](https://ignite.microsoft.com/en-US/sessions/THR935)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR935](https://ignite.microsoft.com/en-US/sessions/THR935)\
+YouTube URL: [https://www.youtube.com/watch?v=3z8pa5Gbqu8](https://www.youtube.com/watch?v=3z8pa5Gbqu8)
 
 ## 2. 発表者
 

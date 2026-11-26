@@ -6,7 +6,8 @@
 
 前半（Mario Lopez 氏）は、ワークロードを分離する（isolation）ことを基本に、PrivateLink、service endpoints、NSP、VNet の拡張性に関する新機能や上限引き上げを順に紹介します。後半（Akshay Agrawal 氏）は、AI のトラフィック増加を背景に、Load Balancer での VIP の分け方、default outbound access をやめて明示的な egress に移ること、Standard V2 NAT Gateway の特徴を説明します。AI ワークロードのネットワーク構成を設計・見直す方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1027](https://ignite.microsoft.com/en-US/sessions/THR1027)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1027](https://ignite.microsoft.com/en-US/sessions/THR1027)\
+YouTube URL: [https://www.youtube.com/watch?v=8hl-ht4_ueA](https://www.youtube.com/watch?v=8hl-ht4_ueA)
 
 ## 2. 発表者
 

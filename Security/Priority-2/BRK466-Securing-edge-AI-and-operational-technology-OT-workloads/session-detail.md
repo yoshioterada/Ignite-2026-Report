@@ -6,7 +6,8 @@
 
 話の骨組みは、産業 AI が依存する 3 つの資産、つまり**産業用資産（機器・基盤）、モデル、データ**です。それぞれについて、機能の説明とデモが行われ、途中で複数の新しい発表（一般提供、プレビュー、パートナーの参加）も告げられました。発表者の考えは、基盤のセキュリティだけ、モデルの保護だけ、データ統制だけでは足りず、**これらを補い合う層として組み合わせる**必要がある、というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK466](https://ignite.microsoft.com/en-US/sessions/BRK466)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK466](https://ignite.microsoft.com/en-US/sessions/BRK466)\
+YouTube URL: [https://www.youtube.com/watch?v=ieGAbTRnpv4](https://www.youtube.com/watch?v=ieGAbTRnpv4)
 
 ## 2. 発表者
 

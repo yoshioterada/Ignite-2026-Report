@@ -6,7 +6,8 @@
 
 発表者は、これを**業界初**の資格タイプだと説明しています。評価は試験ではなく、製品の利用状況を示すテレメトリ（利用データ）から行われます。参加は完全に任意（オプトイン）で、既定では非公開です。発表では、評価の枠組み、5 つのレベル、現在の提供範囲、今後の予定、獲得後の共有方法が順に語られました。画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR955](https://ignite.microsoft.com/en-US/sessions/THR955)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR955](https://ignite.microsoft.com/en-US/sessions/THR955)\
+YouTube URL: [https://www.youtube.com/watch?v=oC1jf-0Jq8A](https://www.youtube.com/watch?v=oC1jf-0Jq8A)
 
 ## 2. 発表者
 

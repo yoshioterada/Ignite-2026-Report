@@ -8,7 +8,8 @@
 
 セッションの最後には、1 月に備えて今すぐやるべきことが 3 つ示されます。このセッションでは、画面を使ったライブデモは行われていません。事前に作られた 2 本の動画とスライドを使って説明が進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK509](https://ignite.microsoft.com/en-US/sessions/BRK509)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK509](https://ignite.microsoft.com/en-US/sessions/BRK509)\
+YouTube URL: [https://www.youtube.com/watch?v=UJxvljD3NTA](https://www.youtube.com/watch?v=UJxvljD3NTA)
 
 ## 2. 発表者
 

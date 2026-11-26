@@ -6,7 +6,8 @@
 
 メールの生産性向上のような話は、インフラを扱う人にはあまり関係がありません。そこで発表者は、IT の現場にありがちな「PowerShell スクリプトを USB メモリで持ち歩く」という例から始め、個人の作業 → チーム → 他部門 → 大規模な業務という順に AI の使い方を広げていく考え方を示しました。デモは 2 つあります。GitHub Copilot アプリで Git リポジトリを会話だけで作るデモと、Microsoft のネットワークエンジニアリングチームの AI エージェントが作った動画の上映です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR965](https://ignite.microsoft.com/en-US/sessions/THR965)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR965](https://ignite.microsoft.com/en-US/sessions/THR965)\
+YouTube URL: [https://www.youtube.com/watch?v=4ylWe4hKkpU](https://www.youtube.com/watch?v=4ylWe4hKkpU)
 
 ## 2. 発表者
 

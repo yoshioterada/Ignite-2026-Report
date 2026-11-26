@@ -6,7 +6,8 @@
 
 結論は、**AI の請求書だけでは AI に価値があるかどうかは分からず、IT と事業部門が一緒に答えを出す必要がある**というものです。発表者は、最後に IT 側と事業側の両方が「友人」になって帰ってほしいと述べています。デモは行われておらず、スライドと口頭の説明で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR967](https://ignite.microsoft.com/en-US/sessions/THR967)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR967](https://ignite.microsoft.com/en-US/sessions/THR967)\
+YouTube URL: [https://www.youtube.com/watch?v=1vEbP5FSztY](https://www.youtube.com/watch?v=1vEbP5FSztY)
 
 ## 2. 発表者
 

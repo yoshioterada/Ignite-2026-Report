@@ -6,7 +6,8 @@
 
 特に覚えておきたい点は、Microsoft Marketplace は「Microsoft が売る場所ではなく、ソフトウェア企業が売る場所」だという位置づけと、出品を支援する **Frontier Accelerate for Marketplace** というプログラムが用意されている点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK447](https://ignite.microsoft.com/en-US/sessions/BRK447)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK447](https://ignite.microsoft.com/en-US/sessions/BRK447)\
+YouTube URL: [https://www.youtube.com/watch?v=FYTXNCj-2Zg](https://www.youtube.com/watch?v=FYTXNCj-2Zg)
 
 ## 2. 発表者
 

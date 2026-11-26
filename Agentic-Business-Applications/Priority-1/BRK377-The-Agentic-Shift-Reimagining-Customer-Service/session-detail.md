@@ -8,7 +8,8 @@
 
 Dynamics 365 Customer Service を使っている方、これから AI エージェントを導入したい方に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK377](https://ignite.microsoft.com/en-US/sessions/BRK377)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK377](https://ignite.microsoft.com/en-US/sessions/BRK377)\
+YouTube URL: [https://www.youtube.com/watch?v=YVHKMxcKZmU](https://www.youtube.com/watch?v=YVHKMxcKZmU)
 
 ## 2. 発表者
 

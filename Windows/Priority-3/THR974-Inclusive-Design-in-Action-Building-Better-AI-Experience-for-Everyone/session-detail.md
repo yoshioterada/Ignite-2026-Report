@@ -14,7 +14,8 @@ Christina 氏が繰り返し訴えるのは、アクセシビリティを監査�
 
 終盤に Q&A の呼びかけがありましたが、トランスクリプトには会場からの質問は記録されていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR974](https://ignite.microsoft.com/en-US/sessions/THR974)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR974](https://ignite.microsoft.com/en-US/sessions/THR974)\
+YouTube URL: [https://www.youtube.com/watch?v=NB208nN-9Es](https://www.youtube.com/watch?v=NB208nN-9Es)
 
 ## 2. 発表者
 

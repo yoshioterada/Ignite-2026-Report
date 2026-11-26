@@ -6,7 +6,8 @@
 
 話の核心は 2 つあります。1 つは、AI の導入は技術の用意で終わらず、**仕事そのものの変革**が本題だということです。もう 1 つは、研修は講座から始めずに**仕事から始める**べきだという考えです。AI を既存の業務に足すだけでは時間が浮いても利益に結びつきにくいので、業務の流れ全体を AI 前提で組み替え、そのうえで新しい役割とスキルを決める、という順序が語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR946](https://ignite.microsoft.com/en-US/sessions/THR946)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR946](https://ignite.microsoft.com/en-US/sessions/THR946)\
+YouTube URL: [https://www.youtube.com/watch?v=MB85Lyl2wZE](https://www.youtube.com/watch?v=MB85Lyl2wZE)
 
 ## 2. 発表者
 

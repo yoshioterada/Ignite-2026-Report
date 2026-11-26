@@ -8,7 +8,8 @@
 
 結論として、Rachel 氏は、**AI を使えるようにする学習と、人間ならではのスキルの学習を並行して進めること**、そして実験をいつまでも増やさず、本番運用に向けて絞り込むことを勧めています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR944](https://ignite.microsoft.com/en-US/sessions/THR944)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR944](https://ignite.microsoft.com/en-US/sessions/THR944)\
+YouTube URL: [https://www.youtube.com/watch?v=chL3ot7jq1o](https://www.youtube.com/watch?v=chL3ot7jq1o)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 発表の中心にある主張は、**エンタープライズ向けのエージェントは「一度デプロイして終わり」ではなく、継続して見守り、調整し、改善し続ける運用の営み**だという点です。ESS エージェントがすぐに使える完成品（turnkey）ではないことも、繰り返し強調されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK239](https://ignite.microsoft.com/en-US/sessions/BRK239)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK239](https://ignite.microsoft.com/en-US/sessions/BRK239)\
+YouTube URL: [https://www.youtube.com/watch?v=25m8XGEeA10](https://www.youtube.com/watch?v=25m8XGEeA10)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 画面を使ったデモは Turbo Tier について行われています。ただし時間が押したため、後半は駆け足の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK434](https://ignite.microsoft.com/en-US/sessions/BRK434)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK434](https://ignite.microsoft.com/en-US/sessions/BRK434)\
+YouTube URL: [https://www.youtube.com/watch?v=d-_OIhX7920](https://www.youtube.com/watch?v=d-_OIhX7920)
 
 ## 2. 発表者
 

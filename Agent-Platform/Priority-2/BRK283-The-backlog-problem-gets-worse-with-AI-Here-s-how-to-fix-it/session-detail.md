@@ -6,7 +6,8 @@
 
 発表者が最初に会場へ挙手で尋ねたところ、GitHub の利用経験者は多く、開発者とアプリケーションセキュリティ担当がおよそ半々でした。そのため基礎（101）から中級（201、301）まで順に触れる構成になっています。**最も重視されたメッセージは、問題が起きてから対処するより、起こさない仕組み（予防）を先に整える**という点です。発表で示された機能は、github.com で一般提供（GA）またはパブリックプレビューの段階にあり、今すぐ試せるとのことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK283](https://ignite.microsoft.com/en-US/sessions/BRK283)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK283](https://ignite.microsoft.com/en-US/sessions/BRK283)\
+YouTube URL: [https://www.youtube.com/watch?v=Z5NssUvBICY](https://www.youtube.com/watch?v=Z5NssUvBICY)
 
 ## 2. 発表者
 

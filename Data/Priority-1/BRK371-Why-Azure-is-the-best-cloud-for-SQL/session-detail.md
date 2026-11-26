@@ -6,7 +6,8 @@
 
 モダナイズの進め方は、Azure Catalyst で環境全体を調べて計画し、データベースを Azure SQL Database Hyperscale に移し、Microsoft Foundry で AI を足し、Database Hub と database agents で運用する、という道筋として提示されました。顧客事例として H&R Block の Sameer Agarwal 氏が、SQL Server への移行から Azure SQL Hyperscale への標準化まで、8 年間の経験を語っています。デモは 3 本あり、いずれも Pam 氏が担当しました（6 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK371](https://ignite.microsoft.com/en-US/sessions/BRK371)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK371](https://ignite.microsoft.com/en-US/sessions/BRK371)\
+YouTube URL: [https://www.youtube.com/watch?v=hDeTOJhE0ic](https://www.youtube.com/watch?v=hDeTOJhE0ic)
 
 ## 2. 発表者
 

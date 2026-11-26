@@ -8,7 +8,8 @@
 
 画面を操作するデモはなく、冒頭の日立グループ紹介動画のほか、Hagerstown 工場とサプライチェーンの例の 2 本の動画が上映されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP600](https://ignite.microsoft.com/en-US/sessions/BRKSP600)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP600](https://ignite.microsoft.com/en-US/sessions/BRKSP600)\
+YouTube URL: [https://www.youtube.com/watch?v=gE3R3IrjJkA](https://www.youtube.com/watch?v=gE3R3IrjJkA)
 
 ## 2. 発表者
 

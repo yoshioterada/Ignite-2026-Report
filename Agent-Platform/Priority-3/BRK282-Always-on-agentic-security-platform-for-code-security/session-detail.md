@@ -8,7 +8,8 @@
 
 後半の Q&A では、深いスキャン（deep scan）と Emdash の関係、red team / blue team / green team との関係、既存のセキュリティツールとの置き換えやライセンスといった質問に答えています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK282](https://ignite.microsoft.com/en-US/sessions/BRK282)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK282](https://ignite.microsoft.com/en-US/sessions/BRK282)\
+YouTube URL: [https://www.youtube.com/watch?v=0KTqC1AeS1s](https://www.youtube.com/watch?v=0KTqC1AeS1s)
 
 ## 2. 発表者
 

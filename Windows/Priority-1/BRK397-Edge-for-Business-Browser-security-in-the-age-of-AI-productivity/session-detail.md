@@ -6,7 +6,8 @@
 
 前半は、Edge for Business の Cowork、Skills Recorder、managed agent browsing、Remix、Interactive Brief などの AI 機能と、それらを統制する考え方（controls in depth）です。後半は、ブラウザを「第一級のエンドポイント」として守るための、更新、拡張機能、データ保護、BYOD、SOC 連携にまたがる機能群です。結論として、すでに M365 に投資している組織は、別の専用ブラウザを入れなくても Edge for Business で強固な土台を作れる、というのが全体の主張です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK397](https://ignite.microsoft.com/en-US/sessions/BRK397)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK397](https://ignite.microsoft.com/en-US/sessions/BRK397)\
+YouTube URL: [https://www.youtube.com/watch?v=WOnoA2BKNrc](https://www.youtube.com/watch?v=WOnoA2BKNrc)
 
 ## 2. 発表者
 

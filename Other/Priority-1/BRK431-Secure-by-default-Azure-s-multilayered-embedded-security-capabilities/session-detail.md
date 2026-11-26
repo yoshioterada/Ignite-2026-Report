@@ -6,7 +6,8 @@
 
 後半は AI がテーマです。エージェントを守る **Agent Grid**、AI でゼロデイ脆弱性への一時的な緩和策を作る **Azure Adaptive Virtual Patching**、Azure Firewall の新しい **AI Security アドオン**、Azure Bastion の **RDP vision / SSH vision** が、デモ付きで紹介されます。この記事は、これらの機能が何をするのか、発表で語られた範囲で把握したい方向けです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK431](https://ignite.microsoft.com/en-US/sessions/BRK431)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK431](https://ignite.microsoft.com/en-US/sessions/BRK431)\
+YouTube URL: [https://www.youtube.com/watch?v=C0HE_J0IAoQ](https://www.youtube.com/watch?v=C0HE_J0IAoQ)
 
 ## 2. 発表者
 

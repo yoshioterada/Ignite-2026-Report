@@ -6,7 +6,8 @@
 
 後半では、**Database Hub in Microsoft Fabric の一般提供（GA）**が発表されました。Arc に接続した SQL Server を含むデータベースを、フリートとして 1 か所で運用するためのものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK413](https://ignite.microsoft.com/en-US/sessions/BRK413)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK413](https://ignite.microsoft.com/en-US/sessions/BRK413)\
+YouTube URL: [https://www.youtube.com/watch?v=PJAIviKe8pY](https://www.youtube.com/watch?v=PJAIviKe8pY)
 
 ## 2. 発表者
 

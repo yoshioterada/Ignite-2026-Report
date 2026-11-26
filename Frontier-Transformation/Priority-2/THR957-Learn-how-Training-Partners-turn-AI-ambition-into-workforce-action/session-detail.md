@@ -6,7 +6,8 @@
 
 結論を先に挙げると、発表者は「AI は人間の視点から説明すべきだ」と考えています。実際に、資金の乏しい女子サッカークラブや 93 歳の学習者といった具体例を通して、その考えを示しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR957](https://ignite.microsoft.com/en-US/sessions/THR957)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR957](https://ignite.microsoft.com/en-US/sessions/THR957)\
+YouTube URL: [https://www.youtube.com/watch?v=oTVvFqKZOWI](https://www.youtube.com/watch?v=oTVvFqKZOWI)
 
 ## 2. 発表者
 

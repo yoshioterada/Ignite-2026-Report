@@ -6,7 +6,8 @@
 
 内容の中心は、エージェントのアイデンティティ（委任された権限）、セルラーアーキテクチャ（cellular architecture）、耐障害性のあるエージェント実行、micro VM によるサンドボックス、ミニアプリのデプロイ基盤です。これらを Azure 上のシングルテナント構成、あるいは今年後半に提供予定の Cloud Prem で動かす考え方が語られます。発表の冒頭では、Replit のクラウドエージェントにドキュメント更新を依頼するデモも行われています。最後の約 2 分は、聴衆からの 2 つの質問への回答です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK548](https://ignite.microsoft.com/en-US/sessions/BRK548)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK548](https://ignite.microsoft.com/en-US/sessions/BRK548)\
+YouTube URL: [https://www.youtube.com/watch?v=mzQiTgfOabc](https://www.youtube.com/watch?v=mzQiTgfOabc)
 
 ## 2. 発表者
 

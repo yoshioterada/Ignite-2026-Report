@@ -6,7 +6,8 @@
 
 今回の新発表の中心は、**ラベルが付いていないファイルでも、含まれている機密情報の種類（SIT）に基づいて Copilot の grounding を DLP で止められる**ことです。さらに、DLP が Copilot のプロンプト内のファイルやリンクにも効くようになること、ローカルエージェントにも DLP を適用できることが発表されました。後半では、EY の Nick Granack 氏が、実際の顧客支援の経験から得た知見を語っています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK346](https://ignite.microsoft.com/en-US/sessions/BRK346)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK346](https://ignite.microsoft.com/en-US/sessions/BRK346)\
+YouTube URL: [https://www.youtube.com/watch?v=n1Mwe3UbPHY](https://www.youtube.com/watch?v=n1Mwe3UbPHY)
 
 ## 2. 発表者
 

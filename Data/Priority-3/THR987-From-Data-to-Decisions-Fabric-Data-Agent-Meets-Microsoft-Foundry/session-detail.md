@@ -8,7 +8,8 @@
 
 結論として、このシナリオでは「在庫切れが原因」という最初の仮説は覆されました（在庫切れだけが原因ではなく、プロモーションの問題が手がかりになりました）。ただし、発表者は、Foundry は何も変更せず、行動を決めるのは人だと繰り返し述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR987](https://ignite.microsoft.com/en-US/sessions/THR987)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR987](https://ignite.microsoft.com/en-US/sessions/THR987)\
+YouTube URL: [https://www.youtube.com/watch?v=4y0KrMzP-7I](https://www.youtube.com/watch?v=4y0KrMzP-7I)
 
 ## 2. 発表者
 

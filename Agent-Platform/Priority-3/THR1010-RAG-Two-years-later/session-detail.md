@@ -6,7 +6,8 @@
 
 登壇者は、まず用語（LLM、コンテキストウィンドウ、RAG）を手短に確認し、「なぜ RAG が重要か」「2 年前と何が違うか」を説明します。続いて、ヘルスケア系データ分析会社の事例（作業時間 80% 削減、ライセンス販売の増加）と、病院の作業指示（work order）システムを題材にした 2 つのデモを紹介します。デモでは、2 年前風の RAG と agentic search を左右に並べて比べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1010](https://ignite.microsoft.com/en-US/sessions/THR1010)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1010](https://ignite.microsoft.com/en-US/sessions/THR1010)\
+YouTube URL: [https://www.youtube.com/watch?v=2-_BP2j7O0s](https://www.youtube.com/watch?v=2-_BP2j7O0s)
 
 ## 2. 発表者
 

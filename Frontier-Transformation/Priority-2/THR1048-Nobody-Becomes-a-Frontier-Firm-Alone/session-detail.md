@@ -4,7 +4,8 @@
 
 このセッションは、Microsoft パートナー同士が連携することで、顧客にとっても自社にとっても Frontier Firm（フロンティア企業）に近づきやすくなる、という内容の短い発表です。登壇したのは、世界最大の Microsoft パートナーコミュニティである IAMCP（International Association of Microsoft Channel Partners）の 2 人です。パートナー間連携（Partner to Partner、以下 P2P）の考え方、実際の連携事例 2 件、IAMCP に参加する利点、新しい取り組み、当日夜の交流会の案内が語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1048](https://ignite.microsoft.com/en-US/sessions/THR1048)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1048](https://ignite.microsoft.com/en-US/sessions/THR1048)\
+YouTube URL: [https://www.youtube.com/watch?v=7zc6D2SZOo8](https://www.youtube.com/watch?v=7zc6D2SZOo8)
 
 ## 2. 発表者
 

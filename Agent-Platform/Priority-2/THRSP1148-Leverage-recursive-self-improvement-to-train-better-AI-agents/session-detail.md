@@ -6,7 +6,8 @@
 
 自己改善というと「システムが勝手に変わり、何が変わったか分からなくなる」という怖い話になりがちです。この発表は、**変更履歴、品質確認、人による公開判断を組み込むことで、自己改善を管理可能にする**手順を、3 つの段階に分けて説明しています。画面を使ったデモは行われておらず、短い紹介映像が 1 本上映されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1148](https://ignite.microsoft.com/en-US/sessions/THRSP1148)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1148](https://ignite.microsoft.com/en-US/sessions/THRSP1148)\
+YouTube URL: [https://www.youtube.com/watch?v=t40HNu1OjsI](https://www.youtube.com/watch?v=t40HNu1OjsI)
 
 ## 2. 発表者
 

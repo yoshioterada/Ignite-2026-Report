@@ -8,7 +8,8 @@
 
 リアルタイムデータやイベント駆動のアーキテクチャを、Fabric 上で組みたい方が、RTI の全体像と最新機能を把握するのに向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK357](https://ignite.microsoft.com/en-US/sessions/BRK357)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK357](https://ignite.microsoft.com/en-US/sessions/BRK357)\
+YouTube URL: [https://www.youtube.com/watch?v=EuOFkbupDvY](https://www.youtube.com/watch?v=EuOFkbupDvY)
 
 ## 2. 発表者
 

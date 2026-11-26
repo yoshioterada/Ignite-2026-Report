@@ -6,7 +6,8 @@
 
 話は「過去・現在・未来」の 3 部構成です。過去から取り残された Windows 依存のアプリを **App Service Managed Instance** で現在に持ち込み、コードに触れずに AI 機能を足し、さらに geo-redundancy、ポスト量子暗号の TLS、egress 制御、App Service Builder といった、App Service の新しい機能を見ていきます。発表者自身が「デモが盛りだくさんのセッション」と述べており、時間切れで Q&A は行われませんでした。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK449](https://ignite.microsoft.com/en-US/sessions/BRK449)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK449](https://ignite.microsoft.com/en-US/sessions/BRK449)\
+YouTube URL: [https://www.youtube.com/watch?v=L1Iwr3NtTRE](https://www.youtube.com/watch?v=L1Iwr3NtTRE)
 
 ## 2. 発表者
 

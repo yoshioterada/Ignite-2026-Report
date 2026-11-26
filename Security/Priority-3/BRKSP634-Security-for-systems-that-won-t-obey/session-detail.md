@@ -8,7 +8,8 @@
 
 なお、このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。質疑応答の時間もなく、発表は最後の質問の提示で終わっています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP634](https://ignite.microsoft.com/en-US/sessions/BRKSP634)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP634](https://ignite.microsoft.com/en-US/sessions/BRKSP634)\
+YouTube URL: [https://www.youtube.com/watch?v=h8PfA9KQRiM](https://www.youtube.com/watch?v=h8PfA9KQRiM)
 
 ## 2. 発表者
 

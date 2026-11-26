@@ -8,7 +8,8 @@
 
 > 補足：このセッションでは、画面を使ったライブ操作は行われていません。実際の PR を使った流れの紹介（6 章）が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK278](https://ignite.microsoft.com/en-US/sessions/BRK278)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK278](https://ignite.microsoft.com/en-US/sessions/BRK278)\
+YouTube URL: [https://www.youtube.com/watch?v=1Er0vLvkHII](https://www.youtube.com/watch?v=1Er0vLvkHII)
 
 ## 2. 発表者
 

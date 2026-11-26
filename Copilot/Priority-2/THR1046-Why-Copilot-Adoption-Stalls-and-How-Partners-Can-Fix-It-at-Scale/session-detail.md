@@ -6,7 +6,8 @@ Copilot を顧客に販売したパートナー向けの、約 17 分のセッ�
 
 前半は、導入が進まない 3 つの理由と、その対策の考え方です。後半は、仮想の業務環境で Copilot の使い方を練習させるトレーニング基盤のデモです。**導入の定着を「投資対効果（ROI）に直結する業務」に絞って進める**という方針が、全体の主張です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1046](https://ignite.microsoft.com/en-US/sessions/THR1046)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1046](https://ignite.microsoft.com/en-US/sessions/THR1046)\
+YouTube URL: [https://www.youtube.com/watch?v=Vs0JP45MnFA](https://www.youtube.com/watch?v=Vs0JP45MnFA)
 
 ## 2. 発表者
 

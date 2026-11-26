@@ -8,7 +8,8 @@
 
 > 注意：予定されていた共同登壇者の Kim Flagg Swartz 氏（FMOL Health）は、セッション中に到着しませんでした。そのため、同氏の導入成果の発表は行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK462](https://ignite.microsoft.com/en-US/sessions/BRK462)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK462](https://ignite.microsoft.com/en-US/sessions/BRK462)\
+YouTube URL: [https://www.youtube.com/watch?v=hATu85rJVx8](https://www.youtube.com/watch?v=hATu85rJVx8)
 
 ## 2. 発表者
 

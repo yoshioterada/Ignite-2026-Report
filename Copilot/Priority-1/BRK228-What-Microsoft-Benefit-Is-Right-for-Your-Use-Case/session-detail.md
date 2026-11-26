@@ -8,7 +8,8 @@
 
 結論として語られているのは、**テクノロジーだけでは成果は出ず、「専門家の支援」「投資の後押し」「スキル開発」の 3 つがそろったとき成果につながる**という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK228](https://ignite.microsoft.com/en-US/sessions/BRK228)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK228](https://ignite.microsoft.com/en-US/sessions/BRK228)\
+YouTube URL: [https://www.youtube.com/watch?v=qCoN4PaIOJc](https://www.youtube.com/watch?v=qCoN4PaIOJc)
 
 ## 2. 発表者
 

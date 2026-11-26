@@ -10,7 +10,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（発話は質疑応答が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR960](https://ignite.microsoft.com/en-US/sessions/THR960)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR960](https://ignite.microsoft.com/en-US/sessions/THR960)\
+YouTube URL: [https://www.youtube.com/watch?v=qEKfueSKR3s](https://www.youtube.com/watch?v=qEKfueSKR3s)
 
 ## 2. 発表者
 

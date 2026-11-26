@@ -8,7 +8,8 @@
 
 AKS や Foundry をすでに使っている開発者・プラットフォームエンジニアが、「既存の AKS 基盤を活かして AI ワークロードを動かす」道筋を知るための発表です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK420](https://ignite.microsoft.com/en-US/sessions/BRK420)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK420](https://ignite.microsoft.com/en-US/sessions/BRK420)\
+YouTube URL: [https://www.youtube.com/watch?v=eZRKLubrk-M](https://www.youtube.com/watch?v=eZRKLubrk-M)
 
 ## 2. 発表者
 

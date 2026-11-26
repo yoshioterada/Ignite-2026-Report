@@ -8,7 +8,8 @@
 
 デモは行われていません。スライドと口頭の説明、外部機関の測定結果の紹介が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP614](https://ignite.microsoft.com/en-US/sessions/BRKSP614)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP614](https://ignite.microsoft.com/en-US/sessions/BRKSP614)\
+YouTube URL: [https://www.youtube.com/watch?v=hV6loVv4Mts](https://www.youtube.com/watch?v=hV6loVv4Mts)
 
 ## 2. 発表者
 

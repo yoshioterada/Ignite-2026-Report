@@ -8,7 +8,8 @@
 
 結論を先に言うと、発表が示すゴールは **エージェントを「未知の攻撃対象領域」から「可観測・統制可能・防御可能なエンタープライズ資産」に変えること** です。そのために、(1) 全エージェントの棚卸し、(2) リスクの高いものからの是正、(3) 権限の適正化、(4) ランタイムでの保護、という 4 点が提示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK340](https://ignite.microsoft.com/en-US/sessions/BRK340)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK340](https://ignite.microsoft.com/en-US/sessions/BRK340)\
+YouTube URL: [https://www.youtube.com/watch?v=2yw316sqlKM](https://www.youtube.com/watch?v=2yw316sqlKM)
 
 ## 2. 発表者
 

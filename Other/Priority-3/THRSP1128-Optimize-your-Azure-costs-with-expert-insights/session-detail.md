@@ -8,7 +8,8 @@
 
 なお、このセッションは ProsperOps の製品紹介を含みます（7 章、8 章で、ベンダー側の主張であることを分けて書いています）。このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1128](https://ignite.microsoft.com/en-US/sessions/THRSP1128)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1128](https://ignite.microsoft.com/en-US/sessions/THRSP1128)\
+YouTube URL: [https://www.youtube.com/watch?v=zbOnrvIEiQo](https://www.youtube.com/watch?v=zbOnrvIEiQo)
 
 ## 2. 発表者
 

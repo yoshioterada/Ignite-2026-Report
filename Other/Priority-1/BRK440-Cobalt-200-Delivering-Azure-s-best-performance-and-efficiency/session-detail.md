@@ -6,7 +6,8 @@
 
 発表の中心は「価格性能（price performance）を高めるには、チップだけでなくサーバーやラック全体、さらにワークロードまで一緒に最適化する必要がある」という考え方です。Cobalt 100 と比べて最大 50% の性能向上、OpenAI の ChatGPT 基盤での本番トラフィックにおけるスループット 45% 向上といった数値が示されました。これから Arm64 への移行を検討している開発者・インフラ担当者に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK440](https://ignite.microsoft.com/en-US/sessions/BRK440)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK440](https://ignite.microsoft.com/en-US/sessions/BRK440)\
+YouTube URL: [https://www.youtube.com/watch?v=x5vaGSgZMg8](https://www.youtube.com/watch?v=x5vaGSgZMg8)
 
 ## 2. 発表者
 

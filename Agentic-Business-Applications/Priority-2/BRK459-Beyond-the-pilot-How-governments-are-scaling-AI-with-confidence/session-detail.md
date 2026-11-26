@@ -6,7 +6,8 @@
 
 発表の主張を一言でいえば、**パイロットと本格展開のあいだにあるのは技術の差ではなく、成果の定義・データとガバナンス・人の巻き込みの差であり、先行事例のパターンを借りれば最初からやり直さずに済む**、ということです。なお、画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK459](https://ignite.microsoft.com/en-US/sessions/BRK459)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK459](https://ignite.microsoft.com/en-US/sessions/BRK459)\
+YouTube URL: [https://www.youtube.com/watch?v=mGOMXmfBlE4](https://www.youtube.com/watch?v=mGOMXmfBlE4)
 
 ## 2. 発表者
 

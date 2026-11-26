@@ -6,7 +6,8 @@
 
 発表者は IT ヘルプデスクのエージェントを最初から作り、同じ依頼を標準ハーネスのエージェントと比較し、評価、監視、公開までを見せました。**画面を使ったデモが中心**のセッションです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR964](https://ignite.microsoft.com/en-US/sessions/THR964)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR964](https://ignite.microsoft.com/en-US/sessions/THR964)\
+YouTube URL: [https://www.youtube.com/watch?v=lpZCLh0baas](https://www.youtube.com/watch?v=lpZCLh0baas)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 流れは、ローカルの Azure SQL Database コンテナーの起動、PRD からのスキーマ設計、Data API Builder による API 生成、ネイティブのベクター型を使った RAG の構築、そしてクラウドへのデプロイです。ツールを何度も切り替えずに、1 つのエディターで 1 つのワークフローとして完結させる、というのが発表のねらいです。**ローカルコンテナーがクラウドの Azure SQL Database と同じエンジンで動くため、ローカルで作ったものをそのままクラウドへ持っていける**という点が、全体を貫く考え方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK373](https://ignite.microsoft.com/en-US/sessions/BRK373)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK373](https://ignite.microsoft.com/en-US/sessions/BRK373)\
+YouTube URL: [https://www.youtube.com/watch?v=MBKO_FnvW-w](https://www.youtube.com/watch?v=MBKO_FnvW-w)
 
 ## 2. 発表者
 

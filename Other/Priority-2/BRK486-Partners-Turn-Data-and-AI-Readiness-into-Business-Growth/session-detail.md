@@ -10,7 +10,8 @@
 - EY の事例（4 つの打ち手、数値、成功と失敗の教訓）
 - パートナーが得られる収益機会（大きな案件、継続収益、「一度作って何度も売る」）と、Frontier Accelerate の支援内容
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK486](https://ignite.microsoft.com/en-US/sessions/BRK486)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK486](https://ignite.microsoft.com/en-US/sessions/BRK486)\
+YouTube URL: [https://www.youtube.com/watch?v=4vCdHN4wOXc](https://www.youtube.com/watch?v=4vCdHN4wOXc)
 
 ## 2. 発表者
 

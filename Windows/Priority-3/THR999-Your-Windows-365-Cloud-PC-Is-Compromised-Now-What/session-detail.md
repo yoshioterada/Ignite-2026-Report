@@ -6,7 +6,8 @@
 
 発表者は、Windows 365 は設計上セキュアだが「設計上セキュア」は「自動的にセキュア」という意味ではなく、Cloud PC も物理的なエンドポイントと同じく攻撃対象になる、という前提から話を始めます。そして、健全な Cloud PC でマルウェアの疑似動作とウイルス対策の改ざんを起こし、Teams へのアクセスがブロックされ、対処後に回復するまでをデモで見せます。結論として発表者が挙げるのは、**Cloud PC もエンドポイントとして守ること**、**デバイスのリスクとアクセス判定をつなぎ、検知から回復まで通してテストすること**、**デバイスの信頼を継続的に評価・検証すること**の 3 点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR999](https://ignite.microsoft.com/en-US/sessions/THR999)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR999](https://ignite.microsoft.com/en-US/sessions/THR999)\
+YouTube URL: [https://www.youtube.com/watch?v=EAQ_fw4wYMk](https://www.youtube.com/watch?v=EAQ_fw4wYMk)
 
 ## 2. 発表者
 

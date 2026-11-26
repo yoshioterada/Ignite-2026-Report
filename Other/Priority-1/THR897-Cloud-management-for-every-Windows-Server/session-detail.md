@@ -6,7 +6,8 @@
 
 内容は大きく 5 つに分かれます。Windows Admin Center の Virtualization Mode（WAC V mode）と、そこから VM を Azure Arc にまとめて登録するデモ、Arc で使える Defender for Cloud と Azure Monitor、Windows Server 2025 の **Hotpatching** とそのデモ、Arc 経由の ESU（Extended Security Updates）の月額支払い、そして今回発表された **Windows Server と Intune のプレビュー**です。Levi Strauss と World Bank の事例も紹介されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR897](https://ignite.microsoft.com/en-US/sessions/THR897)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR897](https://ignite.microsoft.com/en-US/sessions/THR897)\
+YouTube URL: [https://www.youtube.com/watch?v=HCahGhu2k5U](https://www.youtube.com/watch?v=HCahGhu2k5U)
 
 ## 2. 発表者
 

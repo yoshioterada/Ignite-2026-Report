@@ -6,7 +6,8 @@
 
 結論を先に書くと、発表者が繰り返し訴えたのは次の点です。共同販売は案件情報（リファラル）を Partner Center に登録して終わりではなく、**Microsoft の営業担当とパートナーの営業担当が、早い段階で、同じ文脈を共有してつながる活動**に変わっていく、ということです。なお、このセッションでは画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK507](https://ignite.microsoft.com/en-US/sessions/BRK507)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK507](https://ignite.microsoft.com/en-US/sessions/BRK507)\
+YouTube URL: [https://www.youtube.com/watch?v=F3g1SgDffck](https://www.youtube.com/watch?v=F3g1SgDffck)
 
 ## 2. 発表者
 

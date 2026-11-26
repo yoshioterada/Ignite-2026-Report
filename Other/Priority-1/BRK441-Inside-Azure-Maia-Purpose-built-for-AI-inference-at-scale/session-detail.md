@@ -8,7 +8,8 @@
 
 > 補足：トランスクリプトでは製品名が「Maya」と書き起こされていますが、メタデータのタイトルに合わせて、本文では Maia と表記します。また、「Maya 200 of the world」など聞き取りが不明瞭な箇所もあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK441](https://ignite.microsoft.com/en-US/sessions/BRK441)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK441](https://ignite.microsoft.com/en-US/sessions/BRK441)\
+YouTube URL: [https://www.youtube.com/watch?v=U9dXUkFZnvU](https://www.youtube.com/watch?v=U9dXUkFZnvU)
 
 ## 2. 発表者
 

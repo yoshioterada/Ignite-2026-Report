@@ -6,7 +6,8 @@
 
 話の中心は、**「Copilot が質問に答える段階」から「Copilot が BC の中で操作を代行する段階」へ**の移行です。すでに使える機能と、これから出る機能がデモの中で区別されているので、本書でもその区別をそのまま書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK383](https://ignite.microsoft.com/en-US/sessions/BRK383)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK383](https://ignite.microsoft.com/en-US/sessions/BRK383)\
+YouTube URL: [https://www.youtube.com/watch?v=ITu3HBXpxhM](https://www.youtube.com/watch?v=ITu3HBXpxhM)
 
 ## 2. 発表者
 

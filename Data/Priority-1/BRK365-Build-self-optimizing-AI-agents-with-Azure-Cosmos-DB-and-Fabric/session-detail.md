@@ -8,7 +8,8 @@ AI エージェントは作って公開するところまでは速くできる�
 
 エージェントの運用データをどこに溜め、どう分析し、どう設定に戻すのかを具体的に知りたい開発者に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK365](https://ignite.microsoft.com/en-US/sessions/BRK365)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK365](https://ignite.microsoft.com/en-US/sessions/BRK365)\
+YouTube URL: [https://www.youtube.com/watch?v=uyjLH9XpFRM](https://www.youtube.com/watch?v=uyjLH9XpFRM)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@ IT 管理者や、Windows を組織に展開している方に向けた内容で
 
 このセッションでは、画面を使ったライブデモは行われていません。代わりに、音声のない比較動画や、ドライバーのクラッシュを模した動画、機能紹介の動画がスライド上で再生されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK396](https://ignite.microsoft.com/en-US/sessions/BRK396)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK396](https://ignite.microsoft.com/en-US/sessions/BRK396)\
+YouTube URL: [https://www.youtube.com/watch?v=xXd-6Wg7WQQ](https://www.youtube.com/watch?v=xXd-6Wg7WQQ)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 全体を通した主張は、**エージェント時代には顧客の期待も、パートナー自身の稼ぎ方も変わる**ということです。製品のデモ操作を見せる回ではなく、動画とスライド、パネルトークが中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK498](https://ignite.microsoft.com/en-US/sessions/BRK498)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK498](https://ignite.microsoft.com/en-US/sessions/BRK498)\
+YouTube URL: [https://www.youtube.com/watch?v=gu5x_W2TZz8](https://www.youtube.com/watch?v=gu5x_W2TZz8)
 
 ## 2. 発表者
 

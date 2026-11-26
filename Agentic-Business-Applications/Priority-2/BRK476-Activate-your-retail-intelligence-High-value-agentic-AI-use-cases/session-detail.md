@@ -6,7 +6,8 @@
 
 結論として繰り返し語られたのは、**難しいのはモデルではなくデータであり、ガバナンスと運用モデルの整備も同じくらい重い課題**だという点です。画面を使ったデモは行われていません。スライドと対談が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK476](https://ignite.microsoft.com/en-US/sessions/BRK476)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK476](https://ignite.microsoft.com/en-US/sessions/BRK476)\
+YouTube URL: [https://www.youtube.com/watch?v=gJu4UeTkBq8](https://www.youtube.com/watch?v=gJu4UeTkBq8)
 
 ## 2. 発表者
 

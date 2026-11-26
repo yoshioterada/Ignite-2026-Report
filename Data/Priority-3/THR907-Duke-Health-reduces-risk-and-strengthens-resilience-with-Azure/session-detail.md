@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。スライドと、Duke Health 側の動画が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR907](https://ignite.microsoft.com/en-US/sessions/THR907)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR907](https://ignite.microsoft.com/en-US/sessions/THR907)\
+YouTube URL: [https://www.youtube.com/watch?v=RX-ZLBNpz4E](https://www.youtube.com/watch?v=RX-ZLBNpz4E)
 
 ## 2. 発表者
 

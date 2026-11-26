@@ -6,7 +6,8 @@
 
 重要な主張は、**量子コンピューターは、エージェントが回す発見ループ（agentic discovery loop）の一部として組み込まれていく**という点です。量子アルゴリズムや量子回路を科学者が逐一理解する必要はなくなる、と David 氏は話しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK444](https://ignite.microsoft.com/en-US/sessions/BRK444)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK444](https://ignite.microsoft.com/en-US/sessions/BRK444)\
+YouTube URL: [https://www.youtube.com/watch?v=U_tK3PbOZiM](https://www.youtube.com/watch?v=U_tK3PbOZiM)
 
 ## 2. 発表者
 

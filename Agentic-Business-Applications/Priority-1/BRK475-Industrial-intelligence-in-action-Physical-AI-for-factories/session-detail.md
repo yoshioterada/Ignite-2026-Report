@@ -8,7 +8,8 @@ Bhaskar 氏の話の核心は、「**自律化を追い求めるのではなく�
 
 このセッションでは、ライブのデモは行われていません。ただし、Unilever の Pondicherry 工場に関する紹介ビデオが上映されました（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK475](https://ignite.microsoft.com/en-US/sessions/BRK475)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK475](https://ignite.microsoft.com/en-US/sessions/BRK475)\
+YouTube URL: [https://www.youtube.com/watch?v=8AARLSbxbts](https://www.youtube.com/watch?v=8AARLSbxbts)
 
 ## 2. 発表者
 

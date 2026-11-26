@@ -10,7 +10,8 @@
 
 デモは多めで、GitHub Copilot から Surface のノート PC 上のローカルモデルを動かす 3 つの実演、USB4 で PC 同士をつなぐ RDMA の動画、Redmond のラボにある推論クラスターへの接続デモ（こちらは時間内に完了しませんでした）が紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK389](https://ignite.microsoft.com/en-US/sessions/BRK389)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK389](https://ignite.microsoft.com/en-US/sessions/BRK389)\
+YouTube URL: [https://www.youtube.com/watch?v=Med1A1qbAhs](https://www.youtube.com/watch?v=Med1A1qbAhs)
 
 > 補足：このファイルは、取得したトランスクリプト（英語）に基づいて作成しています。以前は字幕データが無く、公式の概要だけを載せた版でしたが、今回置き換えました。
 

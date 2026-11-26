@@ -8,7 +8,8 @@
 
 > 注意：このセッションは CrashPlan 社の製品紹介が中心です。比較結果や数値はすべて登壇者の発言であり、第三者が検証したものではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1098](https://ignite.microsoft.com/en-US/sessions/THRSP1098)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1098](https://ignite.microsoft.com/en-US/sessions/THRSP1098)\
+YouTube URL: [https://www.youtube.com/watch?v=kIIh1wanO6Q](https://www.youtube.com/watch?v=kIIh1wanO6Q)
 
 ## 2. 発表者
 

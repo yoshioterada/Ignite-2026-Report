@@ -6,7 +6,8 @@
 
 最初に押さえたい結論は 3 つあります。第 1 に、AI・セキュリティ・コストの 3 つの圧力が重なり、「何もしない」は選択肢ではなくなっていること。第 2 に、Azure Migrate と GitHub Copilot を統合したエージェント型のツール **Azure Catalyst** が発表されたこと。第 3 に、クラウド移行のコストを半分にすることを目指す「エージェント型モダナイゼーションのオファー」が示されたことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK488](https://ignite.microsoft.com/en-US/sessions/BRK488)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK488](https://ignite.microsoft.com/en-US/sessions/BRK488)\
+YouTube URL: [https://www.youtube.com/watch?v=c5YIuUdDMkY](https://www.youtube.com/watch?v=c5YIuUdDMkY)
 
 ## 2. 発表者
 

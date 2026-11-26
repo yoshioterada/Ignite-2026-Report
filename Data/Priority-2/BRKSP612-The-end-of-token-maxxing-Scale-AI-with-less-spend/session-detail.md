@@ -6,7 +6,8 @@
 
 発表の結論は、トークン数を数えるのではなく**タスクあたりのコスト**を測り、そのために「キャッシュ効率の高い推論」と「タスクごとに適切なモデルを選ぶこと」の 2 点に取り組む、というものです。画面を使ったデモは行われておらず、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP612](https://ignite.microsoft.com/en-US/sessions/BRKSP612)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP612](https://ignite.microsoft.com/en-US/sessions/BRKSP612)\
+YouTube URL: [https://www.youtube.com/watch?v=I7Ju-RFyA48](https://www.youtube.com/watch?v=I7Ju-RFyA48)
 
 ## 2. 発表者
 

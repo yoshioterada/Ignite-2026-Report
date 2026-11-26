@@ -6,7 +6,8 @@
 
 ストレージを「AI のメモリ」と位置づけ、AI 時代に向けてどこが強化されたのかを知りたい開発者・IT 担当者に向けた内容です。ゲストとして Azure Databricks の David Meyer 氏が、Databricks と Azure Storage の関係を話す部分もあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK453](https://ignite.microsoft.com/en-US/sessions/BRK453)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK453](https://ignite.microsoft.com/en-US/sessions/BRK453)\
+YouTube URL: [https://www.youtube.com/watch?v=01UqBkgi99M](https://www.youtube.com/watch?v=01UqBkgi99M)
 
 ## 2. 発表者
 

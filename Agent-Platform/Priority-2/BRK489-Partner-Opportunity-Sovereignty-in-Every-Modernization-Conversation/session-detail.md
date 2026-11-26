@@ -8,7 +8,8 @@
 
 発表の結論は、**主権の要件は 1 つの答えで済むものではなく、ワークロードごとの「統制・継続性・選択」の程度を決める話であり、それをモダナイゼーションの会話の初期から取り上げることがパートナーの機会になる**、というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK489](https://ignite.microsoft.com/en-US/sessions/BRK489)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK489](https://ignite.microsoft.com/en-US/sessions/BRK489)\
+YouTube URL: [https://www.youtube.com/watch?v=NmrymK_Lha4](https://www.youtube.com/watch?v=NmrymK_Lha4)
 
 ## 2. 発表者
 

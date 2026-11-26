@@ -6,7 +6,8 @@
 
 BizTalk Server の利用者はもちろん、MuleSoft や Boomi などの統合基盤から移行を考えている方、あるいは Logic Apps で AI エージェントを業務プロセスに組み込む設計を知りたい方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK424](https://ignite.microsoft.com/en-US/sessions/BRK424)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK424](https://ignite.microsoft.com/en-US/sessions/BRK424)\
+YouTube URL: [https://www.youtube.com/watch?v=xxDM9QUTAXE](https://www.youtube.com/watch?v=xxDM9QUTAXE)
 
 ## 2. 発表者
 

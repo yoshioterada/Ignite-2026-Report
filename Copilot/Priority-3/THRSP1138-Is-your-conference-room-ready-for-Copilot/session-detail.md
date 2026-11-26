@@ -8,7 +8,8 @@
 
 結論として発表者が強調するのは、会議の要約やアクションアイテムの質は、部屋に置いたカメラ・マイク・コンピュートの質に左右される、という点です。なお、発表の主眼は D10 製品の紹介であり、このセッションでは画面を使ったデモは行われていません（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1138](https://ignite.microsoft.com/en-US/sessions/THRSP1138)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1138](https://ignite.microsoft.com/en-US/sessions/THRSP1138)\
+YouTube URL: [https://www.youtube.com/watch?v=6ahTu8ErcJE](https://www.youtube.com/watch?v=6ahTu8ErcJE)
 
 ## 2. 発表者
 

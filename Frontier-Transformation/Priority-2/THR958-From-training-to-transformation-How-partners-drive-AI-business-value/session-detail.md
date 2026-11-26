@@ -6,7 +6,8 @@
 
 中心にある主張は、「AI の変革を進めるのは技術ではなく人であり、研修は受講完了ではなく行動の変化で測るべきだ」という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR958](https://ignite.microsoft.com/en-US/sessions/THR958)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR958](https://ignite.microsoft.com/en-US/sessions/THR958)\
+YouTube URL: [https://www.youtube.com/watch?v=8laK89qrTC8](https://www.youtube.com/watch?v=8laK89qrTC8)
 
 ## 2. 発表者
 

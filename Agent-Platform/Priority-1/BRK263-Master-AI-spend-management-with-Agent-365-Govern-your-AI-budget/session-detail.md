@@ -8,7 +8,8 @@
 
 最初に結論を言うと、発表の中心は **「コストを下げるだけでなく、支出に対して得られる価値を測って最適化する」** という考え方です。デモの中には、今週の Ignite で発表され、一部は 12 月・1 月以降に提供開始とされる機能が含まれます（5.9 と 7 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK263](https://ignite.microsoft.com/en-US/sessions/BRK263)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK263](https://ignite.microsoft.com/en-US/sessions/BRK263)\
+YouTube URL: [https://www.youtube.com/watch?v=0DxxIEeKPUc](https://www.youtube.com/watch?v=0DxxIEeKPUc)
 
 ## 2. 発表者
 

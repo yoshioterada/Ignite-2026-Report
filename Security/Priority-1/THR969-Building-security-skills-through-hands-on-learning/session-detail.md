@@ -6,7 +6,8 @@
 
 流れは次のとおりです。まず顧客として AI サポートエージェントを使い、異常に気づきます。次に、役割を切り替えて攻撃者側の立場から、自動化された red team agent による攻撃を見ます。最後に Microsoft Defender で、攻撃の原因となったコードの脆弱性を調べ、GitHub への pull request として修正を作成します。体験は、AI Skills Navigator で学べる形で提供されているという案内です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR969](https://ignite.microsoft.com/en-US/sessions/THR969)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR969](https://ignite.microsoft.com/en-US/sessions/THR969)\
+YouTube URL: [https://www.youtube.com/watch?v=deNpTk93qgA](https://www.youtube.com/watch?v=deNpTk93qgA)
 
 ## 2. 発表者
 

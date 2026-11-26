@@ -9,7 +9,8 @@
 - 予算と支出ポリシーで上限（キャップ）を設定すれば、請求の「サプライズ」は起こらない。
 - AI 支出の議論は IT 部門だけのものではなくなり、事業部門のリーダーが予算配分の意思決定者になっている。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK260](https://ignite.microsoft.com/en-US/sessions/BRK260)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK260](https://ignite.microsoft.com/en-US/sessions/BRK260)\
+YouTube URL: [https://www.youtube.com/watch?v=eiZXgfWWAnw](https://www.youtube.com/watch?v=eiZXgfWWAnw)
 
 ## 2. 発表者
 

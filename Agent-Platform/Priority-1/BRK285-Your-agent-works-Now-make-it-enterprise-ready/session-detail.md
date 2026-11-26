@@ -8,7 +8,8 @@
 
 デモについては、Tim 氏が自作アプリの画面と、アーキテクチャが組み上がっていく様子の動画を見せています（6 章）。Azure サポートの事例は、発表者が「mock であり実際の製品のスクリーンショットではない」と断ったスライドによる説明です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK285](https://ignite.microsoft.com/en-US/sessions/BRK285)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK285](https://ignite.microsoft.com/en-US/sessions/BRK285)\
+YouTube URL: [https://www.youtube.com/watch?v=gocKE-Nqt9w](https://www.youtube.com/watch?v=gocKE-Nqt9w)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 登壇者は、会議のアクションアイテムや、メールの返信待ち、レビュー待ちのファイルといった「人から人への引き継ぎ（handoff）」で仕事が止まる問題を取り上げ、見積もり（quote-to-cash の見積承認部分）を題材にしたデモでその解決を見せました。重要な点は、エージェントが準備までを行い、**最終的な判断と送信は必ず人が行う（human in the loop）**ことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR874](https://ignite.microsoft.com/en-US/sessions/THR874)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR874](https://ignite.microsoft.com/en-US/sessions/THR874)\
+YouTube URL: [https://www.youtube.com/watch?v=aA_6DQcClr4](https://www.youtube.com/watch?v=aA_6DQcClr4)
 
 ## 2. 発表者
 

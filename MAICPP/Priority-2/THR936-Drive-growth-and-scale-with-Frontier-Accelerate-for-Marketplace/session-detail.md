@@ -6,7 +6,8 @@
 
 特典の金額（Azure スポンサーシップ、現金のインセンティブ、Premium の価格）が具体的に示されるため、「自社がどの段階でどの特典を受けられるか」を確認したい ISV の方に向いています。画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR936](https://ignite.microsoft.com/en-US/sessions/THR936)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR936](https://ignite.microsoft.com/en-US/sessions/THR936)\
+YouTube URL: [https://www.youtube.com/watch?v=IDp925jRrL0](https://www.youtube.com/watch?v=IDp925jRrL0)
 
 ## 2. 発表者
 

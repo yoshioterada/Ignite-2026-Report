@@ -12,7 +12,8 @@
 
 デモの題材は、Ignite の準備をする launch チームのためのエージェント "Gopher Launch" です。最後には、顧客の Lumen による事例の説明と、導入のための質問リスト、各機能の提供時期のロードマップも示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK261](https://ignite.microsoft.com/en-US/sessions/BRK261)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK261](https://ignite.microsoft.com/en-US/sessions/BRK261)\
+YouTube URL: [https://www.youtube.com/watch?v=14DpRGE6wqA](https://www.youtube.com/watch?v=14DpRGE6wqA)
 
 ## 2. 発表者
 

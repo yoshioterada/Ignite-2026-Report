@@ -8,7 +8,8 @@
 
 発表の後半では、調達（procurement）エージェントを例に、Copilot Studio や Power Platform Admin Center の画面（一部はスクリーンショット）を見せながらのデモが行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1004](https://ignite.microsoft.com/en-US/sessions/THR1004)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1004](https://ignite.microsoft.com/en-US/sessions/THR1004)\
+YouTube URL: [https://www.youtube.com/watch?v=HqI8CnNd05Y](https://www.youtube.com/watch?v=HqI8CnNd05Y)
 
 ## 2. 発表者
 

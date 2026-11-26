@@ -6,7 +6,8 @@
 
 デモの題材は、美容（スキンケア）の通販サイトです。発表者自身が顧客「Rosie」を演じ、ウェブのチャット・音声、メール、人間のサポート担当者向けの画面、電話と、チャネルと時間をまたいで体験を進めます。デモの後に、エージェントの設定画面（チャーター、インテリジェントフィールド、分析）も見せています。**デモはあり、発表の大部分を占めます。** 録音は音声のみのため、画面の細部は発話で語られた範囲に限って書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR976](https://ignite.microsoft.com/en-US/sessions/THR976)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR976](https://ignite.microsoft.com/en-US/sessions/THR976)\
+YouTube URL: [https://www.youtube.com/watch?v=sgBmPrGjuaY](https://www.youtube.com/watch?v=sgBmPrGjuaY)
 
 ## 2. 発表者
 

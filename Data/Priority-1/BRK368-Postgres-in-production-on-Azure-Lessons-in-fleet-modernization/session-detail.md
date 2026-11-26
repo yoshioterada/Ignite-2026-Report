@@ -6,7 +6,8 @@
 
 構成は 3 部です。最初に Microsoft の Guy が考え方を説明し、次に Wolters Kluwer の Sven Hubert 氏が、自社管理の Postgres から Azure Database for PostgreSQL の Elastic Cluster へ 12 か月かけて移行した事例と学びを共有します。最後に、今週発表された新機能（新しいコンピュート SKU、ストレージ、イミュータブルバックアップ、Fabric の Database Hub など）が紹介され、Database Hub では短いデモも行われます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK368](https://ignite.microsoft.com/en-US/sessions/BRK368)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK368](https://ignite.microsoft.com/en-US/sessions/BRK368)\
+YouTube URL: [https://www.youtube.com/watch?v=EsnBWPtrIqk](https://www.youtube.com/watch?v=EsnBWPtrIqk)
 
 ## 2. 発表者
 

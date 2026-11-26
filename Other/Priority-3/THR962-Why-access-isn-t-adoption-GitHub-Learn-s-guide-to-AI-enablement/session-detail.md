@@ -10,7 +10,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。スライドを使った口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR962](https://ignite.microsoft.com/en-US/sessions/THR962)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR962](https://ignite.microsoft.com/en-US/sessions/THR962)\
+YouTube URL: [https://www.youtube.com/watch?v=QWM6yxf-UDk](https://www.youtube.com/watch?v=QWM6yxf-UDk)
 
 ## 2. 発表者
 

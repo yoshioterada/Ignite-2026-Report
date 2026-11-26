@@ -12,7 +12,8 @@
 - 共有の semantic model と Fabric IQ の ontology を、データエージェントからどう使うか
 - Microsoft Foundry のコーディネーターエージェントが、複数のデータエージェントとインデックスをどうまとめるか
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR984](https://ignite.microsoft.com/en-US/sessions/THR984)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR984](https://ignite.microsoft.com/en-US/sessions/THR984)\
+YouTube URL: [https://www.youtube.com/watch?v=BJJj7lON71w](https://www.youtube.com/watch?v=BJJj7lON71w)
 
 ## 2. 発表者
 

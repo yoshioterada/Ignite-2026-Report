@@ -6,7 +6,8 @@
 
 最も重要な結論は、**サイバー犯罪者になるための参入障壁がこれまでになく低い**という点です。ツールを買うこともできますし、AI を使って自作することもできます。その結果、フィッシングの基盤の価格が下がり、問題は今後むしろ難しくなる、という見立てが語られています。このセッションは、実際の画面を操作するデモではなく、スライド（スクリーンショットを含む）と口頭の説明で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1100](https://ignite.microsoft.com/en-US/sessions/THRSP1100)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1100](https://ignite.microsoft.com/en-US/sessions/THRSP1100)\
+YouTube URL: [https://www.youtube.com/watch?v=o-SFDRQPuKA](https://www.youtube.com/watch?v=o-SFDRQPuKA)
 
 ## 2. 発表者
 

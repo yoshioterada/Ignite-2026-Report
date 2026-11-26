@@ -13,7 +13,8 @@
 
 Postgres のアプリを作る開発者や、Fabric 上でデータ駆動型アプリを作る人が、どんな構成と使い分けができるかを把握できる内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK359](https://ignite.microsoft.com/en-US/sessions/BRK359)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK359](https://ignite.microsoft.com/en-US/sessions/BRK359)\
+YouTube URL: [https://www.youtube.com/watch?v=0PY16GxXFkA](https://www.youtube.com/watch?v=0PY16GxXFkA)
 
 ## 2. 発表者
 

@@ -12,7 +12,8 @@
 - SmartGrant の 6 エージェント構成と、教育向けのパターンを NPO 向けに作り替えた手順
 - 1 回の実行コストの見積もり方と、「エージェントごと」「ジョブごと」にモデルを選び分けるコスト最適化の考え方
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK454](https://ignite.microsoft.com/en-US/sessions/BRK454)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK454](https://ignite.microsoft.com/en-US/sessions/BRK454)\
+YouTube URL: [https://www.youtube.com/watch?v=wlXznebV2ic](https://www.youtube.com/watch?v=wlXznebV2ic)
 
 ## 2. 発表者
 

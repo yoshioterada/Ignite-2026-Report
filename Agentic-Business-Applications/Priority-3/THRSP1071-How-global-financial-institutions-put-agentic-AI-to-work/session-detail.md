@@ -12,7 +12,8 @@
 - 登壇者が見ている 3 つの変化（モデルのコモディティ化、エージェントが労働力になること、成果ベースの契約）
 - Vanguard が 2 年かけて築いた進め方（信頼の作り方、AI による防御、継続的な評価）
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1071](https://ignite.microsoft.com/en-US/sessions/THRSP1071)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1071](https://ignite.microsoft.com/en-US/sessions/THRSP1071)\
+YouTube URL: [https://www.youtube.com/watch?v=_zRudZ4vE9g](https://www.youtube.com/watch?v=_zRudZ4vE9g)
 
 ## 2. 発表者
 

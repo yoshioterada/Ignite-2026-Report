@@ -8,7 +8,8 @@
 
 > 補足：書き起こしでは Fortinet の製品名が「4D」「40」と表記される箇所があります。同じ文脈で FortiGate、FortiWeb、FortiManager、FortiAnalyzer と書かれた箇所があるため、この文書では Forti を頭に付けた表記にそろえています。ただし音声認識の都合で、個々の製品名の綴りが確定できないものがあります（FortiAI Gate、FortiCNAP、FortiAppSec Cloud）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1145](https://ignite.microsoft.com/en-US/sessions/THRSP1145)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1145](https://ignite.microsoft.com/en-US/sessions/THRSP1145)\
+YouTube URL: [https://www.youtube.com/watch?v=d55je4QJjwY](https://www.youtube.com/watch?v=d55je4QJjwY)
 
 ## 2. 発表者
 

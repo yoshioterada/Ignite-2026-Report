@@ -6,7 +6,8 @@
 
 内容は大きく 3 つです。Bradesco が抱えていた課題とエージェントを使った進め方、GitHub Copilot のモダナイゼーション機能を使った Java アプリケーションのデモ、そして今週発表された関連サービスの紹介です。**開発者によるコードのリファクタリングは、手作業で約 2 日かかっていたものが、エージェントの活用で分単位になる**と、発表では語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK272](https://ignite.microsoft.com/en-US/sessions/BRK272)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK272](https://ignite.microsoft.com/en-US/sessions/BRK272)\
+YouTube URL: [https://www.youtube.com/watch?v=Ztn208_5jpI](https://www.youtube.com/watch?v=Ztn208_5jpI)
 
 ## 2. 発表者
 

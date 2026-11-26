@@ -6,7 +6,8 @@
 
 題材は、製薬会社の新工場の建設現場向けエージェントです。現場の安全確認、毎朝のブリーフィング、Teams への公開、そして Hermes agent を使った自律エージェントへと発展します。結論として登壇者が示す選び方は「**左から右へ、動くところまで進める**」というシンプルなものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK243](https://ignite.microsoft.com/en-US/sessions/BRK243)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK243](https://ignite.microsoft.com/en-US/sessions/BRK243)\
+YouTube URL: [https://www.youtube.com/watch?v=7XIe7PRR4fc](https://www.youtube.com/watch?v=7XIe7PRR4fc)
 
 ## 2. 発表者
 

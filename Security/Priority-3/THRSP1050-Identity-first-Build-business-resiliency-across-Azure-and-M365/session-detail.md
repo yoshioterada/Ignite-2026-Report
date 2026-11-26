@@ -6,7 +6,8 @@
 
 発表の主張は、**攻撃の標的は ID であり、復旧設計も ID から始めるべきだ**というものです。最後に、自社に持ち帰って確認するための 3 つの問いが提示されます。このセッションでは画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1050](https://ignite.microsoft.com/en-US/sessions/THRSP1050)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1050](https://ignite.microsoft.com/en-US/sessions/THRSP1050)\
+YouTube URL: [https://www.youtube.com/watch?v=8Z0gqg-B350](https://www.youtube.com/watch?v=8Z0gqg-B350)
 
 ## 2. 発表者
 

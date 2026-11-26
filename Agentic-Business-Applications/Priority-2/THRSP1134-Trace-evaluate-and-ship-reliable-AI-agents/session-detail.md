@@ -6,7 +6,8 @@
 
 後半では、Microsoft Foundry と Datadog の Agent Observability を使い、**トレース（追跡）、評価、モニタリング、テスト**の 4 つで問題を防ぐ流れを、画面を使ったデモで見せています。AI アプリを本番に出す開発者や運用担当者が、何を計測して何に警告を出すべきかをつかむための内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1134](https://ignite.microsoft.com/en-US/sessions/THRSP1134)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1134](https://ignite.microsoft.com/en-US/sessions/THRSP1134)\
+YouTube URL: [https://www.youtube.com/watch?v=1Qykz-uDc9Y](https://www.youtube.com/watch?v=1Qykz-uDc9Y)
 
 ## 2. 発表者
 

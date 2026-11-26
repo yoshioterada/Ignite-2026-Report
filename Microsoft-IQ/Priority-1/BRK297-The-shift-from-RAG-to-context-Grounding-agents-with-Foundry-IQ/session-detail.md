@@ -12,7 +12,8 @@
 
 最初に結論を一言でいうと、**単純な検索で足りる場面ではシンプルなままでよい。一方で、集計や俯瞰が必要な複雑な質問には、検索以外の部品（プリミティブ）が要る**というのが、発表者の立場です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK297](https://ignite.microsoft.com/en-US/sessions/BRK297)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK297](https://ignite.microsoft.com/en-US/sessions/BRK297)\
+YouTube URL: [https://www.youtube.com/watch?v=7SwSQuxOpqA](https://www.youtube.com/watch?v=7SwSQuxOpqA)
 
 ## 2. 発表者
 

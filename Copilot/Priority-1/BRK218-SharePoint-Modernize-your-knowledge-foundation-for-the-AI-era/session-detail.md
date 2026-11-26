@@ -8,7 +8,8 @@
 
 主な新情報は、SharePoint tools in Work IQ（パブリックプレビュー）、Work IQ のコンテキスト強化（パブリックプレビューへ展開中）、Knowledge Bases（Frontier プレビュー）、Copilot in SharePoint の一般提供（GA）です。デモは複数あり、6 章にまとめています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK218](https://ignite.microsoft.com/en-US/sessions/BRK218)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK218](https://ignite.microsoft.com/en-US/sessions/BRK218)\
+YouTube URL: [https://www.youtube.com/watch?v=eHVC2YeUWz0](https://www.youtube.com/watch?v=eHVC2YeUWz0)
 
 ## 2. 発表者
 

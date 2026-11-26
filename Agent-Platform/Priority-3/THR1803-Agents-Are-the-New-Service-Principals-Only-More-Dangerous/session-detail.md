@@ -6,7 +6,8 @@
 
 核心は、エージェントの安全性を「ID」「権限」「委任」「ツール」「データ」の組み合わせ（発表者の言う effective reach、実効的な到達範囲）で見る、という考え方です。後半では、エージェントを止める方法（disable と block の違い）、ガバナンスのためにいくつものポータルを見に行く必要がある現状、承認前に確認すべき 3 点を紹介します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1803](https://ignite.microsoft.com/en-US/sessions/THR1803)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1803](https://ignite.microsoft.com/en-US/sessions/THR1803)\
+YouTube URL: [https://www.youtube.com/watch?v=MSP-EoR_GoQ](https://www.youtube.com/watch?v=MSP-EoR_GoQ)
 
 ## 2. 発表者
 

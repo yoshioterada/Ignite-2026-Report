@@ -8,7 +8,8 @@
 
 内容は、ミラーリングの料金上の特徴、3 つの種類、提供状況（GA とプレビュー）、移行計画のテンプレート、オープンミラーリングを使ったライブデモ、失敗から学んだ 3 点、パイプラインを置き換える手順、質疑応答です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR989](https://ignite.microsoft.com/en-US/sessions/THR989)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR989](https://ignite.microsoft.com/en-US/sessions/THR989)\
+YouTube URL: [https://www.youtube.com/watch?v=ct_bQkcnJ9I](https://www.youtube.com/watch?v=ct_bQkcnJ9I)
 
 ## 2. 発表者
 

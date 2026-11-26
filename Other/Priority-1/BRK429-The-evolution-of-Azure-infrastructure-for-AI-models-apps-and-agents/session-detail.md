@@ -10,7 +10,8 @@
 
 今回の Ignite で発表された新機能が多数登場し、時間の関係で個々の詳細は別セッションに委ねられています。そのため、全体像をつかむための概観セッションとして読むのが適しています。画面を使ったデモは 2 つあり、推論の Context cache と、エージェントのネットワーク制御を行う agent grid です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK429](https://ignite.microsoft.com/en-US/sessions/BRK429)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK429](https://ignite.microsoft.com/en-US/sessions/BRK429)\
+YouTube URL: [https://www.youtube.com/watch?v=Lk_PwW__sXI](https://www.youtube.com/watch?v=Lk_PwW__sXI)
 
 ## 2. 発表者
 

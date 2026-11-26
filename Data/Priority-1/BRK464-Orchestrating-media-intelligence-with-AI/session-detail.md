@@ -6,7 +6,8 @@
 
 技術的なアーキテクチャの詳細（製品構成図やコード）よりも、組織の運営モデルや「何に投資すべきか」の話が中心です。なお、セッション中にナレーション付きの短い紹介ビデオ（放送運用向けの機能紹介）が流れましたが、登壇者が画面を操作するライブのデモではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK464](https://ignite.microsoft.com/en-US/sessions/BRK464)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK464](https://ignite.microsoft.com/en-US/sessions/BRK464)\
+YouTube URL: [https://www.youtube.com/watch?v=dZcwa0zsXIc](https://www.youtube.com/watch?v=dZcwa0zsXIc)
 
 ## 2. 発表者
 

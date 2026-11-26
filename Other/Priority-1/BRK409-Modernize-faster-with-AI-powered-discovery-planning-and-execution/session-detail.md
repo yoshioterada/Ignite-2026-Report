@@ -8,7 +8,8 @@
 
 > 補足：セッションのタイトルとメタデータの概要では「Azure Copilot Migration Agent」という名称が使われています。一方、トランスクリプトでは発表者が一貫して **Azure Catalyst** と呼んでいます。本書ではトランスクリプトの呼称に合わせます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK409](https://ignite.microsoft.com/en-US/sessions/BRK409)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK409](https://ignite.microsoft.com/en-US/sessions/BRK409)\
+YouTube URL: [https://www.youtube.com/watch?v=D7tuX_kMWO8](https://www.youtube.com/watch?v=D7tuX_kMWO8)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 登壇者は Windows のエージェント向けプラットフォームを担当する PM で、Windows の方針を **hybrid intelligence（ローカルとクラウドの併用）** と **agent governance（エージェントのガバナンス）** の 2 本柱で説明します。governance はさらに identity（識別）、containment（隔離）、management（管理）に分けられます。後半のデモでは、GitHub Copilot、Perplexity、Hermes、OpenClaw といったエージェントが、ローカルモデルの利用や MXC（Microsoft Execution Containers）によるアクセス制限を実際にどう扱うかが示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR889](https://ignite.microsoft.com/en-US/sessions/THR889)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR889](https://ignite.microsoft.com/en-US/sessions/THR889)\
+YouTube URL: [https://www.youtube.com/watch?v=jlrbW42D0W4](https://www.youtube.com/watch?v=jlrbW42D0W4)
 
 ## 2. 発表者
 

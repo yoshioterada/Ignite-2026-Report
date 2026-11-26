@@ -6,7 +6,8 @@
 
 後半では、事前に用意された動画のデモが再生され、Copilot の中でオーディエンスの確認、キャンペーンの作成までを行う様子が紹介されます。Teams、Word、Copilot など Microsoft のアプリで仕事をするマーケティング部門と、その担当者向けの開発者・IT 担当者が主な対象です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1149](https://ignite.microsoft.com/en-US/sessions/THRSP1149)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1149](https://ignite.microsoft.com/en-US/sessions/THRSP1149)\
+YouTube URL: [https://www.youtube.com/watch?v=FdZ8TxPzAY8](https://www.youtube.com/watch?v=FdZ8TxPzAY8)
 
 ## 2. 発表者
 

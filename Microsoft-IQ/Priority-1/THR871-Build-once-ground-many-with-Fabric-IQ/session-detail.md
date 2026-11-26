@@ -6,7 +6,8 @@
 
 デモでは、既存の Power BI semantic model から ontology を作る方法、RDF 形式の既存 ontology（石油・ガス業界のもの）をインポートする方法、完成した ontology を Fabric のデータエージェントや Foundry のカスタムエージェント、Microsoft 365 から使う方法が示されました。発表者は冒頭で、多くの顧客がすでに Power BI のレポートや semantic model を持っていることを出発点にしています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR871](https://ignite.microsoft.com/en-US/sessions/THR871)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR871](https://ignite.microsoft.com/en-US/sessions/THR871)\
+YouTube URL: [https://www.youtube.com/watch?v=it7kwpXynCU](https://www.youtube.com/watch?v=it7kwpXynCU)
 
 ## 2. 発表者
 

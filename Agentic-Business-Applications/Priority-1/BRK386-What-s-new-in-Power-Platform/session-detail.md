@@ -12,7 +12,8 @@
 
 なお、このセッションの発表者は、AI の利用は「あなたの条件で（on your terms）」と繰り返し述べています。本日紹介する内容のために、トークンの消費が必須になることはない、という説明でした（デモの中には、自分の Copilot クレジットを使うものもあります）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK386](https://ignite.microsoft.com/en-US/sessions/BRK386)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK386](https://ignite.microsoft.com/en-US/sessions/BRK386)\
+YouTube URL: [https://www.youtube.com/watch?v=u-ROURY2Od0](https://www.youtube.com/watch?v=u-ROURY2Od0)
 
 ## 2. 発表者
 

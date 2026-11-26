@@ -6,7 +6,8 @@
 
 製品の機能や技術の解説はなく、**「好きなことを人に見せて、発信を続ける」ことがコミュニティへの入口になる**という点が全体を通した話の中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1006](https://ignite.microsoft.com/en-US/sessions/THR1006)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1006](https://ignite.microsoft.com/en-US/sessions/THR1006)\
+YouTube URL: [https://www.youtube.com/watch?v=5JovyQ33uCY](https://www.youtube.com/watch?v=5JovyQ33uCY)
 
 ## 2. 発表者
 

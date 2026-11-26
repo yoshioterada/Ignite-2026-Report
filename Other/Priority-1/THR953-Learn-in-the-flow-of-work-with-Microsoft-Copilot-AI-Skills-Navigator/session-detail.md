@@ -6,7 +6,8 @@
 
 発表は、二人の登壇者が寸劇のように掛け合いをしながら、営業担当者が Copilot に「トレーニングを受けたい」と尋ねるところから、オンボーディング、スキル学習、プレイリスト、リーダー向けのレポートまでを画面で見せていく構成です。登壇者の一人（Raymond 氏）が、このツールの助けで 16 営業日かかる見込みだった社内アプリを 2 日で作った、という実体験も語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR953](https://ignite.microsoft.com/en-US/sessions/THR953)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR953](https://ignite.microsoft.com/en-US/sessions/THR953)\
+YouTube URL: [https://www.youtube.com/watch?v=dVM1Cj9_6e4](https://www.youtube.com/watch?v=dVM1Cj9_6e4)
 
 ## 2. 発表者
 

@@ -11,7 +11,8 @@ BRK223 は、小規模事業者（SMB）が Microsoft 365 Copilot と Cowork を
 - Copilot のプラグインを使うと、記録システムのデータと仕事のコンテキストを 1 つの流れの中で扱える。
 - 実行は Copilot / Cowork が行うが、送信や公開の前には必ず人間（Robin）が確認・承認する。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK223](https://ignite.microsoft.com/en-US/sessions/BRK223)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK223](https://ignite.microsoft.com/en-US/sessions/BRK223)\
+YouTube URL: [https://www.youtube.com/watch?v=sD5WcWgT-qY](https://www.youtube.com/watch?v=sD5WcWgT-qY)
 
 ## 2. 発表者
 

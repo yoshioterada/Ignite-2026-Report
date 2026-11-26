@@ -8,7 +8,8 @@
 
 このセッションには**画面を使ったライブデモがあります**。ただし録音は音声のみなので、画面の細部は音声からは確認できません。本書では、登壇者が語った範囲に絞って書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR925](https://ignite.microsoft.com/en-US/sessions/THR925)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR925](https://ignite.microsoft.com/en-US/sessions/THR925)\
+YouTube URL: [https://www.youtube.com/watch?v=tQcDJ3j1SWo](https://www.youtube.com/watch?v=tQcDJ3j1SWo)
 
 ## 2. 発表者
 

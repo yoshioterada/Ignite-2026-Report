@@ -8,7 +8,8 @@
 
 > 補足：製品名は、トランスクリプトで "Dual Work"、"Jewel Work"、"Joule Work" のように表記が揺れています。音声認識の都合で表記が確定できませんが、複数箇所で "Joule" と書かれているため、本稿では **Joule** で統一します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP607](https://ignite.microsoft.com/en-US/sessions/BRKSP607)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP607](https://ignite.microsoft.com/en-US/sessions/BRKSP607)\
+YouTube URL: [https://www.youtube.com/watch?v=tCs5G4JaAm4](https://www.youtube.com/watch?v=tCs5G4JaAm4)
 
 ## 2. 発表者
 

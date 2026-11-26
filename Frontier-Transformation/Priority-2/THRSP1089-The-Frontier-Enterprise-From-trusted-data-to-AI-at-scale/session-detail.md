@@ -6,7 +6,8 @@
 
 発表全体を貫く主張は、**AI をスケールさせる土台は、信頼できるデータ基盤と、AI が使える形に整えたセマンティックモデル（業務定義を集約したデータモデル）である**という点です。加えて、ハブ＆スポーク型の体制、モデルの使い分けによるコスト管理、ビジネス課題から始める姿勢が繰り返し語られました。製品のデモやスライドを使った手順の説明はなく、対話形式で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1089](https://ignite.microsoft.com/en-US/sessions/THRSP1089)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1089](https://ignite.microsoft.com/en-US/sessions/THRSP1089)\
+YouTube URL: [https://www.youtube.com/watch?v=CYUJnurFilg](https://www.youtube.com/watch?v=CYUJnurFilg)
 
 ## 2. 発表者
 

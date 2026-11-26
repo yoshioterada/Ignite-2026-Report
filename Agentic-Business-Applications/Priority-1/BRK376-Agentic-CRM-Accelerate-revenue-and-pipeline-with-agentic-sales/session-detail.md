@@ -14,7 +14,8 @@
 
 営業部門の責任者、営業支援（Sales Ops）の担当者、CRM を導入・運用する IT 担当者が、AI エージェント時代の CRM の方向性を把握するのに向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK376](https://ignite.microsoft.com/en-US/sessions/BRK376)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK376](https://ignite.microsoft.com/en-US/sessions/BRK376)\
+YouTube URL: [https://www.youtube.com/watch?v=IgdQ4lvLgbc](https://www.youtube.com/watch?v=IgdQ4lvLgbc)
 
 ## 2. 発表者
 

@@ -16,7 +16,8 @@
 
 セッションの最後には、更新された「導入ブループリント（deployment blueprint）」をダウンロードできる QR コードが示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK211](https://ignite.microsoft.com/en-US/sessions/BRK211)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK211](https://ignite.microsoft.com/en-US/sessions/BRK211)\
+YouTube URL: [https://www.youtube.com/watch?v=GeheBWiNWfo](https://www.youtube.com/watch?v=GeheBWiNWfo)
 
 ## 2. 発表者
 

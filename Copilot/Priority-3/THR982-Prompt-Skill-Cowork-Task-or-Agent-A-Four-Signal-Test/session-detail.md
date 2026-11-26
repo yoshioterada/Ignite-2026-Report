@@ -13,7 +13,8 @@
 
 このセッションでは、画面を使ったデモが行われています（5 つの例と、10 件のバックログの例）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR982](https://ignite.microsoft.com/en-US/sessions/THR982)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR982](https://ignite.microsoft.com/en-US/sessions/THR982)\
+YouTube URL: [https://www.youtube.com/watch?v=CK-ePdbtvq0](https://www.youtube.com/watch?v=CK-ePdbtvq0)
 
 ## 2. 発表者
 

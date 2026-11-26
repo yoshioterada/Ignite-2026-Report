@@ -8,7 +8,8 @@
 
 画面を使った製品デモは行われていません。途中で、モデルが作ったフロントエンドのアプリを紹介するデモ映像が流れましたが、音声での説明はごく短く、映像の中身は音声からは分かりません（6 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK279](https://ignite.microsoft.com/en-US/sessions/BRK279)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK279](https://ignite.microsoft.com/en-US/sessions/BRK279)\
+YouTube URL: [https://www.youtube.com/watch?v=wj-usNANr0M](https://www.youtube.com/watch?v=wj-usNANr0M)
 
 ## 2. 発表者
 

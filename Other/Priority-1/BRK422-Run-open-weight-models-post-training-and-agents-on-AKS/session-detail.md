@@ -11,7 +11,8 @@
 - Harvey AI がエージェントのサンドボックスで求めた要件と、その実現方法
 - Agent Sandbox、Pod のスナップショットと復元、Kata の改善、Agent Substrate といった、エージェント向け機能の現状と数値
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK422](https://ignite.microsoft.com/en-US/sessions/BRK422)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK422](https://ignite.microsoft.com/en-US/sessions/BRK422)\
+YouTube URL: [https://www.youtube.com/watch?v=PYQQvzkmPWM](https://www.youtube.com/watch?v=PYQQvzkmPWM)
 
 ## 2. 発表者
 

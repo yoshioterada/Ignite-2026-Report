@@ -6,7 +6,8 @@
 
 内容は、VS Code での基本的な使い方から始まり、Azure DevOps の MCP サーバー、Copilot Cowork のプラグイン、GitHub Copilot アプリとの連携、Azure Repos 向けの Copilot コードレビュー（GA）、GitHub Advanced Security for Azure DevOps の Copilot Autofix（パブリックプレビュー）、リポジトリ移行ツールまで続きます。**Azure DevOps のリポジトリを GitHub に移さなくても、Copilot を使い始められる**ことが、全体を通した軸です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK292](https://ignite.microsoft.com/en-US/sessions/BRK292)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK292](https://ignite.microsoft.com/en-US/sessions/BRK292)\
+YouTube URL: [https://www.youtube.com/watch?v=lVrz1a9z5oc](https://www.youtube.com/watch?v=lVrz1a9z5oc)
 
 ## 2. 発表者
 

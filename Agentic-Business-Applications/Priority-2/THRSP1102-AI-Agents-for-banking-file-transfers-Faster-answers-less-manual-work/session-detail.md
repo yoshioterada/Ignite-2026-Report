@@ -6,7 +6,8 @@
 
 内容は、銀行がなぜクラウド型のマネージドファイル転送（MFT）に移ったか、files.com と Azure をどう構成しているか、そして files.com 用の MCP サーバーを Azure API Management の背後に自前で立て、GitHub Copilot アプリから調査させる方法です。デモは録画で、ライブではありません。最後に、銀行が実際に使っている手順書（Markdown ファイル）を一般化したものが、QR コードで配布されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1102](https://ignite.microsoft.com/en-US/sessions/THRSP1102)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1102](https://ignite.microsoft.com/en-US/sessions/THRSP1102)\
+YouTube URL: [https://www.youtube.com/watch?v=WgWaYYl1tNc](https://www.youtube.com/watch?v=WgWaYYl1tNc)
 
 ## 2. 発表者
 

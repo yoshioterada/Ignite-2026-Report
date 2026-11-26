@@ -6,7 +6,8 @@
 
 構成は、Omar Aftab 氏による概要説明、Jason Xian 氏による約 7 分半のライブデモ、そして米国のスーパーマーケットチェーン Publix の Chris Povolish 氏による導入事例です。デモでは、従来型の IVR（「1 を押してください」式の自動音声応答）を、その場でモダンなエージェントに作り替えます。Omar 氏は最後に、**ここで紹介した内容はすべて GA（一般提供）である**と述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK379](https://ignite.microsoft.com/en-US/sessions/BRK379)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK379](https://ignite.microsoft.com/en-US/sessions/BRK379)\
+YouTube URL: [https://www.youtube.com/watch?v=N5-YJ1cCH6k](https://www.youtube.com/watch?v=N5-YJ1cCH6k)
 
 ## 2. 発表者
 

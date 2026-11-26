@@ -8,7 +8,8 @@
 
 > 補足：Drassy の綴りは、音声認識の結果で「Drassy」「Drassi」「Jassy」と揺れています。この文書では最も多い「Drassy」に統一しています（音声認識の都合で表記が確定できません）。ドキュメントサイトは、発話では「Drassi.io」と聞こえます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1029](https://ignite.microsoft.com/en-US/sessions/THR1029)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1029](https://ignite.microsoft.com/en-US/sessions/THR1029)\
+YouTube URL: [https://www.youtube.com/watch?v=BfMP80XsggM](https://www.youtube.com/watch?v=BfMP80XsggM)
 
 ## 2. 発表者
 

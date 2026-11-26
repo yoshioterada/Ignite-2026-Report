@@ -15,7 +15,8 @@
 
 > 補足：このセッションの録音には話者ラベルがありません。また、音声認識の誤りと思われる固有名詞が複数あります（詳細は 7 章に記載）。本ドキュメントでは、聞こえた綴りのまま、あるいは「音声認識の都合で表記が確定できません」と注記して記載します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK481](https://ignite.microsoft.com/en-US/sessions/BRK481)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK481](https://ignite.microsoft.com/en-US/sessions/BRK481)\
+YouTube URL: [https://www.youtube.com/watch?v=ldVwA2dbw0s](https://www.youtube.com/watch?v=ldVwA2dbw0s)
 
 ## 2. 発表者
 

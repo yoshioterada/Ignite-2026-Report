@@ -6,7 +6,8 @@
 
 発表の主張は 3 つにまとめられています。(1) 最先端の性能は単一モデルではなく複数モデルの組み合わせにある、(2) 自社の仕事の中身を測定して理解しなければ、モデルへの依存から抜けられない、(3) 自社専用のモデルをポートフォリオに加えるべきかどうかを見極める、という流れです。PayPal の自社ベンチマーク構築の事例と、Rob 氏が 29 ドルで学習したモデルの例が含まれています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP594](https://ignite.microsoft.com/en-US/sessions/BRKSP594)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP594](https://ignite.microsoft.com/en-US/sessions/BRKSP594)\
+YouTube URL: [https://www.youtube.com/watch?v=NplvtqdZDmc](https://www.youtube.com/watch?v=NplvtqdZDmc)
 
 ## 2. 発表者
 

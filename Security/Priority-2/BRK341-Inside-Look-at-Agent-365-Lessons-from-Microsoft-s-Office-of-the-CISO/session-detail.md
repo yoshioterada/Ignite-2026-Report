@@ -6,7 +6,8 @@
 
 前半は Karen Dahmen 氏が、戦略とガバナンスの観点から「エージェントの資産をどう捉え、どう守るか」を語ります。後半は Vivek Vinod Sharma 氏が、Agent 365 と Microsoft Defender で実際にどう調べ、どう止めるかを実演します。結論は、**エージェントはすでにどの組織にもいて、問われているのは「見えているか、統制できているか、信頼できるか」である**という点です。さらに、**「予測できるリスクは防ぎ、防げないものは封じ込め、継続的に改善する」**という進め方が示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK341](https://ignite.microsoft.com/en-US/sessions/BRK341)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK341](https://ignite.microsoft.com/en-US/sessions/BRK341)\
+YouTube URL: [https://www.youtube.com/watch?v=cEPgjyoCA8k](https://www.youtube.com/watch?v=cEPgjyoCA8k)
 
 ## 2. 発表者
 

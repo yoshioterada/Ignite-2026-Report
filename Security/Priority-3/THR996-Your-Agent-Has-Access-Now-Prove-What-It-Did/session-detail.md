@@ -13,7 +13,8 @@
 - 2 つのエージェントが互いを信頼しただけで事故が成立した仕組み
 - 防ぐための 3 つの対策と、調査に欠かせない証跡（監査ログ）の注意点
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR996](https://ignite.microsoft.com/en-US/sessions/THR996)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR996](https://ignite.microsoft.com/en-US/sessions/THR996)\
+YouTube URL: [https://www.youtube.com/watch?v=7MePOSq6ARw](https://www.youtube.com/watch?v=7MePOSq6ARw)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 この解説を読むと、Baseline Protection が何を目指し、誰がどう使うのか、現時点（preview の開始時点）で何が使えて何がこれからなのかが分かります。ロードマップとして、毎年基準を引き上げていく方針も語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR890](https://ignite.microsoft.com/en-US/sessions/THR890)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR890](https://ignite.microsoft.com/en-US/sessions/THR890)\
+YouTube URL: [https://www.youtube.com/watch?v=pCJZzuZXFA8](https://www.youtube.com/watch?v=pCJZzuZXFA8)
 
 ## 2. 発表者
 

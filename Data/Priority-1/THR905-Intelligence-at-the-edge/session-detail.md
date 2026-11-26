@@ -8,7 +8,8 @@
 
 > 注意：このセッションのトランスクリプトは、Isabella 氏がトラックのデモの途中（ファームウェア更新の画面）を話している場面から始まっています。冒頭の自己紹介や導入、トラックの問題が見つかる前半部分は、記録に含まれていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR905](https://ignite.microsoft.com/en-US/sessions/THR905)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR905](https://ignite.microsoft.com/en-US/sessions/THR905)\
+YouTube URL: [https://www.youtube.com/watch?v=xkhd4M68WyM](https://www.youtube.com/watch?v=xkhd4M68WyM)
 
 ## 2. 発表者
 

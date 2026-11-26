@@ -12,7 +12,8 @@
 - 速く回すには「コントロール（制御）」と「インサイト（可視化）」が必要で、そのための機能が Windows Autopatch と Intune に追加されている（メンテナンスウィンドウの GA、品質更新の承認とスケジュール、OS 信頼性レポートなど）。
 - 保護の対象は OS から「アプリ」と「エージェント」へ広がるため、アプリの自動更新（Intune Enterprise App Management 向け、プレビュー）とエージェントの封じ込め（MXC）にも備える必要がある。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK407](https://ignite.microsoft.com/en-US/sessions/BRK407)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK407](https://ignite.microsoft.com/en-US/sessions/BRK407)\
+YouTube URL: [https://www.youtube.com/watch?v=bcIz5XFDJFo](https://www.youtube.com/watch?v=bcIz5XFDJFo)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 セッションでは、パッケージの全体像、Ignite で発表された 2 つの具体例（Azure Catalyst と AI Flex plan）、そして Telefonica Germany の導入事例が順に語られます。AI の取り組みで「どこから始めるか」を考えている方が、Microsoft にどう相談すればよいかを整理する内容です。画面を使ったデモはなく、2 本の動画の上映があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK229](https://ignite.microsoft.com/en-US/sessions/BRK229)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK229](https://ignite.microsoft.com/en-US/sessions/BRK229)\
+YouTube URL: [https://www.youtube.com/watch?v=dNT2ZX15fCg](https://www.youtube.com/watch?v=dNT2ZX15fCg)
 
 ## 2. 発表者
 

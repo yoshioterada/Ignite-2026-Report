@@ -12,7 +12,8 @@
 
 > 注意：このドキュメントの根拠について。公式サイトが配信している英語トランスクリプトが、別のセッション（Windows 365 に関する内容）のものになっていました。そのため、**この文書は、公式サイトが提供する日本語の機械翻訳トランスクリプトだけに基づいて書いています。** 機械翻訳のため、人名・製品名・数値は不正確な可能性があります。例えば原文では「Agent 365」が「Asian 365」、エージェントの数が「◯◯人」と訳されている箇所があります。本文では、文脈から読み取れるものは製品名の正しい表記に直し、不確かな点は個別に注記しました。登壇者名と肩書きはメタデータの情報を使っています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK214](https://ignite.microsoft.com/en-US/sessions/BRK214)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK214](https://ignite.microsoft.com/en-US/sessions/BRK214)\
+YouTube URL: [https://www.youtube.com/watch?v=UGpSZV6McVU](https://www.youtube.com/watch?v=UGpSZV6McVU)
 
 ## 2. 発表者
 

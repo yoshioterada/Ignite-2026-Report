@@ -12,7 +12,8 @@
 
 なお、発表者の名前や社名は音声認識の都合で表記が揺れています（SICK が SIG や SIC と聞こえる箇所があります）。本文では、メタデータにはない固有名詞は聞こえた綴りを基にしており、確定できないものは注記しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK469](https://ignite.microsoft.com/en-US/sessions/BRK469)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK469](https://ignite.microsoft.com/en-US/sessions/BRK469)\
+YouTube URL: [https://www.youtube.com/watch?v=5_GMx0wglxU](https://www.youtube.com/watch?v=5_GMx0wglxU)
 
 ## 2. 発表者
 

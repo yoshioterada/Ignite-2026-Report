@@ -6,7 +6,8 @@
 
 Fleet Control は今週、Microsoft Ignite で初めて公開された製品で、発表時点ではプレビューの申し込み受付中です。早ければ 1 月初旬にプレビューを開始し、一般提供は上半期を予定していると案内されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1094](https://ignite.microsoft.com/en-US/sessions/THRSP1094)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1094](https://ignite.microsoft.com/en-US/sessions/THRSP1094)\
+YouTube URL: [https://www.youtube.com/watch?v=gOJhj3uUf-Q](https://www.youtube.com/watch?v=gOJhj3uUf-Q)
 
 ## 2. 発表者
 

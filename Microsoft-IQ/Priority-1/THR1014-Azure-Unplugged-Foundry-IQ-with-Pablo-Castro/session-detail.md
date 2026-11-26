@@ -6,7 +6,8 @@
 
 このセッションでは画面を使ったデモは行われていません。対話が中心です（終盤に関連セッションの一覧を示すスライドを出す、という予告はありました）。新機能の詳細は、この日の午後のセッションや別セッション、ラボに委ねられており、このセッションでは予告にとどまります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1014](https://ignite.microsoft.com/en-US/sessions/THR1014)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1014](https://ignite.microsoft.com/en-US/sessions/THR1014)\
+YouTube URL: [https://www.youtube.com/watch?v=rZQ9xkbl11Q](https://www.youtube.com/watch?v=rZQ9xkbl11Q)
 
 ## 2. 発表者
 

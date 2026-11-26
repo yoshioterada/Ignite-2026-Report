@@ -6,7 +6,8 @@
 
 内容は、登壇者のデモが中心です。サポートケースを調査するエージェントアプリを例に、モデルの追加、モニタリングの有効化、アクセス制御、エイリアスによるルーティング、自動モデル選択、予算の上限設定を、順番にゲートウェイ上で設定していきます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR902](https://ignite.microsoft.com/en-US/sessions/THR902)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR902](https://ignite.microsoft.com/en-US/sessions/THR902)\
+YouTube URL: [https://www.youtube.com/watch?v=xsNB-XTGvME](https://www.youtube.com/watch?v=xsNB-XTGvME)
 
 ## 2. 発表者
 

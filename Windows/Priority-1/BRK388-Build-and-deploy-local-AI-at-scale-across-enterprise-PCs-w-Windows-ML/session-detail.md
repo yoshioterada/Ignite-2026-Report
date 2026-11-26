@@ -6,7 +6,8 @@
 
 内容は 3 部構成です。前半は、Windows ML CLI でモデルを最適化し、Windows ML で推論するデモです。中盤は、MLIR と DirectX Compute Graph Compiler（DXCGC）をベースにした実験的な Windows ML Runtime APIs と、Llama CPP ベースの task APIs です。後半は、パートナーの Sightful 社による事例です。**デモ 2 とデモ 3 では Wi-Fi をオフにした状態で実演され、「ローカルで動いている」ことが強調されました。**
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK388](https://ignite.microsoft.com/en-US/sessions/BRK388)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK388](https://ignite.microsoft.com/en-US/sessions/BRK388)\
+YouTube URL: [https://www.youtube.com/watch?v=nRth-YJsIO4](https://www.youtube.com/watch?v=nRth-YJsIO4)
 
 ## 2. 発表者
 

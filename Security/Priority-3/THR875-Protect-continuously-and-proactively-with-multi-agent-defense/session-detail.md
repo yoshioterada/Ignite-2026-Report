@@ -10,7 +10,8 @@
 
 > 補足：製品名「Perception」は、トランスクリプト上は一貫して「Microsoft Perception」と聞こえますが、音声認識の都合で表記が確定できません。以下では聞こえたまま表記します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR875](https://ignite.microsoft.com/en-US/sessions/THR875)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR875](https://ignite.microsoft.com/en-US/sessions/THR875)\
+YouTube URL: [https://www.youtube.com/watch?v=096vpb7Yp14](https://www.youtube.com/watch?v=096vpb7Yp14)
 
 ## 2. 発表者
 

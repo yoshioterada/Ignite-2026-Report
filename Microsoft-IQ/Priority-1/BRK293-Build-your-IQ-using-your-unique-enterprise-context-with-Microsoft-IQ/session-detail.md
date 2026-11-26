@@ -8,7 +8,8 @@
 
 > 補足：このドキュメントは英語の録音の書き起こしをもとにしています。登壇者は business plugins について「サービスが公開されたときには」という言い方をしており、提供時期の詳細は発表では触れられていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK293](https://ignite.microsoft.com/en-US/sessions/BRK293)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK293](https://ignite.microsoft.com/en-US/sessions/BRK293)\
+YouTube URL: [https://www.youtube.com/watch?v=Ca44w1lUxog](https://www.youtube.com/watch?v=Ca44w1lUxog)
 
 ## 2. 発表者
 

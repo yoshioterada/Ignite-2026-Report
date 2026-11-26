@@ -10,7 +10,8 @@ AI の利用が広がる中で、ネットワークとガバナンスをどう�
 
 > 補足：セッションの公式概要には、Equinix Fabric One を使ったライブデモが含まれると書かれています。ただし、トランスクリプトの範囲では、このセッション内でのデモは行われていません。Fabric One のライブデモは Equinix のブースで実施される、と案内されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1105](https://ignite.microsoft.com/en-US/sessions/THRSP1105)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1105](https://ignite.microsoft.com/en-US/sessions/THRSP1105)\
+YouTube URL: [https://www.youtube.com/watch?v=AgOkQFPUBVI](https://www.youtube.com/watch?v=AgOkQFPUBVI)
 
 ## 2. 発表者
 

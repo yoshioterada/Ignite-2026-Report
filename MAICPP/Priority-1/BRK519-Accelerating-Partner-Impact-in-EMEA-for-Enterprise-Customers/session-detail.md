@@ -6,7 +6,8 @@
 
 製品の使い方を説明する回ではありません。市場の大きさ、Microsoft の go-to-market の枠組み、Frontier Accelerate などの投資、ISV 向けの優先事項、SI 向けの customer zero、そして具体的な呼びかけ（sovereign、upper major、marketplace と co-sell、lighthouse deals）が中心です。**「機会は大きく、時間は味方ではない。今すぐ動こう」**というメッセージが全体を貫いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK519](https://ignite.microsoft.com/en-US/sessions/BRK519)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK519](https://ignite.microsoft.com/en-US/sessions/BRK519)\
+YouTube URL: [https://www.youtube.com/watch?v=cx7TOuZGjvo](https://www.youtube.com/watch?v=cx7TOuZGjvo)
 
 ## 2. 発表者
 

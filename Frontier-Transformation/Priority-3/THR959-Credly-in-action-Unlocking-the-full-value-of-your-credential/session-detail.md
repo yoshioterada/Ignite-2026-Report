@@ -8,7 +8,8 @@ Greco 氏の主張は、「採用や人材配置で起きている不正は、�
 
 このセッションでは、ライブのデモは行われていません。実際の画面を見せながらの説明（スライド上の画面）はありますが、操作を実演する発話はありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR959](https://ignite.microsoft.com/en-US/sessions/THR959)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR959](https://ignite.microsoft.com/en-US/sessions/THR959)\
+YouTube URL: [https://www.youtube.com/watch?v=LunB4ximhQ4](https://www.youtube.com/watch?v=LunB4ximhQ4)
 
 ## 2. 発表者
 

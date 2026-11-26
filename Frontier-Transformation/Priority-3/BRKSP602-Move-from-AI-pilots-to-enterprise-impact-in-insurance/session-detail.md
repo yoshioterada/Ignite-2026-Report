@@ -14,7 +14,8 @@
 - Zurich が従業員向けに進めた研修・ツール絞り込みの進め方
 - 3 人がそれぞれ挙げた「1 年間の学び」
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP602](https://ignite.microsoft.com/en-US/sessions/BRKSP602)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP602](https://ignite.microsoft.com/en-US/sessions/BRKSP602)\
+YouTube URL: [https://www.youtube.com/watch?v=2VP8Vrn5R48](https://www.youtube.com/watch?v=2VP8Vrn5R48)
 
 ## 2. 発表者
 

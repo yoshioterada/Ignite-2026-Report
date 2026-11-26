@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったライブデモが行われています。後半では、3 週間の開発で得た 3 つの学びも語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR977](https://ignite.microsoft.com/en-US/sessions/THR977)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR977](https://ignite.microsoft.com/en-US/sessions/THR977)\
+YouTube URL: [https://www.youtube.com/watch?v=DLIcYB-SfGs](https://www.youtube.com/watch?v=DLIcYB-SfGs)
 
 ## 2. 発表者
 

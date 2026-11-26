@@ -12,7 +12,8 @@
 
 このセッションでは、デモが 3 つ行われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR980](https://ignite.microsoft.com/en-US/sessions/THR980)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR980](https://ignite.microsoft.com/en-US/sessions/THR980)\
+YouTube URL: [https://www.youtube.com/watch?v=QsWAsU0ez_M](https://www.youtube.com/watch?v=QsWAsU0ez_M)
 
 ## 2. 発表者
 

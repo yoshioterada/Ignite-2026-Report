@@ -8,7 +8,8 @@
 
 このセッションでは、事前に録画した動画の上映（マルチカメラ、Noise Block AI、Voice Score AI）に加えて、Kimberly Ronci 氏が 3D ルームモデルの画面を切り替えて見せる場面があります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1150](https://ignite.microsoft.com/en-US/sessions/THRSP1150)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1150](https://ignite.microsoft.com/en-US/sessions/THRSP1150)\
+YouTube URL: [https://www.youtube.com/watch?v=A_xlUPlCzOI](https://www.youtube.com/watch?v=A_xlUPlCzOI)
 
 ## 2. 発表者
 

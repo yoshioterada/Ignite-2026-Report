@@ -6,7 +6,8 @@
 
 デモは、営業担当者が「AI を使って顧客とより自信を持って話せるようになりたい」という場面を想定した掛け合い形式です。目標を文章で伝えるだけで学習プランが作られ、時間の制約に合わせて調整し、途中から再開し、ハンズオンのラボや資格の準備に進むところまでを、一続きで紹介しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR952](https://ignite.microsoft.com/en-US/sessions/THR952)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR952](https://ignite.microsoft.com/en-US/sessions/THR952)\
+YouTube URL: [https://www.youtube.com/watch?v=VWw66NWGBCI](https://www.youtube.com/watch?v=VWw66NWGBCI)
 
 ## 2. 発表者
 

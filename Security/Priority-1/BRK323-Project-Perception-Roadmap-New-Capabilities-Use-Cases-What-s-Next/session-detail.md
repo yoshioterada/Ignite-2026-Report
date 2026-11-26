@@ -10,7 +10,8 @@ SOC（セキュリティ運用センター）やセキュリティ担当の方�
 
 > 補足：このドキュメントは英語の録音の書き起こしをもとにしています。製品名や固有名詞のうち、音声認識の都合で表記が確定できないものは本文中に注記しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK323](https://ignite.microsoft.com/en-US/sessions/BRK323)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK323](https://ignite.microsoft.com/en-US/sessions/BRK323)\
+YouTube URL: [https://www.youtube.com/watch?v=4vj7vKr7GRU](https://www.youtube.com/watch?v=4vj7vKr7GRU)
 
 ## 2. 発表者
 

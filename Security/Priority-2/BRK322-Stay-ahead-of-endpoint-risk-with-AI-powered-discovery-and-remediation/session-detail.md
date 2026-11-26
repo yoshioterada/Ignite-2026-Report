@@ -8,7 +8,8 @@
 
 話の中心は 2 つのデモ（動画 1 本とライブ 1 本）です。後半には会場からの質問が多く出ており、料金、権限、対応するデータソースについての回答も得られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK322](https://ignite.microsoft.com/en-US/sessions/BRK322)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK322](https://ignite.microsoft.com/en-US/sessions/BRK322)\
+YouTube URL: [https://www.youtube.com/watch?v=CxI_-rWqBTE](https://www.youtube.com/watch?v=CxI_-rWqBTE)
 
 ## 2. 発表者
 

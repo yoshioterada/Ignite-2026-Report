@@ -15,7 +15,8 @@
 
 このセッションでは、画面を使ったデモやツールの操作は行われていません。スライド（調査の図表と引用）を見せながらの講演と、会場との挙手によるやり取り、最後の質疑応答で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK533](https://ignite.microsoft.com/en-US/sessions/BRK533)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK533](https://ignite.microsoft.com/en-US/sessions/BRK533)\
+YouTube URL: [https://www.youtube.com/watch?v=VTENQDpJY9A](https://www.youtube.com/watch?v=VTENQDpJY9A)
 
 ## 2. 発表者
 

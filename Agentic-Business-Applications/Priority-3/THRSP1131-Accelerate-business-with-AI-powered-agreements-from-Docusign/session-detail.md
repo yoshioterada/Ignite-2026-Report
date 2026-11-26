@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモが 3 本行われています（登壇者自身が「3 つのデモ」と述べています）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1131](https://ignite.microsoft.com/en-US/sessions/THRSP1131)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1131](https://ignite.microsoft.com/en-US/sessions/THRSP1131)\
+YouTube URL: [https://www.youtube.com/watch?v=enk9_9PlrTU](https://www.youtube.com/watch?v=enk9_9PlrTU)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 内容は大きく 2 部構成です。前半は Divya 氏が、トレース、golden data set、evaluator（評価器）を使って、リリース前の品質基準とベースラインを作る流れをデモします。後半は Ahmad 氏が、本番運用後に、continuous evaluation、新しい評価用モデル（Decision Model 1.1）、insights、optimization で、劣化を検出して直す流れをデモします。発表全体の主張は、評価を回して品質の変化を測り、改善を重ねていくことです。なお、公式概要には「評価によって、コンテキストエンジニアリングを当て推量から、データに基づく反復的な実践に変える」と書かれています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK310](https://ignite.microsoft.com/en-US/sessions/BRK310)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK310](https://ignite.microsoft.com/en-US/sessions/BRK310)\
+YouTube URL: [https://www.youtube.com/watch?v=opQIf4Q2kUY](https://www.youtube.com/watch?v=opQIf4Q2kUY)
 
 ## 2. 発表者
 

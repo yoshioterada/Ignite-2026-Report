@@ -6,7 +6,8 @@
 
 登壇者は、アプリケーションのモダナイズが止まってしまう理由（人が残っていない、コードや構成を誰も把握していない、など）に対し、エージェントによる作業が助けになると説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR901](https://ignite.microsoft.com/en-US/sessions/THR901)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR901](https://ignite.microsoft.com/en-US/sessions/THR901)\
+YouTube URL: [https://www.youtube.com/watch?v=QT0dl2a6qOw](https://www.youtube.com/watch?v=QT0dl2a6qOw)
 
 ## 2. 発表者
 

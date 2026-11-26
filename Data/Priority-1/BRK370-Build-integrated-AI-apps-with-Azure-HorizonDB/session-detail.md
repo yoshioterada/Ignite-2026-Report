@@ -10,7 +10,8 @@
 
 > 注意：このトランスクリプトは「4 つのステップで解決します」という場面から始まっています。冒頭の問題設定（サプライヤー選定の質問が最初にどう誤った答えを返すのか）の説明は、録音に含まれていません。以降の記述は、録音に残っている範囲だけに基づいています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK370](https://ignite.microsoft.com/en-US/sessions/BRK370)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK370](https://ignite.microsoft.com/en-US/sessions/BRK370)\
+YouTube URL: [https://www.youtube.com/watch?v=t1gVJ0RVB0A](https://www.youtube.com/watch?v=t1gVJ0RVB0A)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 中心となる主張は、**AI の導入を求めるお客様が増えるほど、データ保護・ID・デバイス・セキュリティの基盤整備と、その後の運用サービスがパートナーの機会になる**という点です。画面操作のデモはなく、事前に録画された動画（Copilot のデータ保護の有無の比較）が 1 本再生されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK500](https://ignite.microsoft.com/en-US/sessions/BRK500)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK500](https://ignite.microsoft.com/en-US/sessions/BRK500)\
+YouTube URL: [https://www.youtube.com/watch?v=hzgbmOYxVJY](https://www.youtube.com/watch?v=hzgbmOYxVJY)
 
 ## 2. 発表者
 

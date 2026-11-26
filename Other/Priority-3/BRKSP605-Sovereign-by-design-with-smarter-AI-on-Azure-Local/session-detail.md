@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP605](https://ignite.microsoft.com/en-US/sessions/BRKSP605)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP605](https://ignite.microsoft.com/en-US/sessions/BRKSP605)\
+YouTube URL: [https://www.youtube.com/watch?v=e1pVcSaHa-c](https://www.youtube.com/watch?v=e1pVcSaHa-c)
 
 ## 2. 発表者
 

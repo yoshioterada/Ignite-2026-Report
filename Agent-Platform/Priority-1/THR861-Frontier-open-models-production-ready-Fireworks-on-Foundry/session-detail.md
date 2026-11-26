@@ -6,7 +6,8 @@
 
 オープンモデルに関心があり、コスト・レイテンシ・スループットを踏まえてモデルを選びたい開発者や、Azure 上で本番のエージェントを組む方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR861](https://ignite.microsoft.com/en-US/sessions/THR861)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR861](https://ignite.microsoft.com/en-US/sessions/THR861)\
+YouTube URL: [https://www.youtube.com/watch?v=GI7kO3O_6ys](https://www.youtube.com/watch?v=GI7kO3O_6ys)
 
 ## 2. 発表者
 

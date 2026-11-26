@@ -6,7 +6,8 @@
 
 構成は、Lumen Technologies の顧客事例、Azure Catalyst のデモ（クラウドアーキテクトの視点とアプリ開発者の視点）、セキュリティの 3 層の考え方、Microsoft の専門家支援プログラム、そして質疑応答です。モダナイゼーションの計画や実行に責任を持つ方に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK412](https://ignite.microsoft.com/en-US/sessions/BRK412)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK412](https://ignite.microsoft.com/en-US/sessions/BRK412)\
+YouTube URL: [https://www.youtube.com/watch?v=eKznflnKomA](https://www.youtube.com/watch?v=eKznflnKomA)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 登壇者の結論は、人の価値は「より高くなる。ただし自動的にはそうならない」というものです。そのために、リーダーが行う 3 つの選択（何を人が担い続けるか、人をどう引き上げるか、人と判断を取り巻く仕組みをどう変えるか）が示されました。デモはなく、スライドと口頭の説明、そして後半の質疑応答で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK530](https://ignite.microsoft.com/en-US/sessions/BRK530)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK530](https://ignite.microsoft.com/en-US/sessions/BRK530)\
+YouTube URL: [https://www.youtube.com/watch?v=rfp8pEac4AQ](https://www.youtube.com/watch?v=rfp8pEac4AQ)
 
 ## 2. 発表者
 

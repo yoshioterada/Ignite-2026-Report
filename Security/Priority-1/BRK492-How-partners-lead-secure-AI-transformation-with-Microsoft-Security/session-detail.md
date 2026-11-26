@@ -8,7 +8,8 @@
 
 なお、技術的なデモや製品の操作手順を見せるセッションではありません。パートナーのビジネスの進め方が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK492](https://ignite.microsoft.com/en-US/sessions/BRK492)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK492](https://ignite.microsoft.com/en-US/sessions/BRK492)\
+YouTube URL: [https://www.youtube.com/watch?v=wyvBqcQ7VkY](https://www.youtube.com/watch?v=wyvBqcQ7VkY)
 
 ## 2. 発表者
 

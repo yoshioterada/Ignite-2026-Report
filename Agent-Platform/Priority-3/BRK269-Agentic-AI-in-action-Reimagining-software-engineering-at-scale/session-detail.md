@@ -12,7 +12,8 @@
 
 デモとしては、AIMS の VS Code 拡張の画面を再生しながら説明する場面があります（"I'm going to play the demo" という発話によるもので、その場での操作ではなく再生です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK269](https://ignite.microsoft.com/en-US/sessions/BRK269)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK269](https://ignite.microsoft.com/en-US/sessions/BRK269)\
+YouTube URL: [https://www.youtube.com/watch?v=CZlUtIxGJkg](https://www.youtube.com/watch?v=CZlUtIxGJkg)
 
 ## 2. 発表者
 

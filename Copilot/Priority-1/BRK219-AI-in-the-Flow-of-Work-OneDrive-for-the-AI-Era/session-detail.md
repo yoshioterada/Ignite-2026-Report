@@ -6,7 +6,8 @@
 
 OneDrive と SharePoint を使っている開発者・IT 管理者にとっては、同期クライアントの更新（100 万アイテム、メモリ要件、Sync CLI）、「ヒーローリンク」を軸にした共有の再設計、SharePoint Advanced Management の新しいレポートとポリシーなど、時期付きの情報が多く含まれています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK219](https://ignite.microsoft.com/en-US/sessions/BRK219)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK219](https://ignite.microsoft.com/en-US/sessions/BRK219)\
+YouTube URL: [https://www.youtube.com/watch?v=cLGM_euqANw](https://www.youtube.com/watch?v=cLGM_euqANw)
 
 ## 2. 発表者
 

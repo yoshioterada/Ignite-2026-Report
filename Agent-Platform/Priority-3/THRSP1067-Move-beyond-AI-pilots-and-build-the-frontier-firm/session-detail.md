@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明が中心で、会場への挙手での質問が数回あります）。質疑応答の時間も、録音上は設けられていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1067](https://ignite.microsoft.com/en-US/sessions/THRSP1067)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1067](https://ignite.microsoft.com/en-US/sessions/THRSP1067)\
+YouTube URL: [https://www.youtube.com/watch?v=K_D9hJY03fk](https://www.youtube.com/watch?v=K_D9hJY03fk)
 
 ## 2. 発表者
 

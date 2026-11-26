@@ -8,7 +8,8 @@
 
 このセッションを読むと、Copilot Studio からのデータ接続を MCP でどう広げるか、ゲートウェイやコンテキストエンジン、ツールキットでどこまで絞って制御できるか、発表で示された数値（精度で約 25 ポイント差、コストで 178 倍差、トークン効率で 93%）が何を比較したものなのかが分かります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1119](https://ignite.microsoft.com/en-US/sessions/THRSP1119)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1119](https://ignite.microsoft.com/en-US/sessions/THRSP1119)\
+YouTube URL: [https://www.youtube.com/watch?v=OBMiqpqFHL4](https://www.youtube.com/watch?v=OBMiqpqFHL4)
 
 ## 2. 発表者
 

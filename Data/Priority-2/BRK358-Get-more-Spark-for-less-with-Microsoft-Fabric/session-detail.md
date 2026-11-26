@@ -6,7 +6,8 @@
 
 発表者自身が、全日の観光バスツアーのように「見どころを駆け足で回る」内容だと位置づけており、各項目の詳細な手順ではなく、自分の環境で何を検討すべきかのキーワードを持ち帰ってもらう構成です。会場には Spark の経験者が多く、発表者が冒頭で、Spark の利用経験や、Fabric・Synapse などほかの環境での利用経験を会場に尋ねる場面がありました。画面を操作するデモは行われておらず、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK358](https://ignite.microsoft.com/en-US/sessions/BRK358)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK358](https://ignite.microsoft.com/en-US/sessions/BRK358)\
+YouTube URL: [https://www.youtube.com/watch?v=i7DA8c0jaFc](https://www.youtube.com/watch?v=i7DA8c0jaFc)
 
 ## 2. 発表者
 

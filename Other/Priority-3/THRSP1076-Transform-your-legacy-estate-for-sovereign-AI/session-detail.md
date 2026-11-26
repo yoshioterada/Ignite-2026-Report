@@ -8,7 +8,8 @@
 
 デモは 2 回あります。前半は Concerto のアシスタント、コーディングアシスタント、管理用のコントロールプレーンの画面を見せ、後半は Concerto Migrate のエージェント機能で、移行の事業案件（ビジネスケース）と TCO レポートを作る流れを、画面の説明として語っています。製品紹介の性格が強く、Microsoft の製品機能そのものの解説ではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1076](https://ignite.microsoft.com/en-US/sessions/THRSP1076)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1076](https://ignite.microsoft.com/en-US/sessions/THRSP1076)\
+YouTube URL: [https://www.youtube.com/watch?v=PJ0gw0LArxU](https://www.youtube.com/watch?v=PJ0gw0LArxU)
 
 ## 2. 発表者
 

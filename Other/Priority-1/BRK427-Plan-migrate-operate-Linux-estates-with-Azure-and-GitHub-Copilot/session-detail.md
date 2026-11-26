@@ -8,7 +8,8 @@
 
 伝えたい結論は、AI エージェントを使っても、アプリケーションについての自分の知識（何を残すべきか、どう動くべきか）が、結果を判断するうえで欠かせない、という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK427](https://ignite.microsoft.com/en-US/sessions/BRK427)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK427](https://ignite.microsoft.com/en-US/sessions/BRK427)\
+YouTube URL: [https://www.youtube.com/watch?v=ezLm-8qK53A](https://www.youtube.com/watch?v=ezLm-8qK53A)
 
 ## 2. 発表者
 

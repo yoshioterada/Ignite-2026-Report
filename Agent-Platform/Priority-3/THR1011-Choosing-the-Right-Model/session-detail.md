@@ -8,7 +8,8 @@
 
 このセッションでは、VS Code 上のエージェントと Microsoft Foundry の画面を使ったライブデモが複数回行われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1011](https://ignite.microsoft.com/en-US/sessions/THR1011)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1011](https://ignite.microsoft.com/en-US/sessions/THR1011)\
+YouTube URL: [https://www.youtube.com/watch?v=TI1rpV1kvOo](https://www.youtube.com/watch?v=TI1rpV1kvOo)
 
 ## 2. 発表者
 

@@ -12,7 +12,8 @@
 
 画面を使ったデモは 2 回あります。Alice 氏による Microsoft Copilot harness のライブデモと、Jason 氏による customer conversation harness のデモ録画です（Jason 氏はライブデモを予定していましたが、会場の電波状態が悪く録画に切り替えています）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK264](https://ignite.microsoft.com/en-US/sessions/BRK264)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK264](https://ignite.microsoft.com/en-US/sessions/BRK264)\
+YouTube URL: [https://www.youtube.com/watch?v=ICjBg7vcIBE](https://www.youtube.com/watch?v=ICjBg7vcIBE)
 
 ## 2. 発表者
 

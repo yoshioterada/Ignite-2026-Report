@@ -8,7 +8,8 @@
 
 製品の機能紹介ではなく、導入の進め方についての講演です。画面を使ったデモはなく、冒頭で AI 音声アシスタントの通話の録音（約 90 秒）が再生されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR975](https://ignite.microsoft.com/en-US/sessions/THR975)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR975](https://ignite.microsoft.com/en-US/sessions/THR975)\
+YouTube URL: [https://www.youtube.com/watch?v=0xlCheM-su0](https://www.youtube.com/watch?v=0xlCheM-su0)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 内容の中心は、(1) Snapdragon X series PC の特徴、(2) ディープフェイク検出アプリ Scam AI の紹介、(3) agentic PC とは何か、(4) オーケストレーションとセキュリティ・ガバナンスの考え方です。画面を使ったデモはなく、パートナーアプリの紹介ビデオを 2 本流しています。Microsoft との協業については、Windows がエージェントとフレームワークのオーケストレーションを担う、という範囲で触れられています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1144](https://ignite.microsoft.com/en-US/sessions/THRSP1144)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1144](https://ignite.microsoft.com/en-US/sessions/THRSP1144)\
+YouTube URL: [https://www.youtube.com/watch?v=C-96AyV0SnI](https://www.youtube.com/watch?v=C-96AyV0SnI)
 
 ## 2. 発表者
 

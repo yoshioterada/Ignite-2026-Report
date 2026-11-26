@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。スライドの図（Agent 409 という架空のエージェントを使った例）を使った口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1151](https://ignite.microsoft.com/en-US/sessions/THRSP1151)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1151](https://ignite.microsoft.com/en-US/sessions/THRSP1151)\
+YouTube URL: [https://www.youtube.com/watch?v=Lnu7shbuvg8](https://www.youtube.com/watch?v=Lnu7shbuvg8)
 
 ## 2. 発表者
 

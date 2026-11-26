@@ -8,7 +8,8 @@
 
 デモは 3 本あり、いずれも録画した動画を流す形式でした。契約書の変更点を洗い出すデモ、案件管理表を自動で作らせるデモ、そして Windows のすべてのウィンドウを自動で最大化するアプリのデモです。最後に、AI の効果を測る指標についての提案と、参加者への「宿題」、質疑応答があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK538](https://ignite.microsoft.com/en-US/sessions/BRK538)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK538](https://ignite.microsoft.com/en-US/sessions/BRK538)\
+YouTube URL: [https://www.youtube.com/watch?v=qyc1qpjuDqU](https://www.youtube.com/watch?v=qyc1qpjuDqU)
 
 ## 2. 発表者
 

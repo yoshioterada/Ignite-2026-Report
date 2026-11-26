@@ -8,7 +8,8 @@
 
 Ignite での発表の中心は、ARO の **hosted control planes（HCP）**、脆弱性対応サービスの **Lightwell**、そして **direct virtualization**（private preview が間もなく開始）の 3 つです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK426](https://ignite.microsoft.com/en-US/sessions/BRK426)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK426](https://ignite.microsoft.com/en-US/sessions/BRK426)\
+YouTube URL: [https://www.youtube.com/watch?v=YJq2Ho2cMT8](https://www.youtube.com/watch?v=YJq2Ho2cMT8)
 
 ## 2. 発表者
 

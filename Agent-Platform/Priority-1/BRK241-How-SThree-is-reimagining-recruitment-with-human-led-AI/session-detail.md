@@ -6,7 +6,8 @@
 
 内容は 3 部に分かれます。最初に SThree の CEO が、なぜ業務をゼロから作り直したのか、どんな方針で AI を設計したのかを語ります。次に、COO が架空の求人案件を使い、求人の受付から入社手続き、タイムシート、未払い請求の回収までを一続きで実演します。最後は、デモに候補者役として参加した Microsoft の Marco 氏との対談で、アーキテクチャ、責任ある AI、スケール、変革の進め方が話されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK241](https://ignite.microsoft.com/en-US/sessions/BRK241)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK241](https://ignite.microsoft.com/en-US/sessions/BRK241)\
+YouTube URL: [https://www.youtube.com/watch?v=2Jrg-9gajoU](https://www.youtube.com/watch?v=2Jrg-9gajoU)
 
 ## 2. 発表者
 

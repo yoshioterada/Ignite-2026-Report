@@ -6,7 +6,8 @@
 
 流れは次のとおりです。まず Microsoft の担当者が、地理空間データとは何か、なぜ扱いにくいのか、MPC がその課題にどう応えるかを説明します。続いて EY のパートナーが、自社のレジリエンス（resilience）ソリューションの画面を使って、洪水リスクを施設ごとに評価する例を見せます。最後に Microsoft の担当者が、同じ結果を再現可能な形で大規模に作る仕組みを、実際の製品画面で示します。「物理世界の変化が自社の資産や取引先にどう影響するか」を AI で扱いたい方に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK468](https://ignite.microsoft.com/en-US/sessions/BRK468)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK468](https://ignite.microsoft.com/en-US/sessions/BRK468)\
+YouTube URL: [https://www.youtube.com/watch?v=Y-0s44QFmaQ](https://www.youtube.com/watch?v=Y-0s44QFmaQ)
 
 ## 2. 発表者
 

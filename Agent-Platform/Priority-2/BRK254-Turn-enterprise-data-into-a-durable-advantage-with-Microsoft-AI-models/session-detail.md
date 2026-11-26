@@ -6,7 +6,8 @@
 
 発表の中心にある考えは、**自社の製品に組み込むインテリジェンスは自社のものであるべき**というものです。モデルを借りるのではなく、自社のデータで調整しながら、精度を上げてコストを下げる「継続的な学習ループ」を回す、という流れが一貫して語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK254](https://ignite.microsoft.com/en-US/sessions/BRK254)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK254](https://ignite.microsoft.com/en-US/sessions/BRK254)\
+YouTube URL: [https://www.youtube.com/watch?v=tsWjDjFLlng](https://www.youtube.com/watch?v=tsWjDjFLlng)
 
 ## 2. 発表者
 

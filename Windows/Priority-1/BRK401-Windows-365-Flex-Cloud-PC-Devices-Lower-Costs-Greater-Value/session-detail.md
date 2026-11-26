@@ -10,7 +10,8 @@
 
 Intune での Cloud Apps のプロビジョニングと、Windows 365 Link を使った USB リダイレクトの 2 つのライブデモもあります。VDI の運用負荷に悩む IT 管理者や、共有端末のコストを見直したい方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK401](https://ignite.microsoft.com/en-US/sessions/BRK401)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK401](https://ignite.microsoft.com/en-US/sessions/BRK401)\
+YouTube URL: [https://www.youtube.com/watch?v=dZgsjlKHZ_8](https://www.youtube.com/watch?v=dZgsjlKHZ_8)
 
 ## 2. 発表者
 

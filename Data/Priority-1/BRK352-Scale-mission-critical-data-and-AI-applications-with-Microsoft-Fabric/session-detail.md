@@ -6,7 +6,8 @@
 
 構成は、**開発（Developing）、管理（Managing）、ガバナンス（Governing）** の 3 本柱に、Fabric 自身がどのように信頼性を確保しているかという最後の話を加えたものです。デモが多く、Fabric skills と Fabric Copilot による開発、OneLake catalog、キャパシティ管理と Monitor Hub、ガバナンス用のスキルなどが実演されました。このドキュメントでは、各デモを語られた順に整理し、機能ごとに「GA」「パブリックプレビュー」「近日公開」の別も書き留めます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK352](https://ignite.microsoft.com/en-US/sessions/BRK352)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK352](https://ignite.microsoft.com/en-US/sessions/BRK352)\
+YouTube URL: [https://www.youtube.com/watch?v=ZEAE7gR4Td0](https://www.youtube.com/watch?v=ZEAE7gR4Td0)
 
 ## 2. 発表者
 

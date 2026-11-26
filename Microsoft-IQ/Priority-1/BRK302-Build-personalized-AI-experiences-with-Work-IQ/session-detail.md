@@ -8,7 +8,8 @@
 
 発表は、1 つのシナリオ（顧客ポータルをリリースできるか）を軸に、Work IQ がどの場面で何を変えるのかを見せる形で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK302](https://ignite.microsoft.com/en-US/sessions/BRK302)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK302](https://ignite.microsoft.com/en-US/sessions/BRK302)\
+YouTube URL: [https://www.youtube.com/watch?v=2prEBJoqYPA](https://www.youtube.com/watch?v=2prEBJoqYPA)
 
 ## 2. 発表者
 

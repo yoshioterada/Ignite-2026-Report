@@ -6,7 +6,8 @@
 
 発表の前半では、航空機整備士向けの業務アプリ「Hangar」を題材に、一連の開発サイクルを実演しています。後半では、パートナーである Replit のデモ、WinUI プラットフォームの改善点、試験的に提供中の機能、入手方法が紹介されます。質疑応答の時間は取られていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK394](https://ignite.microsoft.com/en-US/sessions/BRK394)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK394](https://ignite.microsoft.com/en-US/sessions/BRK394)\
+YouTube URL: [https://www.youtube.com/watch?v=E2YCg6R3jrI](https://www.youtube.com/watch?v=E2YCg6R3jrI)
 
 ## 2. 発表者
 

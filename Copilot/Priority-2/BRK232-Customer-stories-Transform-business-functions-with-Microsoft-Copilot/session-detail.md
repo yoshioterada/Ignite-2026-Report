@@ -8,7 +8,8 @@
 
 デモは行われていません。画面を使った実演はなく、対談と質疑応答が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK232](https://ignite.microsoft.com/en-US/sessions/BRK232)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK232](https://ignite.microsoft.com/en-US/sessions/BRK232)\
+YouTube URL: [https://www.youtube.com/watch?v=Kzr52zH-eOo](https://www.youtube.com/watch?v=Kzr52zH-eOo)
 
 ## 2. 発表者
 

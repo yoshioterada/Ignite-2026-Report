@@ -6,7 +6,8 @@
 
 結論は「**Better content, better output**（良いコンテンツから良い出力が生まれる）」で、発表者はこれを knowledge strategy と呼んでいます。終盤では、帰ってから取れる行動として 4 ステップが示されます。最初の一歩は、価値の高いライブラリを 1 つ選んで整理することです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR852](https://ignite.microsoft.com/en-US/sessions/THR852)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR852](https://ignite.microsoft.com/en-US/sessions/THR852)\
+YouTube URL: [https://www.youtube.com/watch?v=QMQonMHOQNQ](https://www.youtube.com/watch?v=QMQonMHOQNQ)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 デモは行われていません。登壇者の対談と、画面に映したスライド（リスクの 4 つの大きな潮流など）で進みます。最後に会場からの質問が 2 件あります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK474](https://ignite.microsoft.com/en-US/sessions/BRK474)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK474](https://ignite.microsoft.com/en-US/sessions/BRK474)\
+YouTube URL: [https://www.youtube.com/watch?v=13TfqEcB3dw](https://www.youtube.com/watch?v=13TfqEcB3dw)
 
 ## 2. 発表者
 

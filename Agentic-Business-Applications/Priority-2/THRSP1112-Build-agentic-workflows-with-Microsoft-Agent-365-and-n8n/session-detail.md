@@ -6,7 +6,8 @@
 
 デモでは、Teams から請求書の承認を依頼すると、1 万ユーロ以下なら自動で承認と記帳が進み、1 万ユーロを超えると CFO の承認待ちに回ることを確認できます。ただし、エージェントに固有の ID を持たせる機能はまだ Frontier Preview（先行提供）であり、Microsoft Agent 365 自体は一般提供済みである、という区別も発表の中で明示されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1112](https://ignite.microsoft.com/en-US/sessions/THRSP1112)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1112](https://ignite.microsoft.com/en-US/sessions/THRSP1112)\
+YouTube URL: [https://www.youtube.com/watch?v=6oFKeJoYc0c](https://www.youtube.com/watch?v=6oFKeJoYc0c)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 前半は Rajesh 氏が全体のアーキテクチャ、リソース階層、ポータルと VS Code での管理体験を紹介し、London Stock Exchange Group（LSEG）の Dave 氏が採用の背景を話します。後半は Sandeep 氏が、self-hosted の Postgres との TPC-C 比較デモを見せたうえで、パフォーマンス、セキュリティ、高可用性、スケーラビリティを内部の仕組みから説明しました。結論は、**「エンタープライズのワークロードに求められる性能・スケール・セキュリティ・可用性は、AI エージェントが求める要件と同じであり、それを土台に HorizonDB を作った」** というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK361](https://ignite.microsoft.com/en-US/sessions/BRK361)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK361](https://ignite.microsoft.com/en-US/sessions/BRK361)\
+YouTube URL: [https://www.youtube.com/watch?v=ikxEKGxrwJw](https://www.youtube.com/watch?v=ikxEKGxrwJw)
 
 ## 2. 発表者
 

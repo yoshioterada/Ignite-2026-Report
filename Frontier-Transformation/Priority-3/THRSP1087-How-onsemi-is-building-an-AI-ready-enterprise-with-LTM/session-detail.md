@@ -8,7 +8,8 @@ onsemi 側の登壇者が最後に挙げた教訓は次の 4 つです。**デ�
 
 このセッションには、デモの映像と、開発者ポータルの画面を見せながらの説明があります（6 章）。映像はナレーション付きの録画で、最初にうまく表示されず、再生し直しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1087](https://ignite.microsoft.com/en-US/sessions/THRSP1087)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1087](https://ignite.microsoft.com/en-US/sessions/THRSP1087)\
+YouTube URL: [https://www.youtube.com/watch?v=Dl5pRMbRHWg](https://www.youtube.com/watch?v=Dl5pRMbRHWg)
 
 ## 2. 発表者
 

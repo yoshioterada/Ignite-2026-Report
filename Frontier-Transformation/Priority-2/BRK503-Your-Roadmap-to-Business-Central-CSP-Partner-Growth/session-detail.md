@@ -6,7 +6,8 @@
 
 発表の中心にあるのは、BC を「中堅・中小企業（SMB）がフロンティア企業（Frontier Firm）へ向かう最初の入口」として位置づける考え方です。会場は Ignite の締めくくりにあたる午後 5 時 15 分で、発表者は終了時刻が迫る中で一部のスライドを駆け足で進めています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK503](https://ignite.microsoft.com/en-US/sessions/BRK503)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK503](https://ignite.microsoft.com/en-US/sessions/BRK503)\
+YouTube URL: [https://www.youtube.com/watch?v=w3fz88c4dUc](https://www.youtube.com/watch?v=w3fz88c4dUc)
 
 ## 2. 発表者
 

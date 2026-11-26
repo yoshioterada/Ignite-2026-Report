@@ -12,7 +12,8 @@
 
 それぞれに新機能が対応しており、**Conditional Access policy plans**（パブリックプレビュー）、**assistive agents 向けの条件付きアクセス**（パブリックプレビュー）、**Conditional Access dynamic controls**（プレビュー）が紹介されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK331](https://ignite.microsoft.com/en-US/sessions/BRK331)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK331](https://ignite.microsoft.com/en-US/sessions/BRK331)\
+YouTube URL: [https://www.youtube.com/watch?v=Wp3TjbeYc6c](https://www.youtube.com/watch?v=Wp3TjbeYc6c)
 
 ## 2. 発表者
 

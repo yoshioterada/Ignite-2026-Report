@@ -8,7 +8,8 @@
 
 **発表全体の主張は、「エージェント・ワークフロー・アプリを一緒に作れることが、ビジネスプロセスの変革につながる」というものです。** 以下では、その根拠として語られた内容を順に整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK267](https://ignite.microsoft.com/en-US/sessions/BRK267)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK267](https://ignite.microsoft.com/en-US/sessions/BRK267)\
+YouTube URL: [https://www.youtube.com/watch?v=F1uiehsuwAU](https://www.youtube.com/watch?v=F1uiehsuwAU)
 
 ## 2. 発表者
 

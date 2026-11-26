@@ -6,7 +6,8 @@
 
 エンタープライズでエージェントを作る開発者や、既存の業務プロセスに AI を足したいエンジニアに向けた内容です。Web IQ が **Ignite で一般提供（GA）として発表された**ことも、セッションの最後に語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK311](https://ignite.microsoft.com/en-US/sessions/BRK311)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK311](https://ignite.microsoft.com/en-US/sessions/BRK311)\
+YouTube URL: [https://www.youtube.com/watch?v=7ri04xgn_mo](https://www.youtube.com/watch?v=7ri04xgn_mo)
 
 ## 2. 発表者
 

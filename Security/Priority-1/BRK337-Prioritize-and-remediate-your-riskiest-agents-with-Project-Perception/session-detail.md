@@ -6,7 +6,8 @@
 
 発表者は冒頭で、「ライブコードで、モックは使わない」とデモへの姿勢を述べています。デモは大きく 2 つあります。1 つ目は Claude Code を使った、エージェントへの時間制限付きアクセスと多層防御の様子。2 つ目は Perception のポータルで、エージェントの棚卸し、リスク分析、封じ込めのプレイブック、動的な条件付きアクセスまでを順にたどる内容です。最後の約 7 分は Q&A で、価格、MXC、SASE、サードパーティエージェントの制御などの質問が出ました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK337](https://ignite.microsoft.com/en-US/sessions/BRK337)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK337](https://ignite.microsoft.com/en-US/sessions/BRK337)\
+YouTube URL: [https://www.youtube.com/watch?v=eT2L6RQtoW8](https://www.youtube.com/watch?v=eT2L6RQtoW8)
 
 ## 2. 発表者
 

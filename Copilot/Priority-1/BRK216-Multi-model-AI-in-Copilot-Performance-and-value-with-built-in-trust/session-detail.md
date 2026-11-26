@@ -8,7 +8,8 @@
 
 デモは、Auto と個別モデル選択（Nagu 氏）、利用者のクレジット消費と管理センターでの操作（Peter 氏）の 2 回あります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK216](https://ignite.microsoft.com/en-US/sessions/BRK216)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK216](https://ignite.microsoft.com/en-US/sessions/BRK216)\
+YouTube URL: [https://www.youtube.com/watch?v=sDUg6FVeBeM](https://www.youtube.com/watch?v=sDUg6FVeBeM)
 
 ## 2. 発表者
 

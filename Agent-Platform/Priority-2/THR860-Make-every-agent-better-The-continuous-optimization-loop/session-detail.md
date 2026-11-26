@@ -6,7 +6,8 @@
 
 発表では、航空会社のサポートエージェントを題材に、トレース（実行記録）の確認、インサイト（トレースからの問題点の抽出）、評価、オプティマイザーによる自動改善、本番トラフィックの一部だけで試す実験、そして本番の記録から学ぶ継続学習までを、画面を使って順に見せています。結論は「プロンプトから始めるのをやめて、改善のループを回し始めよう」というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR860](https://ignite.microsoft.com/en-US/sessions/THR860)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR860](https://ignite.microsoft.com/en-US/sessions/THR860)\
+YouTube URL: [https://www.youtube.com/watch?v=R5O3j5GyZXU](https://www.youtube.com/watch?v=R5O3j5GyZXU)
 
 ## 2. 発表者
 

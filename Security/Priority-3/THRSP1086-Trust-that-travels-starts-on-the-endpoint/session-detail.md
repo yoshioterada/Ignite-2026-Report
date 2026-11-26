@@ -8,7 +8,8 @@
 
 後半では、ランサムウェア、物理的な改ざん、持ち主が変わる場面という 3 つの具体的なシナリオで、各層がどう働くかが説明されます。最後に、ポスト量子暗号（PQC）を「購入判断の問題」として捉える議論が紹介されます。このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1086](https://ignite.microsoft.com/en-US/sessions/THRSP1086)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1086](https://ignite.microsoft.com/en-US/sessions/THRSP1086)\
+YouTube URL: [https://www.youtube.com/watch?v=pGLR853XYC8](https://www.youtube.com/watch?v=pGLR853XYC8)
 
 ## 2. 発表者
 

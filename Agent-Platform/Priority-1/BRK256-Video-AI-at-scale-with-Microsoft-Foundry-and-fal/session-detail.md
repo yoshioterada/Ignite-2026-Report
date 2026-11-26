@@ -12,7 +12,8 @@
 
 なお、モデル名（MiniMax H3、H3 Turbo、H3 Max、LTX 2.5 Pro、Kling V3、MAI Image 2.7 など）は音声認識の書き起こしに基づいており、正確な綴りは音声からは確定できません。登壇者の発話から聞き取れた表記で書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK256](https://ignite.microsoft.com/en-US/sessions/BRK256)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK256](https://ignite.microsoft.com/en-US/sessions/BRK256)\
+YouTube URL: [https://www.youtube.com/watch?v=TpZkx_HvFWM](https://www.youtube.com/watch?v=TpZkx_HvFWM)
 
 ## 2. 発表者
 

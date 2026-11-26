@@ -8,7 +8,8 @@
 
 なお、このセッションでは実機デモは行われていません。スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR878](https://ignite.microsoft.com/en-US/sessions/THR878)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR878](https://ignite.microsoft.com/en-US/sessions/THR878)\
+YouTube URL: [https://www.youtube.com/watch?v=dX0bO6Zyl0s](https://www.youtube.com/watch?v=dX0bO6Zyl0s)
 
 ## 2. 発表者
 

@@ -10,7 +10,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。Taylor 氏は「デモにはうんざりしている」とまで話しており、画面操作の説明ではなく、経験談が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP620](https://ignite.microsoft.com/en-US/sessions/BRKSP620)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP620](https://ignite.microsoft.com/en-US/sessions/BRKSP620)\
+YouTube URL: [https://www.youtube.com/watch?v=elCMZ3Z2hbk](https://www.youtube.com/watch?v=elCMZ3Z2hbk)
 
 ## 2. 発表者
 

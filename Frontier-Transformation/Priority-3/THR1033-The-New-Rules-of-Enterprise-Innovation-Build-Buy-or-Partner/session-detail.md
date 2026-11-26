@@ -12,7 +12,8 @@
 
 短い登壇（録音は約 25 分）で、画面を使ったデモは行われていません。スライドと口頭の説明が中心で、後半に Q&A があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1033](https://ignite.microsoft.com/en-US/sessions/THR1033)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1033](https://ignite.microsoft.com/en-US/sessions/THR1033)\
+YouTube URL: [https://www.youtube.com/watch?v=ILcVf3DQmqE](https://www.youtube.com/watch?v=ILcVf3DQmqE)
 
 ## 2. 発表者
 

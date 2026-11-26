@@ -8,7 +8,8 @@
 
 画面を使ったデモはなく、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR928](https://ignite.microsoft.com/en-US/sessions/THR928)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR928](https://ignite.microsoft.com/en-US/sessions/THR928)\
+YouTube URL: [https://www.youtube.com/watch?v=GMgtRKKXR6U](https://www.youtube.com/watch?v=GMgtRKKXR6U)
 
 ## 2. 発表者
 

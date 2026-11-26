@@ -14,7 +14,8 @@
 
 > 注意：製品名やモデル名の一部は、音声認識の都合で表記が確定できません。該当箇所には、その旨を書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV643](https://ignite.microsoft.com/en-US/sessions/INV643)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV643](https://ignite.microsoft.com/en-US/sessions/INV643)\
+YouTube URL: [https://www.youtube.com/watch?v=I27UYrukuAw](https://www.youtube.com/watch?v=I27UYrukuAw)
 
 ## 2. 発表者
 

@@ -14,7 +14,8 @@
 
 このセッションでは、時間の都合で本格的なデモは行われていません（登壇者自身が、デモ全体を見せる時間はないと述べています）。製品を使い始める流れを、画面を見せながら駆け足で説明する場面が終盤にあります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1078](https://ignite.microsoft.com/en-US/sessions/THRSP1078)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1078](https://ignite.microsoft.com/en-US/sessions/THRSP1078)\
+YouTube URL: [https://www.youtube.com/watch?v=nPdOIKjyVPc](https://www.youtube.com/watch?v=nPdOIKjyVPc)
 
 ## 2. 発表者
 

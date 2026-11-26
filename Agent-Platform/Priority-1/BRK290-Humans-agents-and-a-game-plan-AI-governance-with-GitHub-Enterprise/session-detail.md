@@ -6,7 +6,8 @@
 
 結論を先に言うと、発表者が繰り返し勧めているのは、**「まずシンプルに始め、既定を決め、チーム単位で試し、使用状況を測り、必要な所だけ洗練させる」** という進め方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK290](https://ignite.microsoft.com/en-US/sessions/BRK290)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK290](https://ignite.microsoft.com/en-US/sessions/BRK290)\
+YouTube URL: [https://www.youtube.com/watch?v=oiJugjGTwl0](https://www.youtube.com/watch?v=oiJugjGTwl0)
 
 ## 2. 発表者
 

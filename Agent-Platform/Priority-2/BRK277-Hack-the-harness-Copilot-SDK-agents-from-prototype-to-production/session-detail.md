@@ -8,7 +8,8 @@
 
 **結論として、Copilot SDK 2.0 の共有ランタイム（コンテナーの外でも動くランタイム）が、これらの構成をすべて可能にしている**というのが発表の主張です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK277](https://ignite.microsoft.com/en-US/sessions/BRK277)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK277](https://ignite.microsoft.com/en-US/sessions/BRK277)\
+YouTube URL: [https://www.youtube.com/watch?v=mSNKRR4-wnk](https://www.youtube.com/watch?v=mSNKRR4-wnk)
 
 ## 2. 発表者
 

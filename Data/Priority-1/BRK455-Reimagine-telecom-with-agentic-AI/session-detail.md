@@ -8,7 +8,8 @@
 
 3 社に共通するのは、個別のユースケースではなくプラットフォームとして AI を扱い、価値と成果で測ることです。なお、画面を使ったデモは行われていません。スライドの説明とパネル対話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK455](https://ignite.microsoft.com/en-US/sessions/BRK455)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK455](https://ignite.microsoft.com/en-US/sessions/BRK455)\
+YouTube URL: [https://www.youtube.com/watch?v=JN4bPm611uY](https://www.youtube.com/watch?v=JN4bPm611uY)
 
 ## 2. 発表者
 

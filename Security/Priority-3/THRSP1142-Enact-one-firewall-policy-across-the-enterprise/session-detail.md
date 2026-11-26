@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1142](https://ignite.microsoft.com/en-US/sessions/THRSP1142)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1142](https://ignite.microsoft.com/en-US/sessions/THRSP1142)\
+YouTube URL: [https://www.youtube.com/watch?v=w7RMte3k2ww](https://www.youtube.com/watch?v=w7RMte3k2ww)
 
 ## 2. 発表者
 

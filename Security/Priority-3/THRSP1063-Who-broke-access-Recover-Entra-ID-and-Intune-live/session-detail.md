@@ -8,7 +8,8 @@
 
 > 注意：登壇者が紹介した製品名は、音声認識の都合で「backup」「Backopta」などと書き起こされており、正式名称を確定できません。本稿では「登壇者のバックアップ製品」と表記します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1063](https://ignite.microsoft.com/en-US/sessions/THRSP1063)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1063](https://ignite.microsoft.com/en-US/sessions/THRSP1063)\
+YouTube URL: [https://www.youtube.com/watch?v=y_RF7XvTRGk](https://www.youtube.com/watch?v=y_RF7XvTRGk)
 
 ## 2. 発表者
 

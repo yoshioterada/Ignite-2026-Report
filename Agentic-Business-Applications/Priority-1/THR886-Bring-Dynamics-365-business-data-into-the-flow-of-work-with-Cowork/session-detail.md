@@ -8,7 +8,8 @@ Cowork は、質問に答えるだけでなく「答えの後の作業」まで�
 
 発表全体を貫く考え方は、**「データが人のところに来て、Cowork が作業をし、人が判断する」** というものです。Cowork は利用者本人の Dynamics 365 の権限の範囲でしか動かず、影響の大きい操作や変更の書き込みは本人の承認を待ちます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR886](https://ignite.microsoft.com/en-US/sessions/THR886)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR886](https://ignite.microsoft.com/en-US/sessions/THR886)\
+YouTube URL: [https://www.youtube.com/watch?v=l2s5NLCtfbI](https://www.youtube.com/watch?v=l2s5NLCtfbI)
 
 ## 2. 発表者
 

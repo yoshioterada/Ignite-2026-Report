@@ -8,7 +8,8 @@
 
 結論を先に書くと、ソブリン性は単一の製品ではなく、**ワークロードごとに構成する一連の統制**であり、法務部門・事業部門・エンジニアリング部門で話し合って決めるものだ、というのが全体を通した主張です。デモは 2 つあります（Azure Policy による配置場所とキー管理の制限、Customer Lockbox の有効化）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK439](https://ignite.microsoft.com/en-US/sessions/BRK439)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK439](https://ignite.microsoft.com/en-US/sessions/BRK439)\
+YouTube URL: [https://www.youtube.com/watch?v=a2Nds8hMhJA](https://www.youtube.com/watch?v=a2Nds8hMhJA)
 
 ## 2. 発表者
 

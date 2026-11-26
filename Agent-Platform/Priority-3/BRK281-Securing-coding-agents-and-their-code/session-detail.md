@@ -8,7 +8,8 @@
 
 デモは前半・後半ともに画面を使って行われています。Rohan 氏のパートは、Copilot coding agent、Copilot CLI の security review、push protection、Copilot code review、Autofix を、実演と、事前に実行しておいた結果の画面で見せる構成です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK281](https://ignite.microsoft.com/en-US/sessions/BRK281)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK281](https://ignite.microsoft.com/en-US/sessions/BRK281)\
+YouTube URL: [https://www.youtube.com/watch?v=kKGX6P5VfZI](https://www.youtube.com/watch?v=kKGX6P5VfZI)
 
 ## 2. 発表者
 

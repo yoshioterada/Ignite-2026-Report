@@ -6,7 +6,8 @@
 
 デモは、営業リーダーの「Sydney」というペルソナを演じる形で進みます。AI によるプレイリストの作成、音声のポッドキャスト化、音声での対話練習、ハンズオンラボ、バッジによる資格、組織向けのレポート、Copilot の learning agent が順に紹介され、その中には Ignite で新しく始まった・発表された機能も含まれています。**発表では、デモで見せた内容はすべて無料で、当日から利用できる**と説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR949](https://ignite.microsoft.com/en-US/sessions/THR949)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR949](https://ignite.microsoft.com/en-US/sessions/THR949)\
+YouTube URL: [https://www.youtube.com/watch?v=tUI0CNM3aUU](https://www.youtube.com/watch?v=tUI0CNM3aUU)
 
 ## 2. 発表者
 

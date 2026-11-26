@@ -8,7 +8,8 @@
 
 発表者は、画面を見せながら HorizonDB の作成手順と database agent の画面を説明しています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR923](https://ignite.microsoft.com/en-US/sessions/THR923)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR923](https://ignite.microsoft.com/en-US/sessions/THR923)\
+YouTube URL: [https://www.youtube.com/watch?v=BTDET2w52dM](https://www.youtube.com/watch?v=BTDET2w52dM)
 
 ## 2. 発表者
 

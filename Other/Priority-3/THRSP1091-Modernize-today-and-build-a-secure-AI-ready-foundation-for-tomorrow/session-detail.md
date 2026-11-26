@@ -6,7 +6,8 @@
 
 登壇者は冒頭で、このセッションはデモ中心ではなく、会話しながら考える材料と持ち帰る行動を示す形式だと説明しています。実際に、**画面を使ったデモは行われていません**（スライドと口頭の説明が中心です）。会場には、HPE の ProLiant の世代や Windows Server のバージョンを挙手で尋ねる場面があり、「自分のインフラはどの位置にいるか」を確認させる構成でした。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1091](https://ignite.microsoft.com/en-US/sessions/THRSP1091)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1091](https://ignite.microsoft.com/en-US/sessions/THRSP1091)\
+YouTube URL: [https://www.youtube.com/watch?v=c-6wFuYz7h0](https://www.youtube.com/watch?v=c-6wFuYz7h0)
 
 ## 2. 発表者
 

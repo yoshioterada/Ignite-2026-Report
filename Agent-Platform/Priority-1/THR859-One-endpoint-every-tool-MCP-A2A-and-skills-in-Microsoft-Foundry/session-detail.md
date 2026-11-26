@@ -6,7 +6,8 @@
 
 発表では、toolbox の考え方、ツール検索（tool search）によるコンテキスト削減、Azure policy によるガバナンス、モニタリングダッシュボードが説明されました。録画ビデオの再生と、Foundry ポータルを実際に操作する場面もあります。後半は Q&A で、skills や A2A の扱い、Azure SQL の接続が取り上げられました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR859](https://ignite.microsoft.com/en-US/sessions/THR859)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR859](https://ignite.microsoft.com/en-US/sessions/THR859)\
+YouTube URL: [https://www.youtube.com/watch?v=wPHFEImj-D0](https://www.youtube.com/watch?v=wPHFEImj-D0)
 
 ## 2. 発表者
 

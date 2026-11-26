@@ -6,7 +6,8 @@
 
 発表の主張は一貫していて、「モデルやエージェントは差別化の要因ではなく、差別化になるのは自社のデータとコンテキストである。そのデータを信頼できる形で 1 つのレイクにまとめよう」というものです。OneLake catalog の Govern と Govern skills、ライフサイクル管理、shortcut transformations、Fabric IQ sharing、カタログ経由の書き込み、Azure Databricks の既定ストレージとしての OneLake、semantic views といった新機能が、実演（録画ビデオを含む）を交えて語られました。TomTom の担当者が登壇して事例を話す場面もあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK351](https://ignite.microsoft.com/en-US/sessions/BRK351)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK351](https://ignite.microsoft.com/en-US/sessions/BRK351)\
+YouTube URL: [https://www.youtube.com/watch?v=Q4iKrf0Cu54](https://www.youtube.com/watch?v=Q4iKrf0Cu54)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 中心となるメッセージは、**VMware のお客様はすでに Windows Server のお客様であり、Hyper-V という実績あるハイパーバイザーを追加費用なしで持っている**という点です。vMode は Windows Server のライセンスに含まれる無償の仮想化管理ツールで、「ダウンロードして 5 分以内にクラスターの管理を始められる」ことを目標に作られたと説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK419](https://ignite.microsoft.com/en-US/sessions/BRK419)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK419](https://ignite.microsoft.com/en-US/sessions/BRK419)\
+YouTube URL: [https://www.youtube.com/watch?v=ohNIlrQquT0](https://www.youtube.com/watch?v=ohNIlrQquT0)
 
 ## 2. 発表者
 

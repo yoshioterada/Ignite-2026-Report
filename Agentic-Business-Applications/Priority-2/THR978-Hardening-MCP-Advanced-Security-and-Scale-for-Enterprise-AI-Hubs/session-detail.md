@@ -6,7 +6,8 @@
 
 登壇者は、現場でのデリバリー経験が長く、失敗の「傷跡」を持つ立場から、最小限の製品（MVP）ではなく大規模運用を前提に話すと冒頭で述べています。内容は、MCP の認証強化の経緯、ゲートウェイを中心にした構成パターン、認証・ネットワーク・プロンプトインジェクション・ガバナンスの各対策、そして Azure のサービスを組み合わせた参照パターンです。画面を使ったデモはなく、チェックリストのスライドを撮影して持ち帰るよう案内して終わります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR978](https://ignite.microsoft.com/en-US/sessions/THR978)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR978](https://ignite.microsoft.com/en-US/sessions/THR978)\
+YouTube URL: [https://www.youtube.com/watch?v=Hyx12qdA0D0](https://www.youtube.com/watch?v=Hyx12qdA0D0)
 
 ## 2. 発表者
 

@@ -12,7 +12,8 @@
 
 登壇者は冒頭で「このセッションで話す内容のほぼ全ては、今日時点で利用できるものだ」と述べています。3 つのデモが画面を使って実演されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK234](https://ignite.microsoft.com/en-US/sessions/BRK234)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK234](https://ignite.microsoft.com/en-US/sessions/BRK234)\
+YouTube URL: [https://www.youtube.com/watch?v=-zLfSrdU1a8](https://www.youtube.com/watch?v=-zLfSrdU1a8)
 
 ## 2. 発表者
 

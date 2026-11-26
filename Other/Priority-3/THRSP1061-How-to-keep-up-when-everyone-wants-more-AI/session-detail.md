@@ -10,7 +10,8 @@
 
 画面を使った短い実演（レポートの見方や、サイトアクセスレビューの開始）が終盤にあります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1061](https://ignite.microsoft.com/en-US/sessions/THRSP1061)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1061](https://ignite.microsoft.com/en-US/sessions/THRSP1061)\
+YouTube URL: [https://www.youtube.com/watch?v=40XBTAjLy6I](https://www.youtube.com/watch?v=40XBTAjLy6I)
 
 ## 2. 発表者
 

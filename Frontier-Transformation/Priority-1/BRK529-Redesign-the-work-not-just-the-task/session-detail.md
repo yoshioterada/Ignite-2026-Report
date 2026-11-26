@@ -8,7 +8,8 @@
 
 このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK529](https://ignite.microsoft.com/en-US/sessions/BRK529)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK529](https://ignite.microsoft.com/en-US/sessions/BRK529)\
+YouTube URL: [https://www.youtube.com/watch?v=KtkNLj_a0H4](https://www.youtube.com/watch?v=KtkNLj_a0H4)
 
 ## 2. 発表者
 

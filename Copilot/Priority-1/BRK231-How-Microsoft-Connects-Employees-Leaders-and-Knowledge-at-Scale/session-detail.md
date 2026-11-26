@@ -6,7 +6,8 @@
 
 発表の中心にある考えは、**コミュニケーションは「お知らせを出して終わり」ではなく、「理解する・質問する・行動する・答えを再び見つける」までの一連の流れだ**というものです。そして、その答えが個人のメールやチャットではなく、より開かれた場（Engage のコミュニティ）に残ることで、Work IQ 経由で Copilot からも使えるようになる、という流れが示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK231](https://ignite.microsoft.com/en-US/sessions/BRK231)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK231](https://ignite.microsoft.com/en-US/sessions/BRK231)\
+YouTube URL: [https://www.youtube.com/watch?v=rbl5uG7PBrc](https://www.youtube.com/watch?v=rbl5uG7PBrc)
 
 ## 2. 発表者
 

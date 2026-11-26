@@ -6,7 +6,8 @@
 
 発表の中心にあるのは、デモシナリオ（Caldova という会社の deal desk 業務）と、「build（GitHub で作る）→ deploy（Foundry で動かし統制する）→ publish（Microsoft 365 Copilot や Teams に届ける）」という **golden path** です。最後には Toyota Motor Corporation の Hiroaki Kimura 氏が登壇し、車載 AI エージェントを改善し続ける仕組み「EvalOps」のデモを行いました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK240](https://ignite.microsoft.com/en-US/sessions/BRK240)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK240](https://ignite.microsoft.com/en-US/sessions/BRK240)\
+YouTube URL: [https://www.youtube.com/watch?v=_1ZEr5BSi3s](https://www.youtube.com/watch?v=_1ZEr5BSi3s)
 
 ## 2. 発表者
 

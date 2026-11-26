@@ -10,7 +10,8 @@
 
 このセッションには、保守コパイロットの紹介ビデオの上映と、工場のデジタルツインを画面で見せながらの説明がありました。詳細は 6 章に書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK547](https://ignite.microsoft.com/en-US/sessions/BRK547)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK547](https://ignite.microsoft.com/en-US/sessions/BRK547)\
+YouTube URL: [https://www.youtube.com/watch?v=0yWV98sMUXg](https://www.youtube.com/watch?v=0yWV98sMUXg)
 
 ## 2. 発表者
 

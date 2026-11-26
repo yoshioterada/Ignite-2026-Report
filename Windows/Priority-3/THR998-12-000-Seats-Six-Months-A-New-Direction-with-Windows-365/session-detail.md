@@ -8,7 +8,8 @@
 
 なお、発表では、本人の意見であって勤務先の見解ではないこと、スライドの一部に AI 生成画像を使っていることが断られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR998](https://ignite.microsoft.com/en-US/sessions/THR998)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR998](https://ignite.microsoft.com/en-US/sessions/THR998)\
+YouTube URL: [https://www.youtube.com/watch?v=aNeLiNEA82Q](https://www.youtube.com/watch?v=aNeLiNEA82Q)
 
 ## 2. 発表者
 

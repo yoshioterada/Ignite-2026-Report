@@ -8,7 +8,8 @@
 
 **結論から言うと、CCI は既存の電話・ルーティング・キュー・オペレーター用デスクトップをそのまま残し、AI 部分だけを重ねることで「年単位ではなく週・月単位」での変革を狙うものです。**
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK381](https://ignite.microsoft.com/en-US/sessions/BRK381)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK381](https://ignite.microsoft.com/en-US/sessions/BRK381)\
+YouTube URL: [https://www.youtube.com/watch?v=4aV5NrZthr8](https://www.youtube.com/watch?v=4aV5NrZthr8)
 
 ## 2. 発表者
 

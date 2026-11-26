@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。途中で McDermott のバタム（Batam）の製造ヤードを紹介するビデオが上映されています（5.8）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP611](https://ignite.microsoft.com/en-US/sessions/BRKSP611)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP611](https://ignite.microsoft.com/en-US/sessions/BRKSP611)\
+YouTube URL: [https://www.youtube.com/watch?v=Gscm0z04lJM](https://www.youtube.com/watch?v=Gscm0z04lJM)
 
 ## 2. 発表者
 

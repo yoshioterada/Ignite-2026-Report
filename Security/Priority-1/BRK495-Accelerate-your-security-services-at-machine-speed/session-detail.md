@@ -8,7 +8,8 @@
 
 > 補足：登壇者の発言は音声の書き起こしにもとづいて整理しています。固有名詞や数値で聞き取りが不確かな箇所は、その旨を注記しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK495](https://ignite.microsoft.com/en-US/sessions/BRK495)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK495](https://ignite.microsoft.com/en-US/sessions/BRK495)\
+YouTube URL: [https://www.youtube.com/watch?v=Z0Qr_Aohphg](https://www.youtube.com/watch?v=Z0Qr_Aohphg)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 エージェントに業務アプリを操作させたいが API が無い、ガバナンスをどう効かせるか、開発環境の整備に時間を取られている、といった課題を持つ開発者・IT 管理者の方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK403](https://ignite.microsoft.com/en-US/sessions/BRK403)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK403](https://ignite.microsoft.com/en-US/sessions/BRK403)\
+YouTube URL: [https://www.youtube.com/watch?v=3Ht54TmwB3U](https://www.youtube.com/watch?v=3Ht54TmwB3U)
 
 ## 2. 発表者
 

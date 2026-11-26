@@ -10,7 +10,8 @@ AI を使うために、データを別のストレージにコピーし、同�
 - 同じ agent を Microsoft 365 Copilot から使う。
 - VS Code の GitHub Copilot から MCP server を使い、Azure NetApp Files のボリュームを自然言語で拡張する。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1135](https://ignite.microsoft.com/en-US/sessions/THRSP1135)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1135](https://ignite.microsoft.com/en-US/sessions/THRSP1135)\
+YouTube URL: [https://www.youtube.com/watch?v=RLNBCRPap6k](https://www.youtube.com/watch?v=RLNBCRPap6k)
 
 ## 2. 発表者
 

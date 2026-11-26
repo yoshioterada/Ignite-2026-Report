@@ -6,7 +6,8 @@
 
 IT 管理者と、社内アプリケーションの開発者・オーナーの両方が対象です。発表の最後には、立場ごとに「まずやること」が示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK220](https://ignite.microsoft.com/en-US/sessions/BRK220)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK220](https://ignite.microsoft.com/en-US/sessions/BRK220)\
+YouTube URL: [https://www.youtube.com/watch?v=pjYeRHkl9Yw](https://www.youtube.com/watch?v=pjYeRHkl9Yw)
 
 ## 2. 発表者
 

@@ -10,7 +10,8 @@
 
 なお、このセッションでは画面を使ったデモは行われていません。スライドと口頭の説明、パネル形式の対談が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK494](https://ignite.microsoft.com/en-US/sessions/BRK494)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK494](https://ignite.microsoft.com/en-US/sessions/BRK494)\
+YouTube URL: [https://www.youtube.com/watch?v=mPzE1R62rzk](https://www.youtube.com/watch?v=mPzE1R62rzk)
 
 ## 2. 発表者
 

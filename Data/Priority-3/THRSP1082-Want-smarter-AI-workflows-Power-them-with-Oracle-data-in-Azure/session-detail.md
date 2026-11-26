@@ -8,7 +8,8 @@
 
 このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。Azure Workload Center のデモは、Oracle のブースで行われているとの案内がありました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1082](https://ignite.microsoft.com/en-US/sessions/THRSP1082)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1082](https://ignite.microsoft.com/en-US/sessions/THRSP1082)\
+YouTube URL: [https://www.youtube.com/watch?v=csjpV0geWDA](https://www.youtube.com/watch?v=csjpV0geWDA)
 
 ## 2. 発表者
 

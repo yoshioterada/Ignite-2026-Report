@@ -6,7 +6,8 @@
 
 発表者が一貫して伝えているのは、**「Microsoft と co-sell したいなら Marketplace で取引する」** というメッセージです。Marketplace は単なる取引の仕組みではなく、go-to-market（市場への届け方）の戦略に組み込むものだ、という点も繰り返し語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK511](https://ignite.microsoft.com/en-US/sessions/BRK511)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK511](https://ignite.microsoft.com/en-US/sessions/BRK511)\
+YouTube URL: [https://www.youtube.com/watch?v=fAlDNAl3Mc0](https://www.youtube.com/watch?v=fAlDNAl3Mc0)
 
 ## 2. 発表者
 

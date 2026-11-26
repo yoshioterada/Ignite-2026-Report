@@ -6,7 +6,8 @@
 
 発表者は、プログラムが「何本のバッジや認定を持っているか」だけでなく、顧客にとっての成果と、自社の変革を重視する方向に進んでいると繰り返し説明しています。最後に、「今四半期に一つ動く」ための 5 つの選択肢が示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK513](https://ignite.microsoft.com/en-US/sessions/BRK513)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK513](https://ignite.microsoft.com/en-US/sessions/BRK513)\
+YouTube URL: [https://www.youtube.com/watch?v=tSNwYLKuWPk](https://www.youtube.com/watch?v=tSNwYLKuWPk)
 
 ## 2. 発表者
 

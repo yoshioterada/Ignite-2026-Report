@@ -12,7 +12,8 @@
 
 IT サポートに携わる方にとっては、「AI がチケットを自動で解決する」とはどういう状態か、そして権限や監査をどう制御しているかを知る材料になります。なお、これは Atera 自社製品の紹介セッションであり、数値（チケットの 92% など）は登壇者による説明です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP598](https://ignite.microsoft.com/en-US/sessions/BRKSP598)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP598](https://ignite.microsoft.com/en-US/sessions/BRKSP598)\
+YouTube URL: [https://www.youtube.com/watch?v=VxbJPy32TAg](https://www.youtube.com/watch?v=VxbJPy32TAg)
 
 ## 2. 発表者
 

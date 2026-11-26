@@ -6,7 +6,8 @@
 
 構成は、Copilot がここまで進化してきた経緯の説明、Home のライブデモ（Chat から Cowork まで）、そして今後のロードマップ（Today、auto-routing、Intelligent UI）の 3 部です。Copilot を日常業務でどう使い分けるのか、これから何が変わるのかを知りたい人向けの内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK201](https://ignite.microsoft.com/en-US/sessions/BRK201)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK201](https://ignite.microsoft.com/en-US/sessions/BRK201)\
+YouTube URL: [https://www.youtube.com/watch?v=dFDSqZIYir0](https://www.youtube.com/watch?v=dFDSqZIYir0)
 
 ## 2. 発表者
 

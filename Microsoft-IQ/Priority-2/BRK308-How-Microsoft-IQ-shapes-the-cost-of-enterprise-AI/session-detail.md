@@ -6,7 +6,8 @@
 
 発表の核心は、**IQ ごとに課金の単位と最適化の手段が違うため、「Microsoft IQ 全体で 1 つの金額」というものはない**という点です。そのうえで、コストだけでなく業務への効果を合わせて見るよう勧めています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK308](https://ignite.microsoft.com/en-US/sessions/BRK308)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK308](https://ignite.microsoft.com/en-US/sessions/BRK308)\
+YouTube URL: [https://www.youtube.com/watch?v=QE47gfJrl7k](https://www.youtube.com/watch?v=QE47gfJrl7k)
 
 ## 2. 発表者
 

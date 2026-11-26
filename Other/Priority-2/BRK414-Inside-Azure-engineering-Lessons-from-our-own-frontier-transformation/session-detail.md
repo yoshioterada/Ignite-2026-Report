@@ -6,7 +6,8 @@
 
 どの事例も「社内だけの特別な道具」ではなく、今週の Ignite で紹介されている同じプラットフォームの上に作られているというのが、司会の主張です。自社の業務に AI を組み込もうとしている開発者や IT 担当者が、どこから始め、何を守り、何を測ればよいかを、具体的な数値と一緒につかめる内容です。画面を使ったデモは 2 件（コード移行と、デジタルワーカーとのチャット）あり、動画の再生も 1 件ありました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK414](https://ignite.microsoft.com/en-US/sessions/BRK414)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK414](https://ignite.microsoft.com/en-US/sessions/BRK414)\
+YouTube URL: [https://www.youtube.com/watch?v=XtNCQ-HuYXk](https://www.youtube.com/watch?v=XtNCQ-HuYXk)
 
 ## 2. 発表者
 

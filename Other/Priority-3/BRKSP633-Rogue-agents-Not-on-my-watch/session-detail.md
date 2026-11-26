@@ -12,7 +12,8 @@ Hyde 氏が示す対応は 3 つの柱です。
 
 最後に、Microsoft との契約コミットメントを Splunk の利用で消化できる話も紹介されます。このセッションでは画面を使ったデモは行われていません。口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP633](https://ignite.microsoft.com/en-US/sessions/BRKSP633)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP633](https://ignite.microsoft.com/en-US/sessions/BRKSP633)\
+YouTube URL: [https://www.youtube.com/watch?v=YV5qFUi01HM](https://www.youtube.com/watch?v=YV5qFUi01HM)
 
 ## 2. 発表者
 

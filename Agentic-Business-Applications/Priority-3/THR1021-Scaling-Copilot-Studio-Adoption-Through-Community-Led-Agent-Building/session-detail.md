@@ -6,7 +6,8 @@
 
 発表の中心は、「イベントを開くことがコミュニティではない」という主張です。目標設定から始め、小さな中核チームを作り、チャンピオン（推進役）を育て、従業員がすでに使っているツールで活動を続けるという道筋が、State Farm、ZF Group、Lumen などの事例とともに紹介されます。最後に「最初の 90 日の計画」が示されます。画面を使ったデモは無く、スライドと口頭の説明で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1021](https://ignite.microsoft.com/en-US/sessions/THR1021)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1021](https://ignite.microsoft.com/en-US/sessions/THR1021)\
+YouTube URL: [https://www.youtube.com/watch?v=mVxT5T-Jl7Q](https://www.youtube.com/watch?v=mVxT5T-Jl7Q)
 
 ## 2. 発表者
 

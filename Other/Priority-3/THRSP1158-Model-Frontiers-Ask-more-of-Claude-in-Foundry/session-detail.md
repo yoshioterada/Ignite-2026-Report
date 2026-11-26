@@ -6,7 +6,8 @@
 
 登壇者の提案は 3 つの「アップグレード」です。**(1) 基準（bar）を決め、それを満たすモデルを選ぶ**、**(2) 仕事を細切れにせず、まるごと任せる**、**(3) 結果と品質を自分の管理下に置く**。後半では、8 社の給与計算ベンダーの提案書を Claude に評価させる事前収録のスクリプト実行例が示され、ここで 3 つのアップグレードがどう適用されるかを説明します。モデル選択の目安、コストの考え方、Foundry での提供状況（compaction は beta など）も語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1158](https://ignite.microsoft.com/en-US/sessions/THRSP1158)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1158](https://ignite.microsoft.com/en-US/sessions/THRSP1158)\
+YouTube URL: [https://www.youtube.com/watch?v=jaxFkZkl_-g](https://www.youtube.com/watch?v=jaxFkZkl_-g)
 
 ## 2. 発表者
 

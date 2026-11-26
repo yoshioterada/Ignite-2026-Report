@@ -6,7 +6,8 @@
 
 中心になるのは、めっきライン（PGL）で亜鉛の塗布量を操作員に推奨する仕組みです。小規模な PoC で、コイル間のばらつきが 61% 減り、1 つの鋼種だけで年間 633,000 ドルの節約を見込む結果が出ています。後半は、この成果を支えたものとして、現場との信頼関係、ユースケースの選び方、データ基盤、組織体制といった技術以外の要素が詳しく語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK471](https://ignite.microsoft.com/en-US/sessions/BRK471)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK471](https://ignite.microsoft.com/en-US/sessions/BRK471)\
+YouTube URL: [https://www.youtube.com/watch?v=8o-9GuUck90](https://www.youtube.com/watch?v=8o-9GuUck90)
 
 ## 2. 発表者
 

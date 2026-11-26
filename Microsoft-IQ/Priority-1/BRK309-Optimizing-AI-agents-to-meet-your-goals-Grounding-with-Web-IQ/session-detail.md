@@ -8,7 +8,8 @@ Web IQ を担当するエンジニアリング責任者が仕組みと比較デ�
 
 結論を先に言うと、発表者が会場に伝えているのは **「複数の意図を持つタスク、反復的な探索、多様な情報源が必要なタスクでは、Auto に grounding と検索の複雑さを任せてほしい」** ということです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK309](https://ignite.microsoft.com/en-US/sessions/BRK309)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK309](https://ignite.microsoft.com/en-US/sessions/BRK309)\
+YouTube URL: [https://www.youtube.com/watch?v=yz-KR9kR0VY](https://www.youtube.com/watch?v=yz-KR9kR0VY)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 本セッションは一日の最後の時間帯で、発表者は聴衆に拍手を送りながら始めています。**画面を使った実演は行われておらず**、スライドと口頭の説明が中心です。実際に試したい人向けに、ハンズオンラボが用意されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR988](https://ignite.microsoft.com/en-US/sessions/THR988)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR988](https://ignite.microsoft.com/en-US/sessions/THR988)\
+YouTube URL: [https://www.youtube.com/watch?v=aYBK3AjDw_M](https://www.youtube.com/watch?v=aYBK3AjDw_M)
 
 ## 2. 発表者
 

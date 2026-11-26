@@ -6,7 +6,8 @@
 
 話の流れは、レガシーアプリが抱える課題、Windows 365 for Agents とは何か、誰が何を管理すべきか、架空の会社 Apex Consulting のデモ、コストと設計判断、始め方、Q&A の順です。デモでは、1 本の通話トランスクリプトを Teams のエージェントに渡すだけで、2 つのレガシーアプリの更新、請求書の作成、メール送信までが 9 分で完了し、人間が操作に関わった時間は約 71 秒でした。その途中に**承認ゲートが 2 つ**あり、人が承認するまで何も変更・送信されない点が、本セッションの強調点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR997](https://ignite.microsoft.com/en-US/sessions/THR997)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR997](https://ignite.microsoft.com/en-US/sessions/THR997)\
+YouTube URL: [https://www.youtube.com/watch?v=gMdDAvftlN8](https://www.youtube.com/watch?v=gMdDAvftlN8)
 
 ## 2. 発表者
 

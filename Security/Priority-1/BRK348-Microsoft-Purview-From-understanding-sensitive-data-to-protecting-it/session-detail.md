@@ -12,7 +12,8 @@ Copilot やエージェントは、ユーザーがアクセスできるものを
 
 Purview の管理者、セキュリティ担当者、Copilot 導入を進めるチームに向けた内容です。登壇者は、聴講後に「L300 レベルの理解」が得られると述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK348](https://ignite.microsoft.com/en-US/sessions/BRK348)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK348](https://ignite.microsoft.com/en-US/sessions/BRK348)\
+YouTube URL: [https://www.youtube.com/watch?v=TgjaTZcRkBc](https://www.youtube.com/watch?v=TgjaTZcRkBc)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 大きな結論は、**需要も可能性も非常に大きいが、パイロット（試行）から本番運用への間に大きな溝があり、その溝を埋めるのは信頼性、学習時間の短縮、OT との統合、セキュリティ、安全性、そしてオーケストレーションの標準化である**という点です。最後は聴衆からの質疑応答があり、ビジネス価値から始めるという進め方や、パートナー選定の観点が語られました。画面を使ったデモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP609](https://ignite.microsoft.com/en-US/sessions/BRKSP609)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP609](https://ignite.microsoft.com/en-US/sessions/BRKSP609)\
+YouTube URL: [https://www.youtube.com/watch?v=aGRx8v-B4tk](https://www.youtube.com/watch?v=aGRx8v-B4tk)
 
 ## 2. 発表者
 

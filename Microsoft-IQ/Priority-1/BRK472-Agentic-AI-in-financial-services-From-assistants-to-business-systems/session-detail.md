@@ -13,7 +13,8 @@
 
 結論を先に書くと、PIMCO の Ewan 氏は AI 活用のカギを「データ、データ、アップスキリング、アップスキリング、アップスキリング、そしてガバナンス」と表現しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK472](https://ignite.microsoft.com/en-US/sessions/BRK472)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK472](https://ignite.microsoft.com/en-US/sessions/BRK472)\
+YouTube URL: [https://www.youtube.com/watch?v=1WvPUwNxeqA](https://www.youtube.com/watch?v=1WvPUwNxeqA)
 
 ## 2. 発表者
 

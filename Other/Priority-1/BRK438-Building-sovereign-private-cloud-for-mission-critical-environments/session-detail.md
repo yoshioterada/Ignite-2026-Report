@@ -8,7 +8,8 @@
 
 なお、このセッションでは画面を使ったライブデモは行われていません。スライドとナレーション、シナリオ紹介の動画、お客様事例の動画が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK438](https://ignite.microsoft.com/en-US/sessions/BRK438)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK438](https://ignite.microsoft.com/en-US/sessions/BRK438)\
+YouTube URL: [https://www.youtube.com/watch?v=3E8XAIbtqV0](https://www.youtube.com/watch?v=3E8XAIbtqV0)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明、パートナーとの対談が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK487](https://ignite.microsoft.com/en-US/sessions/BRK487)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK487](https://ignite.microsoft.com/en-US/sessions/BRK487)\
+YouTube URL: [https://www.youtube.com/watch?v=MRwKaWjwmPU](https://www.youtube.com/watch?v=MRwKaWjwmPU)
 
 ## 2. 発表者
 

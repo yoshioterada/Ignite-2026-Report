@@ -12,7 +12,8 @@
 
 画面を使ったデモはなく、スライドと対談が中心です。最後に会場から寄せられた質問への回答もあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK248](https://ignite.microsoft.com/en-US/sessions/BRK248)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK248](https://ignite.microsoft.com/en-US/sessions/BRK248)\
+YouTube URL: [https://www.youtube.com/watch?v=IeD44V-_mzU](https://www.youtube.com/watch?v=IeD44V-_mzU)
 
 ## 2. 発表者
 

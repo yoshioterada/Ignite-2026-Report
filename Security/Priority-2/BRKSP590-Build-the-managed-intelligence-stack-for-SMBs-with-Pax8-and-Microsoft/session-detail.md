@@ -6,7 +6,8 @@
 
 発表の中心にある考えは、**AI を入口にせず、仕事が滞っている場所を入口にする**ことです。業務を把握して一つのワークフローで成果を示し、そこから次へ広げていく進め方が、具体的な価格設計や報告書の例とともに語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP590](https://ignite.microsoft.com/en-US/sessions/BRKSP590)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP590](https://ignite.microsoft.com/en-US/sessions/BRKSP590)\
+YouTube URL: [https://www.youtube.com/watch?v=z4JbWkKJagI](https://www.youtube.com/watch?v=z4JbWkKJagI)
 
 ## 2. 発表者
 

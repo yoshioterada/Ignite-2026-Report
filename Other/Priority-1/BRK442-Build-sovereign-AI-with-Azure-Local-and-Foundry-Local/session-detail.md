@@ -11,7 +11,8 @@
 * GitHub Enterprise Local は **GA**。
 * 大規模推論向けに、NVIDIA の GPU を Azure Local でサポートする計画（来年の暦年**上半期**のプレビューを目標）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK442](https://ignite.microsoft.com/en-US/sessions/BRK442)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK442](https://ignite.microsoft.com/en-US/sessions/BRK442)\
+YouTube URL: [https://www.youtube.com/watch?v=ydgEQeNGYmg](https://www.youtube.com/watch?v=ydgEQeNGYmg)
 
 ## 2. 発表者
 

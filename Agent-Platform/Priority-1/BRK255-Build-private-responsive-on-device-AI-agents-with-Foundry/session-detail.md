@@ -8,7 +8,8 @@
 
 > 補足：このセッションでは、画面を使ったデモが 3 つ行われています（GitHub Copilot の音声入力、ハイブリッドルーティングのデモアプリ、GitHub Copilot app でのローカルコーディング）。顧客事例は動画で紹介されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK255](https://ignite.microsoft.com/en-US/sessions/BRK255)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK255](https://ignite.microsoft.com/en-US/sessions/BRK255)\
+YouTube URL: [https://www.youtube.com/watch?v=aVQ-cY0d3Fg](https://www.youtube.com/watch?v=aVQ-cY0d3Fg)
 
 ## 2. 発表者
 

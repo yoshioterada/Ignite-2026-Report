@@ -14,7 +14,8 @@
 
 後半では、エージェントがチームの一員として働く 3 つのパターンを、4 つのチームの映像で紹介しています。なお、このセッションは主にスライドと、ナレーション付きのデモ映像で構成されています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK208](https://ignite.microsoft.com/en-US/sessions/BRK208)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK208](https://ignite.microsoft.com/en-US/sessions/BRK208)\
+YouTube URL: [https://www.youtube.com/watch?v=UL2I-qXeGnw](https://www.youtube.com/watch?v=UL2I-qXeGnw)
 
 ## 2. 発表者
 

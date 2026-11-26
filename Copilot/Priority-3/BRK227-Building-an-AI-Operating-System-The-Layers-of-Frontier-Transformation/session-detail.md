@@ -6,7 +6,8 @@
 
 前半の中心部分（インフラ〜インテリジェンス）は Alina Fu 氏が、導入と後半（生産性とコラボレーション）は Anna Marie 氏が担当します。後半では、新しい Copilot アプリ（Chat、Cowork、Code、Autopilot）を使った実演があり、製品ローンチの意思決定に向けて、ブリーフィング文書の作成、アプリの作成、フォローアップの委任までを 1 つのシナリオで見せます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK227](https://ignite.microsoft.com/en-US/sessions/BRK227)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK227](https://ignite.microsoft.com/en-US/sessions/BRK227)\
+YouTube URL: [https://www.youtube.com/watch?v=Ds2Ihxay7T4](https://www.youtube.com/watch?v=Ds2Ihxay7T4)
 
 ## 2. 発表者
 

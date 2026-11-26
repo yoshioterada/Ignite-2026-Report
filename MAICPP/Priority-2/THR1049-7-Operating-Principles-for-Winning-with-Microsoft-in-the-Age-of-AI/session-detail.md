@@ -6,7 +6,8 @@
 
 技術的な解説やデモはなく、講演者の経歴、2025 年の個人的な出来事、組織が陥りがちな 4 つの失敗、原則の紹介、Ultimate Partner のイベントと書籍の案内という流れです。結論は、**信頼はすべての原則を貫くもので、AI のプロンプトでは作れない**という点にあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1049](https://ignite.microsoft.com/en-US/sessions/THR1049)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1049](https://ignite.microsoft.com/en-US/sessions/THR1049)\
+YouTube URL: [https://www.youtube.com/watch?v=naHUOwiVMEc](https://www.youtube.com/watch?v=naHUOwiVMEc)
 
 ## 2. 発表者
 

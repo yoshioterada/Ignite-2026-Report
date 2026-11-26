@@ -6,7 +6,8 @@
 
 結論を先に言えば、発表者は、新しい harness は標準 harness より品質が上がり、さらに入力トークンの面でコスト効率が約 45% 改善したと説明しています。Copilot Studio でエージェントを作る人（メーカー）や、その運用・ガバナンスを担う人に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK259](https://ignite.microsoft.com/en-US/sessions/BRK259)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK259](https://ignite.microsoft.com/en-US/sessions/BRK259)\
+YouTube URL: [https://www.youtube.com/watch?v=4niTgM2G684](https://www.youtube.com/watch?v=4niTgM2G684)
 
 ## 2. 発表者
 

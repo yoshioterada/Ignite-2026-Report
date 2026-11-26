@@ -8,7 +8,8 @@
 
 製品のデモやアーキテクチャ解説が中心のセッションではありません。スライドと対談による、考え方と事例の共有が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK536](https://ignite.microsoft.com/en-US/sessions/BRK536)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK536](https://ignite.microsoft.com/en-US/sessions/BRK536)\
+YouTube URL: [https://www.youtube.com/watch?v=UY8a6gXazsM](https://www.youtube.com/watch?v=UY8a6gXazsM)
 
 ## 2. 発表者
 

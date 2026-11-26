@@ -6,7 +6,8 @@
 
 発表は大きく 2 部構成です。前半は、プロペンシティのレポートに載った顧客を検証して優先順位を付ける方法です。後半は、Partner Center から Microsoft へ紹介案件を送るときに、読み手である人間にどう伝えるかという書き方の枠組みです。画面を使ったデモはなく、スライドと口頭の説明で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1037](https://ignite.microsoft.com/en-US/sessions/THR1037)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1037](https://ignite.microsoft.com/en-US/sessions/THR1037)\
+YouTube URL: [https://www.youtube.com/watch?v=C9EB45WDUNM](https://www.youtube.com/watch?v=C9EB45WDUNM)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 「コスト管理を Copilot のあらゆる場面に組み込む」ことが冒頭で宣言され、終盤の Agent 365 のデモではコストの可視化と制御が中心になります。画面を使ったデモが 4 本あり、画面操作の内容は発話で語られた範囲を中心に、6 章で順に整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV640](https://ignite.microsoft.com/en-US/sessions/INV640)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV640](https://ignite.microsoft.com/en-US/sessions/INV640)\
+YouTube URL: [https://www.youtube.com/watch?v=5slEdWF4nk8](https://www.youtube.com/watch?v=5slEdWF4nk8)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使った操作のデモは行われていません。QR コードでスマートフォンから参加するアンケートと、事例を使った寸劇形式のやり取りが中心です（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR968](https://ignite.microsoft.com/en-US/sessions/THR968)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR968](https://ignite.microsoft.com/en-US/sessions/THR968)\
+YouTube URL: [https://www.youtube.com/watch?v=1fm0AHg7Jgs](https://www.youtube.com/watch?v=1fm0AHg7Jgs)
 
 ## 2. 発表者
 

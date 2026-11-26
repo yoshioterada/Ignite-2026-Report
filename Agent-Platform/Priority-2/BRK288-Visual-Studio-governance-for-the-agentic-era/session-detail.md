@@ -6,7 +6,8 @@
 
 発表は 3 部構成です。1 部目はインストールの運用で、レイアウト（インストール用ファイル一式）の作成から、標準ユーザーによるインストール、チームごとの構成ファイル、更新のサイクルまでを扱います。2 部目は拡張機能で、プレビュー中のプライベートマーケットプレースを、エンジニアがデモで見せています。3 部目は AI ガバナンスで、AI の利用経路、ガードレールの配布、エージェントの権限、モデルや MCP サーバーの統制、組織内ノウハウの共有、今後の投資予定が語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK288](https://ignite.microsoft.com/en-US/sessions/BRK288)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK288](https://ignite.microsoft.com/en-US/sessions/BRK288)\
+YouTube URL: [https://www.youtube.com/watch?v=ZdLLKCKwKkU](https://www.youtube.com/watch?v=ZdLLKCKwKkU)
 
 ## 2. 発表者
 

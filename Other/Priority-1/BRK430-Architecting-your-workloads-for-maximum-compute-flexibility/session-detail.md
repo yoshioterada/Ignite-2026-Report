@@ -6,7 +6,8 @@
 
 新しい製品や機能も多く出てきます。主なものは、Adaptive placement、Compute templates（プレビュー）、Standby pool の予測機能、Azure Compute Fleet の GA 機能、IBM Spectrum 向け Azure Resource Connector（GA）、Spot Plus（パブリックプレビュー）、DT シリーズ VM です。IaaS の構成を見直したい開発者やインフラ担当者向けの話で、スライドに加えて 4 つの画面デモが行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK430](https://ignite.microsoft.com/en-US/sessions/BRK430)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK430](https://ignite.microsoft.com/en-US/sessions/BRK430)\
+YouTube URL: [https://www.youtube.com/watch?v=OJ35DIu7DMc](https://www.youtube.com/watch?v=OJ35DIu7DMc)
 
 ## 2. 発表者
 

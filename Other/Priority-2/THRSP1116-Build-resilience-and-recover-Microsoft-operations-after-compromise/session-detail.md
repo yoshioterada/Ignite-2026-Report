@@ -6,7 +6,8 @@
 
 構成は、自社のサイバーレジリエンス（回復力）を点検するための問いかけ、3 つの枠組み、Microsoft 側からの AI エージェント時代の視点、そして攻撃を受けた環境を想定したデモです。デモでは、オンプレミスの Active Directory の特権グループと、Microsoft Entra ID の削除済みユーザーを、バックアップから復旧します。最後に、持ち帰ってほしい 3 点と、聞き手への問いが示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1116](https://ignite.microsoft.com/en-US/sessions/THRSP1116)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1116](https://ignite.microsoft.com/en-US/sessions/THRSP1116)\
+YouTube URL: [https://www.youtube.com/watch?v=Pqj7TI9lOYo](https://www.youtube.com/watch?v=Pqj7TI9lOYo)
 
 ## 2. 発表者
 

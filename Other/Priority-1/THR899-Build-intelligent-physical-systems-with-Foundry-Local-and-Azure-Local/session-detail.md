@@ -8,7 +8,8 @@
 
 このセッションでは、ライブのデモは行われていません。ロボットの動作は録画された動画で、Azure Local の機能は画面で示されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR899](https://ignite.microsoft.com/en-US/sessions/THR899)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR899](https://ignite.microsoft.com/en-US/sessions/THR899)\
+YouTube URL: [https://www.youtube.com/watch?v=g0lqAP2S2mI](https://www.youtube.com/watch?v=g0lqAP2S2mI)
 
 ## 2. 発表者
 

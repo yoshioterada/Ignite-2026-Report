@@ -6,7 +6,8 @@
 
 ABB の発表者は、同社のプラットフォーム Genix を使い、データの文脈付け（コンテキスト化）、エージェントの構築と管理、アプリケーションの自動生成までをデモで見せています。顧客事例の数値も複数示されました。**画面を見せながらのデモがあります。** ただし録音は音声のみのため、画面の細部は発話で語られた範囲に限って書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR913](https://ignite.microsoft.com/en-US/sessions/THR913)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR913](https://ignite.microsoft.com/en-US/sessions/THR913)\
+YouTube URL: [https://www.youtube.com/watch?v=43fx2rU6O0k](https://www.youtube.com/watch?v=43fx2rU6O0k)
 
 ## 2. 発表者
 

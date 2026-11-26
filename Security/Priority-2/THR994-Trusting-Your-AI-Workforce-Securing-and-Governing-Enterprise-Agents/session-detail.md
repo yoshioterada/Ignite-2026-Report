@@ -6,7 +6,8 @@
 
 発表者は、確認すべき疑問を 4 つ挙げています。エージェントは何を見て、何をできるのか（可視性）、どんな権限を持っているのか（権限）、過剰共有（オーバーシェアリング）は起きていないか、そしてエージェントは安全に動いているのか（安全性）です。デモでは、架空の会社 Bontoso（音声認識の都合で表記が確定できません）の人事エージェントを題材に、これらに答えていきます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR994](https://ignite.microsoft.com/en-US/sessions/THR994)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR994](https://ignite.microsoft.com/en-US/sessions/THR994)\
+YouTube URL: [https://www.youtube.com/watch?v=vOpXMGsoe94](https://www.youtube.com/watch?v=vOpXMGsoe94)
 
 ## 2. 発表者
 

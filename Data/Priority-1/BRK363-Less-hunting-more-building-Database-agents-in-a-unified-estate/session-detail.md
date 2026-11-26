@@ -6,7 +6,8 @@
 
 発表の大半はライブデモで、ハブの有効化から、Estate view、エージェントによる検出、Copilot による原因説明、VS Code と SSMS への展開までを順に見せています。結論として、Database Hub は無料で使え、エージェントは現時点では「検出と提案」までで、最終的な判断と実行は人が行う設計だと説明されています。後半では GA 時期などのロードマップも語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK363](https://ignite.microsoft.com/en-US/sessions/BRK363)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK363](https://ignite.microsoft.com/en-US/sessions/BRK363)\
+YouTube URL: [https://www.youtube.com/watch?v=prGHKTTCK5s](https://www.youtube.com/watch?v=prGHKTTCK5s)
 
 ## 2. 発表者
 

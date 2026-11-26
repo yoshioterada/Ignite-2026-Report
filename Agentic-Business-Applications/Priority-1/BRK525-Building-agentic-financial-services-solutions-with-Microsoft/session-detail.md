@@ -6,7 +6,8 @@
 
 主な結論は、**「情報へのアクセス」から「エージェントが支援する意思決定」へ移ること**、そして**接続（チャットボットや MCP）を作るだけでなく、成果（アウトプット）で価値を出すこと**です。金融データの提供企業にとっては、Copilot が新しい配布チャネルと収益機会になる、という主張も語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK525](https://ignite.microsoft.com/en-US/sessions/BRK525)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK525](https://ignite.microsoft.com/en-US/sessions/BRK525)\
+YouTube URL: [https://www.youtube.com/watch?v=Km14Whr8TyM](https://www.youtube.com/watch?v=Km14Whr8TyM)
 
 ## 2. 発表者
 

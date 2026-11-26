@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。終盤で Partner Skilling Hub の画面を見せようとしましたが、画面表示がうまくいかず、実演には至りませんでした（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR938](https://ignite.microsoft.com/en-US/sessions/THR938)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR938](https://ignite.microsoft.com/en-US/sessions/THR938)\
+YouTube URL: [https://www.youtube.com/watch?v=U400HqZFMRw](https://www.youtube.com/watch?v=U400HqZFMRw)
 
 ## 2. 発表者
 

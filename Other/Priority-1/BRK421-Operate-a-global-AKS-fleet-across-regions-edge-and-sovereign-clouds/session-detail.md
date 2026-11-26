@@ -6,7 +6,8 @@
 
 Fleet Manager のデモが 3 つ、Flex Node のデモが 2 つ（GPU ノードの取り込みと、接続断への耐性）あり、画面操作を伴う説明が多いのが特徴です。Kubernetes を本番で複数環境にまたがって運用している方が、運用負荷を増やさずに規模を広げる方法を知るための内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK421](https://ignite.microsoft.com/en-US/sessions/BRK421)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK421](https://ignite.microsoft.com/en-US/sessions/BRK421)\
+YouTube URL: [https://www.youtube.com/watch?v=jzkOnQd_Heg](https://www.youtube.com/watch?v=jzkOnQd_Heg)
 
 ## 2. 発表者
 

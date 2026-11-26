@@ -6,7 +6,8 @@
 
 発表全体を通した答えは、次の点に集約されます。最初の 1 件を確実に成功させて信頼と次の案件を得ること、作ったものを資産として再利用できる形にすること、セキュリティを早い段階から身につけること、顧客の課題から入る価値中心の営業に変えることです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK490](https://ignite.microsoft.com/en-US/sessions/BRK490)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK490](https://ignite.microsoft.com/en-US/sessions/BRK490)\
+YouTube URL: [https://www.youtube.com/watch?v=LzxM3cdHGVA](https://www.youtube.com/watch?v=LzxM3cdHGVA)
 
 ## 2. 発表者
 

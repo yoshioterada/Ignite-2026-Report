@@ -6,7 +6,8 @@ GitHub が Copilot のエージェントに提供している「知能の層」�
 
 最初に、「ある期間にマージされた PR と Copilot セッションから、チームが何でつまずいたかを分析する」デモが示され、その後に裏側のしくみ、各機能の効果と提供状況、組織への導入方法が語られています。終盤は、この機能群を使って組織全体のプレイブックを作る使い方や、機能そのものの調査・デバッグにも使っている例です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK291](https://ignite.microsoft.com/en-US/sessions/BRK291)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK291](https://ignite.microsoft.com/en-US/sessions/BRK291)\
+YouTube URL: [https://www.youtube.com/watch?v=Ocl_BDbymnI](https://www.youtube.com/watch?v=Ocl_BDbymnI)
 
 ## 2. 発表者
 

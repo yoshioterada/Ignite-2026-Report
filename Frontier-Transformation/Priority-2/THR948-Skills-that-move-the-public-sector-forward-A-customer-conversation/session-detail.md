@@ -6,7 +6,8 @@
 
 INL は、米国エネルギー省の研究所として厳しい規制とセキュリティ要件のもとで運営されています。Sean 氏は、独自の仮想アシスタント Ava の構築、Microsoft 365 Copilot の導入、Microsoft の支援の活用、チャンピオンチームの編成、そして「安全に『はい』と言える方法を探す」という IT 部門の意識改革を、具体的に語っています。画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR948](https://ignite.microsoft.com/en-US/sessions/THR948)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR948](https://ignite.microsoft.com/en-US/sessions/THR948)\
+YouTube URL: [https://www.youtube.com/watch?v=CbC8WkYdKsg](https://www.youtube.com/watch?v=CbC8WkYdKsg)
 
 ## 2. 発表者
 

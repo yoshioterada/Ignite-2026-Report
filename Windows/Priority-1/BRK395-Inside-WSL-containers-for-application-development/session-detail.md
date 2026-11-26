@@ -12,7 +12,8 @@
 
 前半は CLI、API、Aspire（Intel NPU を含む）、AKS という開発者向けのデモ、後半は MDE と Intune のデモ、内部アーキテクチャの解説、ロードマップという構成です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK395](https://ignite.microsoft.com/en-US/sessions/BRK395)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK395](https://ignite.microsoft.com/en-US/sessions/BRK395)\
+YouTube URL: [https://www.youtube.com/watch?v=yfcdww_PoOM](https://www.youtube.com/watch?v=yfcdww_PoOM)
 
 ## 2. 発表者
 

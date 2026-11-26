@@ -6,7 +6,8 @@
 
 前半は、Autopilot に「Ignite に行って戻ってくるまで」を任せるデモです。出張の手配から、会議の準備、Teams での同僚とのやり取り、経費精算までが 1 本の流れで示されます。中盤では、承認疲れを避けるための仕組み Crosscheck と、サンドボックスと信頼されたサービスを分ける設計を説明します。後半の Q&A では、ライセンス、アイデンティティ、信頼の築き方など、導入を考える人が気になる点が多く取り上げられました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK202](https://ignite.microsoft.com/en-US/sessions/BRK202)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK202](https://ignite.microsoft.com/en-US/sessions/BRK202)\
+YouTube URL: [https://www.youtube.com/watch?v=_fegNvbEn_k](https://www.youtube.com/watch?v=_fegNvbEn_k)
 
 ## 2. 発表者
 

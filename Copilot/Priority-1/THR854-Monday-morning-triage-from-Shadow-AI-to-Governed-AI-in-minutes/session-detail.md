@@ -8,7 +8,8 @@ Microsoft Agent 365 の Shadow AI 検出のデモに加えて、パートナー�
 
 セッションの一番の問いかけは最後に出てきます。**セキュリティプロセスは、知っているエージェントだけを対象にしていないか。まだ見つけていない活動もカバーできているか**、という問いです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR854](https://ignite.microsoft.com/en-US/sessions/THR854)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR854](https://ignite.microsoft.com/en-US/sessions/THR854)\
+YouTube URL: [https://www.youtube.com/watch?v=2Q2qnRDZ38Q](https://www.youtube.com/watch?v=2Q2qnRDZ38Q)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表の中心にあるメッセージは、エージェントに必要なのは「コンテキスト」であり、IQ がそれを提供する、という点です。また後半では、エージェントに独自の ID（Entra ID と M365 のサブスクリプション一式）を持たせることで、最小権限の原則を適用でき、Work IQ を通じてエージェント同士の協調が可能になる、という考えが示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK301](https://ignite.microsoft.com/en-US/sessions/BRK301)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK301](https://ignite.microsoft.com/en-US/sessions/BRK301)\
+YouTube URL: [https://www.youtube.com/watch?v=eBc5l5mw08c](https://www.youtube.com/watch?v=eBc5l5mw08c)
 
 ## 2. 発表者
 

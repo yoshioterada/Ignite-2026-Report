@@ -8,7 +8,8 @@
 
 > 注意：英語トランスクリプトは、シャドー AI の顧客事例の説明のあと、「I don't know.」という一言で終わっています。まとめの発言や Q&A は含まれていないため、この文書でも扱えていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1110](https://ignite.microsoft.com/en-US/sessions/THRSP1110)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1110](https://ignite.microsoft.com/en-US/sessions/THRSP1110)\
+YouTube URL: [https://www.youtube.com/watch?v=21yhDRMoMoc](https://www.youtube.com/watch?v=21yhDRMoMoc)
 
 ## 2. 発表者
 

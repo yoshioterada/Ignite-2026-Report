@@ -6,7 +6,8 @@
 
 発表では、HR の担当者が Copilot Code で作ったトラッカーの事例、模擬の小売企業を使った 2 つのライブデモ（店舗向けアプリの試作、プロダクト責任者の個人用ダッシュボード）、そして管理者向けのガバナンス・セキュリティ・コスト管理の説明が順に続きます。アプリを作る側（情報ワーカー）と、それを管理する側（IT 管理者）の両方に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK203](https://ignite.microsoft.com/en-US/sessions/BRK203)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK203](https://ignite.microsoft.com/en-US/sessions/BRK203)\
+YouTube URL: [https://www.youtube.com/watch?v=MxTJrGD3TDs](https://www.youtube.com/watch?v=MxTJrGD3TDs)
 
 ## 2. 発表者
 

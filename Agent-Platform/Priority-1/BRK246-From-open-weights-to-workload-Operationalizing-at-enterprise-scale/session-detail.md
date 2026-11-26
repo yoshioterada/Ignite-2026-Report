@@ -12,7 +12,8 @@
 
 発表の途中には Foundry ポータルと SDK を使ったデモがあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK246](https://ignite.microsoft.com/en-US/sessions/BRK246)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK246](https://ignite.microsoft.com/en-US/sessions/BRK246)\
+YouTube URL: [https://www.youtube.com/watch?v=ZIcvBT_qx2o](https://www.youtube.com/watch?v=ZIcvBT_qx2o)
 
 ## 2. 発表者
 

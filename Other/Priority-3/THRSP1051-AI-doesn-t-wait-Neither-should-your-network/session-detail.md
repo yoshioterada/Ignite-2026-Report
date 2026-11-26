@@ -8,7 +8,8 @@
 
 このセッションには画面を使ったデモはありません。デモは、セッション後に Lumen のブースで見られると案内されています。会場への挙手による賛否のアンケートは 3 回行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1051](https://ignite.microsoft.com/en-US/sessions/THRSP1051)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1051](https://ignite.microsoft.com/en-US/sessions/THRSP1051)\
+YouTube URL: [https://www.youtube.com/watch?v=TZ6hs6KiqA0](https://www.youtube.com/watch?v=TZ6hs6KiqA0)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表を通して強調されたのは、**自分の仕事のやり方（知識と業務プロセス）をエージェントに落とし込めば、毎週繰り返す作業を Copilot に任せられる**という点です。発表は、Copilot の標準機能で始められる Agent Builder に最も時間を割いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK236](https://ignite.microsoft.com/en-US/sessions/BRK236)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK236](https://ignite.microsoft.com/en-US/sessions/BRK236)\
+YouTube URL: [https://www.youtube.com/watch?v=LgIuLUEo7N4](https://www.youtube.com/watch?v=LgIuLUEo7N4)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 > 注意：公開されているトランスクリプトは 20 秒付近から始まっており、冒頭のあいさつの一部は含まれていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK516](https://ignite.microsoft.com/en-US/sessions/BRK516)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK516](https://ignite.microsoft.com/en-US/sessions/BRK516)\
+YouTube URL: [https://www.youtube.com/watch?v=eSs9am5OugI](https://www.youtube.com/watch?v=eSs9am5OugI)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 後半では、AT&T の AI fabric と Azure Firewall・Prompt Shield を連携させたデモと、Microsoft の登壇者による Azure Firewall の新機能（AI モデルをネットワーク上でインラインに動かす検知機能など）の解説があります。AI エージェントのトラフィックを、ネットワークの側からどう可視化・防御するか、という話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1115](https://ignite.microsoft.com/en-US/sessions/THRSP1115)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1115](https://ignite.microsoft.com/en-US/sessions/THRSP1115)\
+YouTube URL: [https://www.youtube.com/watch?v=WLruXaoUkZo](https://www.youtube.com/watch?v=WLruXaoUkZo)
 
 ## 2. 発表者
 

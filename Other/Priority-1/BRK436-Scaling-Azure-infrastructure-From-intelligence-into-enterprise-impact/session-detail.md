@@ -8,7 +8,8 @@
 
 > 補足：このセッションに画面操作を伴うデモはありません。冒頭の紹介ビデオと、終盤のマイクロ流体冷却の短いビデオクリップを除き、スライドと口頭の説明で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK436](https://ignite.microsoft.com/en-US/sessions/BRK436)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK436](https://ignite.microsoft.com/en-US/sessions/BRK436)\
+YouTube URL: [https://www.youtube.com/watch?v=xrk8mDcRBNw](https://www.youtube.com/watch?v=xrk8mDcRBNw)
 
 ## 2. 発表者
 

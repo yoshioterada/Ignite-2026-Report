@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。製品の使い方ではなく、考え方と組織施策の話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK528](https://ignite.microsoft.com/en-US/sessions/BRK528)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK528](https://ignite.microsoft.com/en-US/sessions/BRK528)\
+YouTube URL: [https://www.youtube.com/watch?v=CvApKSu2G2I](https://www.youtube.com/watch?v=CvApKSu2G2I)
 
 ## 2. 発表者
 

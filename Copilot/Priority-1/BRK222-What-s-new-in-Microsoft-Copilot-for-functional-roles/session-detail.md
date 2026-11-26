@@ -8,7 +8,8 @@
 
 職種別の Copilot の機能が、どの画面から使え、何ができ、どこまで提供されているのかを知りたい開発者・IT 技術者に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK222](https://ignite.microsoft.com/en-US/sessions/BRK222)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK222](https://ignite.microsoft.com/en-US/sessions/BRK222)\
+YouTube URL: [https://www.youtube.com/watch?v=ad2b4Kebmb4](https://www.youtube.com/watch?v=ad2b4Kebmb4)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 デモでは、Python の脆弱なライブラリ（SQL parse）を最新版へ上げられないアプリに対し、Lightwell の修正済みパッケージを自動で取り込んでテストし、コンテナーと RHEL VM の両方に約 2 分で本番反映するまでを見せています。既存の CI/CD に小さな設定変更を足すだけで、アプリを止めずに脆弱性に対応できる、というのが結論です。テーマ名にある「AI」については、トランスクリプト上、AI に特化した説明やデモは確認できません（Lightwell の開発に frontier AI model が使われているという言及があるのみです）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1133](https://ignite.microsoft.com/en-US/sessions/THRSP1133)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1133](https://ignite.microsoft.com/en-US/sessions/THRSP1133)\
+YouTube URL: [https://www.youtube.com/watch?v=F2cv_594arc](https://www.youtube.com/watch?v=F2cv_594arc)
 
 ## 2. 発表者
 

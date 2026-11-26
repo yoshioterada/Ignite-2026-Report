@@ -6,7 +6,8 @@
 
 構成は、問題提起と全体像、Nous Research（Hermes Agent）の事例、ACA Sandboxes のデモ付きディープダイブ、Cognite の産業向けエージェントの事例、まとめの順です。ACA Sandboxes は、ハードウェアで分離された microVM を、ネットワークや ID のガードレール付きで提供する Azure のマネージドサービスです。発表の中心は、microVM による分離、egress proxy によるネットワーク制御と secretless（シークレットを置かない）構成、snapshot、コネクターとトリガーといった機能と、それを実際に使っている 2 社の話です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK448](https://ignite.microsoft.com/en-US/sessions/BRK448)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK448](https://ignite.microsoft.com/en-US/sessions/BRK448)\
+YouTube URL: [https://www.youtube.com/watch?v=bOVIztVIPxk](https://www.youtube.com/watch?v=bOVIztVIPxk)
 
 ## 2. 発表者
 

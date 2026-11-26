@@ -10,7 +10,8 @@
 
 > 注意：トランスクリプトでは製品名が "Emdash" や "M-dash" と聞こえます。本書ではメタデータのタイトルにある綴り「MDASH」に統一します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK319](https://ignite.microsoft.com/en-US/sessions/BRK319)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK319](https://ignite.microsoft.com/en-US/sessions/BRK319)\
+YouTube URL: [https://www.youtube.com/watch?v=ewZkp-Lh7i4](https://www.youtube.com/watch?v=ewZkp-Lh7i4)
 
 ## 2. 発表者
 

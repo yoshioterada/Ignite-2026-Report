@@ -6,7 +6,8 @@
 
 全体を貫く主張は、**AI の時代になるほど、金融データは「信頼できること」が価値の中心になる**という点です。信頼を支える土台として、統一されたデータモデル、系統（リネージ）の追跡、そして厳密な評価（eval）が繰り返し語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK546](https://ignite.microsoft.com/en-US/sessions/BRK546)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK546](https://ignite.microsoft.com/en-US/sessions/BRK546)\
+YouTube URL: [https://www.youtube.com/watch?v=u23DGLx0Mxs](https://www.youtube.com/watch?v=u23DGLx0Mxs)
 
 ## 2. 発表者
 

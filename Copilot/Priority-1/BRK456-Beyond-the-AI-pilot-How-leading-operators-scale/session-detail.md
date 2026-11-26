@@ -10,7 +10,8 @@
 
 なお、このセッションでは画面を使ったデモは行われていません。スライドと口頭の説明、パネル対話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK456](https://ignite.microsoft.com/en-US/sessions/BRK456)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK456](https://ignite.microsoft.com/en-US/sessions/BRK456)\
+YouTube URL: [https://www.youtube.com/watch?v=gDnXp-BaNAw](https://www.youtube.com/watch?v=gDnXp-BaNAw)
 
 ## 2. 発表者
 

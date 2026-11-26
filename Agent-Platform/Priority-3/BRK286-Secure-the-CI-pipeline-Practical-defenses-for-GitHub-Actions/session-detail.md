@@ -8,7 +8,8 @@
 
 最後に、無料で使えるもの、まだプレビューのもの、ロードマップ、導入計画の 4 ステップがまとめられます。このセッションには、画面操作を伴うデモが複数あります（6 章）。終盤に質疑応答の呼びかけもありますが、トランスクリプトに質問と回答は含まれていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK286](https://ignite.microsoft.com/en-US/sessions/BRK286)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK286](https://ignite.microsoft.com/en-US/sessions/BRK286)\
+YouTube URL: [https://www.youtube.com/watch?v=_V07yWgIRMo](https://www.youtube.com/watch?v=_V07yWgIRMo)
 
 ## 2. 発表者
 

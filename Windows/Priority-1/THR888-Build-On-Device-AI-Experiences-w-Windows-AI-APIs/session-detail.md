@@ -8,7 +8,8 @@
 
 > 補足：モデル名はメタデータ（セッション概要）では「Aion Instruct」と表記されています。トランスクリプトでは「Ion Instruct」と書き起こされていますが、本稿ではメタデータの綴りに合わせて Aion Instruct と書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR888](https://ignite.microsoft.com/en-US/sessions/THR888)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR888](https://ignite.microsoft.com/en-US/sessions/THR888)\
+YouTube URL: [https://www.youtube.com/watch?v=V9swp6u1niE](https://www.youtube.com/watch?v=V9swp6u1niE)
 
 ## 2. 発表者
 

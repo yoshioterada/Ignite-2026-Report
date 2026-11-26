@@ -6,7 +6,8 @@
 
 発表の中心は、更新期限の通知、ホワイトラベルの店舗、顧客ごとのカタログ、プロモーションの一覧、ライセンスの使用状況と請求の集約といった機能を、1 つの画面（1 ページ）で扱えるという説明です。紹介は主に画面のスクリーンショットを使って行われ、ライブデモと呼べるものは確認できませんでした（6 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1154](https://ignite.microsoft.com/en-US/sessions/THRSP1154)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1154](https://ignite.microsoft.com/en-US/sessions/THRSP1154)\
+YouTube URL: [https://www.youtube.com/watch?v=HCgbAYLvyBA](https://www.youtube.com/watch?v=HCgbAYLvyBA)
 
 ## 2. 発表者
 

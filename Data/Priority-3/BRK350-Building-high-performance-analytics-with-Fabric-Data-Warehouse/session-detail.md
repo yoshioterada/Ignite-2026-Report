@@ -6,7 +6,8 @@
 
 発表の根底にあるのは、「エージェントは人間の分析者よりはるかに多く、はるかに短い間隔でクエリを投げてくるので、データ基盤の負荷の形が変わる」という認識です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK350](https://ignite.microsoft.com/en-US/sessions/BRK350)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK350](https://ignite.microsoft.com/en-US/sessions/BRK350)\
+YouTube URL: [https://www.youtube.com/watch?v=B0oZe1PDlLs](https://www.youtube.com/watch?v=B0oZe1PDlLs)
 
 ## 2. 発表者
 

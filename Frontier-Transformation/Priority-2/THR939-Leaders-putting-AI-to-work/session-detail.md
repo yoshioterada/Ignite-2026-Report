@@ -6,7 +6,8 @@
 
 中心にある考え方は「AI が効率を生み、効率が余力を生み、その余力が社会的な成果（インパクト）を生む」という流れです。登壇者は、Copilot を全職員に配った後も「導入しただけでは定着ではなく、定着しただけでは成果ではない」と述べ、浮いた時間を何に再投資するかを決めるのはリーダーだと強調しています。予算の確保、研修の失敗談、変更推進役のネットワークなど、非営利団体に限らず参考になる実務の話が多く含まれています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR939](https://ignite.microsoft.com/en-US/sessions/THR939)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR939](https://ignite.microsoft.com/en-US/sessions/THR939)\
+YouTube URL: [https://www.youtube.com/watch?v=gQaEDC8PZoM](https://www.youtube.com/watch?v=gQaEDC8PZoM)
 
 ## 2. 発表者
 

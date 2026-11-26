@@ -6,7 +6,8 @@
 
 要点は、エージェントの利用を見える化し、責任者を決め、一貫したガードレール（歯止め）をかけることです。発表では、可視化、責任の所在、対応のそれぞれを、Agent 365 と Microsoft Entra、Purview、Defender を組み合わせて行う様子が描かれます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1017](https://ignite.microsoft.com/en-US/sessions/THR1017)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1017](https://ignite.microsoft.com/en-US/sessions/THR1017)\
+YouTube URL: [https://www.youtube.com/watch?v=l-pNFVwoqnA](https://www.youtube.com/watch?v=l-pNFVwoqnA)
 
 ## 2. 発表者
 

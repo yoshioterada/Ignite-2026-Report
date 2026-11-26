@@ -8,7 +8,8 @@
 
 前半の結論は「**FinOps は AI の利用を制限するためのものではなく、自信を持って AI を拡大するためのもの**」という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK271](https://ignite.microsoft.com/en-US/sessions/BRK271)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK271](https://ignite.microsoft.com/en-US/sessions/BRK271)\
+YouTube URL: [https://www.youtube.com/watch?v=iKJCzpHEMy4](https://www.youtube.com/watch?v=iKJCzpHEMy4)
 
 ## 2. 発表者
 

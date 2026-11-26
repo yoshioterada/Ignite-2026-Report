@@ -8,7 +8,8 @@ WESP は、今週の Ignite で一般提供（GA）が発表されました。Wi
 
 後半には、WESP Playground というサンプルアプリを使った 3 つのデモがあります。いずれも録画で、ライブデモではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR892](https://ignite.microsoft.com/en-US/sessions/THR892)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR892](https://ignite.microsoft.com/en-US/sessions/THR892)\
+YouTube URL: [https://www.youtube.com/watch?v=Z9mfY_WgrOE](https://www.youtube.com/watch?v=Z9mfY_WgrOE)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 話は 3 人の登壇者のリレーで進みます。最初に市場機会とサービスの収益構造の変化、次に Microsoft AI Cloud Partner Program などの支援策と投資、最後にスキル育成（Frontier Transformation Engineer バッジ）と、顧客に提案するオファーの組み立て方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK491](https://ignite.microsoft.com/en-US/sessions/BRK491)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK491](https://ignite.microsoft.com/en-US/sessions/BRK491)\
+YouTube URL: [https://www.youtube.com/watch?v=0FDpgxK5mXM](https://www.youtube.com/watch?v=0FDpgxK5mXM)
 
 ## 2. 発表者
 

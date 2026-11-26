@@ -6,7 +6,8 @@
 
 Lalit 氏は、信頼を「コンピテンス（能力）→ 繰り返し実現できること → 透明性」の層として語り、社内での AI ツール展開、成果の測り方、ガバナンス、人の説明責任、採用で重視する基礎力、最後に持ち帰るべき 2 点（人材とスピード）を述べています。画面を使ったデモはなく、対話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR942](https://ignite.microsoft.com/en-US/sessions/THR942)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR942](https://ignite.microsoft.com/en-US/sessions/THR942)\
+YouTube URL: [https://www.youtube.com/watch?v=moEX1S4p4hw](https://www.youtube.com/watch?v=moEX1S4p4hw)
 
 ## 2. 発表者
 

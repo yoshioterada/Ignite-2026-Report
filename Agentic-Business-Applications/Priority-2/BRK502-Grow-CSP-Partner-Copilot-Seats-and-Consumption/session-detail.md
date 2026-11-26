@@ -6,7 +6,8 @@
 
 発表の核心は、**顧客の入口は 1 つのシートで、その後にシートが任せる作業が増えるほど、パートナーの事業が広がる**という点です。デモは行われておらず、スライドと口頭の説明、パートナー 2 社の事例が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK502](https://ignite.microsoft.com/en-US/sessions/BRK502)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK502](https://ignite.microsoft.com/en-US/sessions/BRK502)\
+YouTube URL: [https://www.youtube.com/watch?v=i57CkO3Wl7g](https://www.youtube.com/watch?v=i57CkO3Wl7g)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 エージェントの動かし方には、どれか 1 つの正解があるわけではなく、トレードオフがあります。発表はその選択肢を直感的に理解してもらうことを目的にしており、詳細は同日午後の別セッションで扱うと案内されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK276](https://ignite.microsoft.com/en-US/sessions/BRK276)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK276](https://ignite.microsoft.com/en-US/sessions/BRK276)\
+YouTube URL: [https://www.youtube.com/watch?v=ZSztsr0tKaU](https://www.youtube.com/watch?v=ZSztsr0tKaU)
 
 ## 2. 発表者
 

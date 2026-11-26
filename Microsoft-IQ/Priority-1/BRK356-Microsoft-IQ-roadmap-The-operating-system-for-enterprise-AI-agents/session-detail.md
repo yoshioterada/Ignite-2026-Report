@@ -16,7 +16,8 @@ AI エージェントを作ること自体は、もう難しくありません�
 
 > 注意：発表の中で紹介されている多くの機能は、登壇者が「今取り組んでいること（working on）」と表現しているロードマップ上のものです。提供時期や提供状況については、発表では触れられていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK356](https://ignite.microsoft.com/en-US/sessions/BRK356)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK356](https://ignite.microsoft.com/en-US/sessions/BRK356)\
+YouTube URL: [https://www.youtube.com/watch?v=8OkJQMoC1mM](https://www.youtube.com/watch?v=8OkJQMoC1mM)
 
 ## 2. 発表者
 

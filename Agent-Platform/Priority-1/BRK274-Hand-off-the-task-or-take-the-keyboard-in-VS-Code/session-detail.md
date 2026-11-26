@@ -8,7 +8,8 @@
 
 発表全体を貫くメッセージは、**VS Code は今までのエディタのまま、エージェントの機能が追加されただけで、AI をどこまで使うかは利用者が決められる**ということです。AI の利用を始めたばかりの方にも、すでに多用している方にも向けた内容になっています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK274](https://ignite.microsoft.com/en-US/sessions/BRK274)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK274](https://ignite.microsoft.com/en-US/sessions/BRK274)\
+YouTube URL: [https://www.youtube.com/watch?v=jMNitK5urNk](https://www.youtube.com/watch?v=jMNitK5urNk)
 
 ## 2. 発表者
 

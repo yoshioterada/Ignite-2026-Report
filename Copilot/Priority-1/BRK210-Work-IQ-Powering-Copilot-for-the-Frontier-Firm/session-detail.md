@@ -6,7 +6,8 @@
 
 発表の中心にある考え方は、「どのチームも同じ最新モデルを使える時代には、差を生むのはコンテキストだ」というものです。この記事では、Work IQ の 3 つの構成要素（memory / context / skills）、Dynamics 365 や Power Platform、コネクターとの連携、Work IQ を使ったアプリ作成のデモ、そして Agent 365 による管理までを、発表の順に整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK210](https://ignite.microsoft.com/en-US/sessions/BRK210)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK210](https://ignite.microsoft.com/en-US/sessions/BRK210)\
+YouTube URL: [https://www.youtube.com/watch?v=0IWfFbxLzyk](https://www.youtube.com/watch?v=0IWfFbxLzyk)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表では、エージェントを 2 つのクラスに分けて対処する方法が示されました。1 つは MXC（Microsoft execution containers）に対応した「MXC ready」なエージェントで、Intune の **agent containment policy** で上限を設定します。もう 1 つは社内に入れたくない「unwanted」なエージェントで、新しい **software compliance policy** でデバイスを非準拠にして締め出します。どちらにも Intune の画面を使ったデモがあります。さらに、Microsoft 社内の IT 部門（Microsoft Digital）による段階的な展開の経験と、HP Inc. の Jim Cooper 氏によるエンタープライズ側の課題も語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK391](https://ignite.microsoft.com/en-US/sessions/BRK391)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK391](https://ignite.microsoft.com/en-US/sessions/BRK391)\
+YouTube URL: [https://www.youtube.com/watch?v=g5TgBgMIe58](https://www.youtube.com/watch?v=g5TgBgMIe58)
 
 ## 2. 発表者
 

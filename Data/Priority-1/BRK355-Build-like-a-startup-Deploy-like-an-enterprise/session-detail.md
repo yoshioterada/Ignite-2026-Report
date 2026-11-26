@@ -8,7 +8,8 @@
 
 > 注意：トランスクリプトでは製品名が "Raven"、"Rafin"、"Rayfin" など複数の綴りで書き起こされています。メタデータのセッション概要が "Rayfin" と綴っているため、本文では Rayfin と書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK355](https://ignite.microsoft.com/en-US/sessions/BRK355)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK355](https://ignite.microsoft.com/en-US/sessions/BRK355)\
+YouTube URL: [https://www.youtube.com/watch?v=amrnnxVB3ic](https://www.youtube.com/watch?v=amrnnxVB3ic)
 
 ## 2. 発表者
 

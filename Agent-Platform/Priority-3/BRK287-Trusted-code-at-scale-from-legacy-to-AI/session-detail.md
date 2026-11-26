@@ -6,7 +6,8 @@
 
 発表は、スライドで背景と製品の仕組み、効果の数値を紹介したあと、画面を共有したライブデモ（リポジトリでの有効化、ルールセット、プルリクエスト上の指摘、テストカバレッジ、バックログのスキャン、組織レベルのレポート）に進みます。その後、今後のロードマップ、ライセンスと価格、会場からの 4 つの質問への回答が続きます。この文書を読むと、Code Quality が何を検出し、どう修正まで進め、どうマージを止めるのか、そして価格の考え方を確認できます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK287](https://ignite.microsoft.com/en-US/sessions/BRK287)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK287](https://ignite.microsoft.com/en-US/sessions/BRK287)\
+YouTube URL: [https://www.youtube.com/watch?v=yVqpG1J8ovs](https://www.youtube.com/watch?v=yVqpG1J8ovs)
 
 ## 2. 発表者
 

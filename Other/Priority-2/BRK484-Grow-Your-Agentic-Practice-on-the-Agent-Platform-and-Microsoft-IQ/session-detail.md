@@ -8,7 +8,8 @@
 
 > 補足：発表の主題は戦略と事業モデルで、画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK484](https://ignite.microsoft.com/en-US/sessions/BRK484)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK484](https://ignite.microsoft.com/en-US/sessions/BRK484)\
+YouTube URL: [https://www.youtube.com/watch?v=8G4Gg-gF22w](https://www.youtube.com/watch?v=8G4Gg-gF22w)
 
 ## 2. 発表者
 

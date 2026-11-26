@@ -8,7 +8,8 @@
 
 発表は Ignite 最終週の木曜午後に行われ、終盤は時間が足りなくなり、駆け足でリソース紹介が行われました。画面を操作するデモはなく、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK504](https://ignite.microsoft.com/en-US/sessions/BRK504)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK504](https://ignite.microsoft.com/en-US/sessions/BRK504)\
+YouTube URL: [https://www.youtube.com/watch?v=SAeZ2t8-5dI](https://www.youtube.com/watch?v=SAeZ2t8-5dI)
 
 ## 2. 発表者
 

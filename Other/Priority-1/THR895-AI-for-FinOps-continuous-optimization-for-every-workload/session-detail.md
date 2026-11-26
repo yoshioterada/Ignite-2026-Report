@@ -6,7 +6,8 @@
 
 扱われる主な要素は、ARM MCP（Azure Resource Manager MCP）と skills、Azure Copilot（Cost Analysis からの呼び出しを含む）、Azure SRE Agent、Azure Copilot の optimization agent、Azure MCP 経由の Advisor AI cost optimization skills です。どの段階も、架空の組織を題材にした画面付きのシナリオで紹介されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR895](https://ignite.microsoft.com/en-US/sessions/THR895)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR895](https://ignite.microsoft.com/en-US/sessions/THR895)\
+YouTube URL: [https://www.youtube.com/watch?v=8B_9dERCvz0](https://www.youtube.com/watch?v=8B_9dERCvz0)
 
 ## 2. 発表者
 

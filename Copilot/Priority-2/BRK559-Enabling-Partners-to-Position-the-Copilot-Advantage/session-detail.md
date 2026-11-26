@@ -6,7 +6,8 @@
 
 中心となる考え方は、顧客の反論の裏にある本当の目的を見つけ、その目的を 5 つの不変の柱のどれかに対応づけ、最後に顧客の事業価値へつなげる、という 3 段階の流れです。発表では 5 つの柱のうち、Work IQ、マルチモデルと auto、セキュリティと管理の 3 つを掘り下げています。機能ごとの比較に入らず、モデルの順位表が毎週変わっても揺らがない土台の話に引き戻す、というのが一貫した主張です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK559](https://ignite.microsoft.com/en-US/sessions/BRK559)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK559](https://ignite.microsoft.com/en-US/sessions/BRK559)\
+YouTube URL: [https://www.youtube.com/watch?v=OiO5BCOouzA](https://www.youtube.com/watch?v=OiO5BCOouzA)
 
 ## 2. 発表者
 

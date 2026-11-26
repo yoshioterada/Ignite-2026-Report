@@ -6,7 +6,8 @@
 
 一番の結論は、**プラグインのライフサイクル全体（作成・検証・評価・改善・配布）をエージェント主導で回せるようになった**という点です。Copilot の拡張機能を作る開発者、社内システムを Copilot につなぎたい IT 担当者、ISV（独立系ソフトウェアベンダー）の方が主な対象です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK237](https://ignite.microsoft.com/en-US/sessions/BRK237)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK237](https://ignite.microsoft.com/en-US/sessions/BRK237)\
+YouTube URL: [https://www.youtube.com/watch?v=_QHbGyIYiH0](https://www.youtube.com/watch?v=_QHbGyIYiH0)
 
 ## 2. 発表者
 

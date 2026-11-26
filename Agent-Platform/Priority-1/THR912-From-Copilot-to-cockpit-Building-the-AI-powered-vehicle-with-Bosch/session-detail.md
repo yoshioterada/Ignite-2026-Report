@@ -8,7 +8,8 @@
 
 > 補足：このセッションでは、画面を使ったデモは行われていません。構想を示す短いコンセプト動画の上映と、口頭の説明、最後の Q&A という構成です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR912](https://ignite.microsoft.com/en-US/sessions/THR912)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR912](https://ignite.microsoft.com/en-US/sessions/THR912)\
+YouTube URL: [https://www.youtube.com/watch?v=zfV_vQPmGy8](https://www.youtube.com/watch?v=zfV_vQPmGy8)
 
 ## 2. 発表者
 

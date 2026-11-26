@@ -6,7 +6,8 @@
 
 発表は開催前日の「Day 0（プレデー）」に行われました。2 人の発表者が掛け合いで進め、スライドの会場マップに加えて、公式モバイルアプリを実際に操作する場面もあります。事前に届くメールにも同じ情報の一部は載っていますが、メールにない「現場の裏話」を共有するという位置づけで始まります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK101](https://ignite.microsoft.com/en-US/sessions/BRK101)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK101](https://ignite.microsoft.com/en-US/sessions/BRK101)\
+YouTube URL: [https://www.youtube.com/watch?v=MvdVSDSamVE](https://www.youtube.com/watch?v=MvdVSDSamVE)
 
 ## 2. 発表者
 

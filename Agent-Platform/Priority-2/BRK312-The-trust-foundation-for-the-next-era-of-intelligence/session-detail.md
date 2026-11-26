@@ -6,7 +6,8 @@
 
 発表の主張は一貫しています。**エージェントを作ることは以前より簡単になったが、安全で期待どおりに動くと証明することが難しい**。そこで、最初から信頼を組み込んでおけば、本番投入まで数か月止まることなく進められる、という考えです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK312](https://ignite.microsoft.com/en-US/sessions/BRK312)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK312](https://ignite.microsoft.com/en-US/sessions/BRK312)\
+YouTube URL: [https://www.youtube.com/watch?v=eVo9ZpSFq-o](https://www.youtube.com/watch?v=eVo9ZpSFq-o)
 
 ## 2. 発表者
 

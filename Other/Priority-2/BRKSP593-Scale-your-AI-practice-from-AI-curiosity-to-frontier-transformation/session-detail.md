@@ -8,7 +8,8 @@
 
 結論は、**ライセンス販売で終わらせず、診断から提案、体験、導入支援までを繰り返せる形にすれば、AI の関心を収益の出る事業に変えられる**という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP593](https://ignite.microsoft.com/en-US/sessions/BRKSP593)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP593](https://ignite.microsoft.com/en-US/sessions/BRKSP593)\
+YouTube URL: [https://www.youtube.com/watch?v=4BOh3_HUW1k](https://www.youtube.com/watch?v=4BOh3_HUW1k)
 
 ## 2. 発表者
 

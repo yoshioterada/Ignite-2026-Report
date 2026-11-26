@@ -13,7 +13,8 @@
 - 人による承認（human in the loop）、スキル、MCP サーバーの使い方
 - 本番運用での実行環境の考え方
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1804](https://ignite.microsoft.com/en-US/sessions/THR1804)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1804](https://ignite.microsoft.com/en-US/sessions/THR1804)\
+YouTube URL: [https://www.youtube.com/watch?v=1owDMH5qY68](https://www.youtube.com/watch?v=1owDMH5qY68)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 物語を通して語られるのは、「何が動いているのか」「誰が責任を持つのか」「データにどこまで触れるのか」「危険な振る舞いに気付けるか」「どう封じ込めるか」という、エージェントを業務で使う際の問いです。結論として最後に示されたのは、**エージェントの利用を可視化する、責任者を明確にする、一貫したガードレールを適用する**の 3 点です。解決の道具として Agent 365 と Microsoft の Defender、Purview、Entra が登場します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR943](https://ignite.microsoft.com/en-US/sessions/THR943)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR943](https://ignite.microsoft.com/en-US/sessions/THR943)\
+YouTube URL: [https://www.youtube.com/watch?v=xmIoSfXdZck](https://www.youtube.com/watch?v=xmIoSfXdZck)
 
 ## 2. 発表者
 

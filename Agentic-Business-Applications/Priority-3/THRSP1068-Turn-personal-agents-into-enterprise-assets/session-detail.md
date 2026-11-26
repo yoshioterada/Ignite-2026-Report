@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明、そして会場との質疑応答が中心です）。登壇者は、スライドが想定より速く進み、質疑の時間が長くなったと話しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1068](https://ignite.microsoft.com/en-US/sessions/THRSP1068)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1068](https://ignite.microsoft.com/en-US/sessions/THRSP1068)\
+YouTube URL: [https://www.youtube.com/watch?v=5UAaK898lZw](https://www.youtube.com/watch?v=5UAaK898lZw)
 
 ## 2. 発表者
 

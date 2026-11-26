@@ -6,7 +6,8 @@
 
 前半は Microsoft の Shelley Bransten 氏が、AI のコスト低下、BCG の「10-20-70」の考え方、Microsoft の Work Trend Index のデータをもとに、人・プロセス・テクノロジーの 3 つを同時に進める必要があると説明します。後半は、ABB の Rajesh Ramachandran 氏と、UAE の複合企業グループ Al Futtaim の Himanshu 氏を招いた対談で、製造業と小売業の具体的な取り組みが語られます。AI の導入が「パイロットで止まっている」と感じている方や、AI をどの業務に当てはめるべきか考えている方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK534](https://ignite.microsoft.com/en-US/sessions/BRK534)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK534](https://ignite.microsoft.com/en-US/sessions/BRK534)\
+YouTube URL: [https://www.youtube.com/watch?v=CQ-LMBZElhc](https://www.youtube.com/watch?v=CQ-LMBZElhc)
 
 ## 2. 発表者
 

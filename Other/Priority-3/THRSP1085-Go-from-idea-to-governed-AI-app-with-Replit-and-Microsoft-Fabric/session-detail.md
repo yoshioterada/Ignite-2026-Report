@@ -10,7 +10,8 @@
 
 > 注意：トランスクリプトでは Replit が「Raplet」「Raplit」「Rapid」など、Fabric へのデプロイに使う CLI が「Rafin」「Refit」「Rayfin」「Rafian」などと、音声認識の都合で表記が揺れています。この文書では、セッションタイトルに合わせて製品名を **Replit** と書き、CLI は「Rafin CLI」と書きます（CLI の正確な綴りは確定できません）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1085](https://ignite.microsoft.com/en-US/sessions/THRSP1085)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1085](https://ignite.microsoft.com/en-US/sessions/THRSP1085)\
+YouTube URL: [https://www.youtube.com/watch?v=z-87eAyqcdM](https://www.youtube.com/watch?v=z-87eAyqcdM)
 
 ## 2. 発表者
 

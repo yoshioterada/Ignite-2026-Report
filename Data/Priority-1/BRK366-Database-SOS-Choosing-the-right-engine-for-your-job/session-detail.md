@@ -8,7 +8,8 @@
 
 > 補足：このセッションでは画面を使ったデモは行われていません。パネル形式の対話と、各社の事例紹介が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK366](https://ignite.microsoft.com/en-US/sessions/BRK366)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK366](https://ignite.microsoft.com/en-US/sessions/BRK366)\
+YouTube URL: [https://www.youtube.com/watch?v=Zm87ND9VRB0](https://www.youtube.com/watch?v=Zm87ND9VRB0)
 
 ## 2. 発表者
 

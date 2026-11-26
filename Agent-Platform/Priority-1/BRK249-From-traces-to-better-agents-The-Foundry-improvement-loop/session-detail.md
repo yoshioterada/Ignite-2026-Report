@@ -8,7 +8,8 @@
 
 エージェントを本番運用している、あるいはこれから運用する開発者・運用担当者に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK249](https://ignite.microsoft.com/en-US/sessions/BRK249)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK249](https://ignite.microsoft.com/en-US/sessions/BRK249)\
+YouTube URL: [https://www.youtube.com/watch?v=8POVUHWamEQ](https://www.youtube.com/watch?v=8POVUHWamEQ)
 
 ## 2. 発表者
 

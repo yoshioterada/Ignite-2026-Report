@@ -6,7 +6,8 @@
 
 話は大きく 3 段階で進みます。まず、OneLake でデータを統合し、Power BI のセマンティックモデルを Copilot などのエージェントからそのまま使う方法です。次に、リアルタイムの信号やビジネスルールまで含めて「事業の動き方」をモデル化する **Fabric IQ ontology** です。最後に、ontology を data agent に載せて最適化まで行う例が示されました。ontology の顧客事例として、Toyota Motor Corporation の取り組みも紹介されています。デモは 5 本あり、6 章で順に整理しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK306](https://ignite.microsoft.com/en-US/sessions/BRK306)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK306](https://ignite.microsoft.com/en-US/sessions/BRK306)\
+YouTube URL: [https://www.youtube.com/watch?v=0O6qhDbM35A](https://www.youtube.com/watch?v=0O6qhDbM35A)
 
 ## 2. 発表者
 

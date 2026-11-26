@@ -13,7 +13,8 @@ Web IQ は、AI エージェントを作る開発者や、エージェントを�
 - 複雑な質問を 1 回の API 呼び出しで扱う **Web IQ Auto** と、その上位の Auto Advance
 - Northern Trust、Genspark、Cloudforce の事例
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK295](https://ignite.microsoft.com/en-US/sessions/BRK295)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK295](https://ignite.microsoft.com/en-US/sessions/BRK295)\
+YouTube URL: [https://www.youtube.com/watch?v=mDNJzB2mI5w](https://www.youtube.com/watch?v=mDNJzB2mI5w)
 
 ## 2. 発表者
 

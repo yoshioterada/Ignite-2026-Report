@@ -6,7 +6,8 @@
 
 発表では、移行を支える 3 つの柱（製品内ツール、Microsoft の支援プログラム、パートナー）、ADF の「View in Fabric」、Synapse dedicated SQL pool 向けの移行アシスタント、そして顧客事例と性能・コストの数値が紹介されました。なお、移行を「単なる引っ越し」ではなく、アーキテクチャ刷新の機会として捉える顧客事例が繰り返し語られている点が、全体を通した特徴です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK354](https://ignite.microsoft.com/en-US/sessions/BRK354)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK354](https://ignite.microsoft.com/en-US/sessions/BRK354)\
+YouTube URL: [https://www.youtube.com/watch?v=NTl1jM3379I](https://www.youtube.com/watch?v=NTl1jM3379I)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@ Microsoft の認定には、現在 3 種類あります。ラボで特定のタ�
 
 このセッションでは、画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR954](https://ignite.microsoft.com/en-US/sessions/THR954)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR954](https://ignite.microsoft.com/en-US/sessions/THR954)\
+YouTube URL: [https://www.youtube.com/watch?v=SKXlFgAr8kM](https://www.youtube.com/watch?v=SKXlFgAr8kM)
 
 ## 2. 発表者
 

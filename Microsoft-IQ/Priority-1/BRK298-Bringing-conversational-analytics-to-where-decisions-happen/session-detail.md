@@ -6,7 +6,8 @@
 
 発表の軸は、**同じ Fabric IQ の基盤（ガバナンスされたデータと同じツール群）を、いろいろな会話型の画面から使えるようにする**ことです。45 分の枠ですが、質疑応答の時間はほとんど取れませんでした。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK298](https://ignite.microsoft.com/en-US/sessions/BRK298)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK298](https://ignite.microsoft.com/en-US/sessions/BRK298)\
+YouTube URL: [https://www.youtube.com/watch?v=My6JPEJZJ6Y](https://www.youtube.com/watch?v=My6JPEJZJ6Y)
 
 ## 2. 発表者
 

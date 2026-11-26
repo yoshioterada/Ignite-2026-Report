@@ -6,7 +6,8 @@
 
 発表は、次の 3 つの視点で進みます。研究側の視点（なぜ 1 つのモデルでは足りないのか、結果の評価）、エンジニアリング側の視点（プロンプトキャッシュやコンテキストウィンドウを考慮したモデル選択の難しさ）、そしてプロダクト側の視点（GitHub Copilot app でのライブデモと今後の方向性）です。セッション概要には、モデルを選ぶことより、いつ・どのようにモデルを使うかが重要になりつつある、と書かれています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK280](https://ignite.microsoft.com/en-US/sessions/BRK280)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK280](https://ignite.microsoft.com/en-US/sessions/BRK280)\
+YouTube URL: [https://www.youtube.com/watch?v=1kpeIbdAfoQ](https://www.youtube.com/watch?v=1kpeIbdAfoQ)
 
 ## 2. 発表者
 

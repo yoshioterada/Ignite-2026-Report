@@ -8,7 +8,8 @@
 
 デモが複数あり、セキュリティ（SOC）担当者と ID 管理者の両方に向けた内容です。passkey と Verified ID を組み合わせた機能は public preview、Teams の合成音声検出は limited preview の例として紹介されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK334](https://ignite.microsoft.com/en-US/sessions/BRK334)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK334](https://ignite.microsoft.com/en-US/sessions/BRK334)\
+YouTube URL: [https://www.youtube.com/watch?v=IQs4TZABRsA](https://www.youtube.com/watch?v=IQs4TZABRsA)
 
 ## 2. 発表者
 

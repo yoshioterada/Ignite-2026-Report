@@ -6,7 +6,8 @@
 
 デモは動画で流す形が中心で、Direct Stream による接続の速さ、周辺機器のリダイレクト、GPU を使った Cloud PC、開発者向けのセットアップ、ローカルモデルとクラウドモデルの使い分け、永続的な Cloud PC をエージェントに渡す例が紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK400](https://ignite.microsoft.com/en-US/sessions/BRK400)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK400](https://ignite.microsoft.com/en-US/sessions/BRK400)\
+YouTube URL: [https://www.youtube.com/watch?v=8NH4v8bxHcQ](https://www.youtube.com/watch?v=8NH4v8bxHcQ)
 
 ## 2. 発表者
 

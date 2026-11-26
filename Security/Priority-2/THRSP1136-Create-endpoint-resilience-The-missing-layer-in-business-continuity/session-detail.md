@@ -6,7 +6,8 @@
 
 話の中心は、Windows 端末に並べて導入する IGEL OS への切り替えです。Windows が使えなくなっても約 3 分で業務を再開でき、侵害された可能性のある Windows 領域はフォレンジック調査（証拠保全を前提とした原因調査）のために残せる、という仕組みです。後半では、管理コンソールから端末を一斉に切り替える「緊急モード（Emergency mode）」のデモも行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1136](https://ignite.microsoft.com/en-US/sessions/THRSP1136)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1136](https://ignite.microsoft.com/en-US/sessions/THRSP1136)\
+YouTube URL: [https://www.youtube.com/watch?v=9eYLzn2FRwE](https://www.youtube.com/watch?v=9eYLzn2FRwE)
 
 ## 2. 発表者
 

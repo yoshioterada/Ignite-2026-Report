@@ -6,7 +6,8 @@
 
 登壇者が持ち帰ってほしいと述べているメッセージは「**context matters**」です。エージェントに渡すコンテキストが的確で関連性が高いほど、エージェントは良く動く、という考えです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR885](https://ignite.microsoft.com/en-US/sessions/THR885)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR885](https://ignite.microsoft.com/en-US/sessions/THR885)\
+YouTube URL: [https://www.youtube.com/watch?v=rph2lOB069U](https://www.youtube.com/watch?v=rph2lOB069U)
 
 ## 2. 発表者
 

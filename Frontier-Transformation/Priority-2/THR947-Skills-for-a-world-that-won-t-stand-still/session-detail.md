@@ -6,7 +6,8 @@
 
 Sarah 氏は、約 5,000 人の技術部門の人材育成を担当しています。新卒向けプログラム、AI Skills Navigator の活用、マネージャーによる実践的なワークセッション、失敗から得た教訓などを具体的に語っています。最も強調されたのは、**技術やツールよりも先に「人」に向き合う**という点です。画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR947](https://ignite.microsoft.com/en-US/sessions/THR947)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR947](https://ignite.microsoft.com/en-US/sessions/THR947)\
+YouTube URL: [https://www.youtube.com/watch?v=Ow9v_JoUVHo](https://www.youtube.com/watch?v=Ow9v_JoUVHo)
 
 ## 2. 発表者
 

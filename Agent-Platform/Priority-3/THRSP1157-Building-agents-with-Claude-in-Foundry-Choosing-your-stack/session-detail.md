@@ -6,7 +6,8 @@
 
 結論は、「ノートパソコン上でのプロトタイプは簡単だが、本番でどのスタックに載せるかが難しい。迷ったら、Claude agent SDK と Claude in Foundry、Foundry の hosted agent の組み合わせから始めるのが妥当」というものです。最後に、6 種類のユースケース別に、どの構成を選ぶかを示しています。画面を使ったデモはなく、スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1157](https://ignite.microsoft.com/en-US/sessions/THRSP1157)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1157](https://ignite.microsoft.com/en-US/sessions/THRSP1157)\
+YouTube URL: [https://www.youtube.com/watch?v=iSYa7GBR-Nw](https://www.youtube.com/watch?v=iSYa7GBR-Nw)
 
 ## 2. 発表者
 

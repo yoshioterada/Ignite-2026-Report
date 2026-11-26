@@ -6,7 +6,8 @@
 
 発表全体の結論は、**エージェントにも「責任者のいる独立したアイデンティティ」を持たせ、アクセスは最小権限・期限付き・意図ベースで与える**ということです。NVIDIA の事例では、エージェントの実行環境に使えるトークンを一切置かない設計が示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK344](https://ignite.microsoft.com/en-US/sessions/BRK344)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK344](https://ignite.microsoft.com/en-US/sessions/BRK344)\
+YouTube URL: [https://www.youtube.com/watch?v=UZbU8Aus0WQ](https://www.youtube.com/watch?v=UZbU8Aus0WQ)
 
 ## 2. 発表者
 

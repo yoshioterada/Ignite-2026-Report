@@ -6,7 +6,8 @@
 
 話の中心は「顧客は技術そのものよりも、成果と確信を求めている」という点です。そのために、Microsoft とパートナーが事前に歩調を合わせて共同販売（コセル）を進めること、技術だけでなくビジネス価値を語れる力を身につけること、自社を最初の顧客として使い込み、その経験を顧客向けの事例に変える「Customer Zero（顧客ゼロ）」を実践すること、が繰り返し語られます。画面を使ったデモはなく、スライドと口頭の説明、パネル討論で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK518](https://ignite.microsoft.com/en-US/sessions/BRK518)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK518](https://ignite.microsoft.com/en-US/sessions/BRK518)\
+YouTube URL: [https://www.youtube.com/watch?v=5H1qfMdjeBE](https://www.youtube.com/watch?v=5H1qfMdjeBE)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表の出発点は、エージェントが好きなだけコードを書けるようになった今、難しいのは「エージェントが作ったものを信頼すること」、つまり何に触れてよいか、誰が最終的に承認するかだ、という認識です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR963](https://ignite.microsoft.com/en-US/sessions/THR963)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR963](https://ignite.microsoft.com/en-US/sessions/THR963)\
+YouTube URL: [https://www.youtube.com/watch?v=Ct4pYdNWTzE](https://www.youtube.com/watch?v=Ct4pYdNWTzE)
 
 ## 2. 発表者
 

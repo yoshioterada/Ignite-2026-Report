@@ -8,7 +8,8 @@
 
 全体を通した結論は 2 つです。**物理 AI はすでにデモの段階を過ぎ、本番展開と規模拡大の段階に入っています**。ただし、ワンクリックで導入できる段階ではなく、1 社だけで作り上げることもできません。このセッションに画面を使ったデモはなく、討論形式で進みました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP615](https://ignite.microsoft.com/en-US/sessions/BRKSP615)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP615](https://ignite.microsoft.com/en-US/sessions/BRKSP615)\
+YouTube URL: [https://www.youtube.com/watch?v=_11pwdlq6w4](https://www.youtube.com/watch?v=_11pwdlq6w4)
 
 ## 2. 発表者
 

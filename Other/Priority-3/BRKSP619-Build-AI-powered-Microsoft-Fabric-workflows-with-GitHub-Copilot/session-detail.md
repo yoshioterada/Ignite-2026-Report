@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモが 2 本行われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP619](https://ignite.microsoft.com/en-US/sessions/BRKSP619)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP619](https://ignite.microsoft.com/en-US/sessions/BRKSP619)\
+YouTube URL: [https://www.youtube.com/watch?v=Yt-4XcI_Ick](https://www.youtube.com/watch?v=Yt-4XcI_Ick)
 
 ## 2. 発表者
 

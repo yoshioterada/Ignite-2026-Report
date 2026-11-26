@@ -6,7 +6,8 @@
 
 発表は次の順に進みます。最初に Microsoft の Zohar 氏がガバナンスの考え方を説明し、State Farm の事例が続きます。次に、メーカー（作る人）が管理者の視界の中で作り始められるようにする設定方法が、デモ付きで紹介されます。その後、Austin 氏が作成物を本番で動かす仕組み（managed host、昇格、監視）を説明します。最後に Zohar 氏が、課金とクレジット、そして管理センターをエージェントで操作する新しいアプローチをデモで見せます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK473](https://ignite.microsoft.com/en-US/sessions/BRK473)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK473](https://ignite.microsoft.com/en-US/sessions/BRK473)\
+YouTube URL: [https://www.youtube.com/watch?v=VO0pjIubjXE](https://www.youtube.com/watch?v=VO0pjIubjXE)
 
 ## 2. 発表者
 

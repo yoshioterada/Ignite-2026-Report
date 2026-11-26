@@ -6,7 +6,8 @@
 
 要点は 3 つです。第 1 に、AI は臨床判断を自動化するものではなく、判断の周辺にある作業を減らすものだという位置づけです。第 2 に、Copilot Studio で作ったエージェントを、医師が電子カルテ上で使う Dragon Copilot に載せて、診療の現場に届けている点です。第 3 に、現場主導の開発を認めつつ、サンドボックスとリスクに応じた審査で統制している点です。医療機関で AI の導入を担う方はもちろん、業務エージェントを組織で広げたい IT 担当者にも参考になります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK460](https://ignite.microsoft.com/en-US/sessions/BRK460)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK460](https://ignite.microsoft.com/en-US/sessions/BRK460)\
+YouTube URL: [https://www.youtube.com/watch?v=J9BOltZBo_0](https://www.youtube.com/watch?v=J9BOltZBo_0)
 
 ## 2. 発表者
 

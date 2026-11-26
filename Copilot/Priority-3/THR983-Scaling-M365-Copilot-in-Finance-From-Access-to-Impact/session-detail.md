@@ -8,7 +8,8 @@
 
 登壇者は、規制の厳しい銀行で、しかも EU 圏のフィンランドで、これだけ進められたことを強調しています。そこで、運営の仕組み（AI アンバサダー、経営層向けのコーチ、IT と HR の共同スポンサーなど）も詳しく紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR983](https://ignite.microsoft.com/en-US/sessions/THR983)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR983](https://ignite.microsoft.com/en-US/sessions/THR983)\
+YouTube URL: [https://www.youtube.com/watch?v=U35enqBTxoc](https://www.youtube.com/watch?v=U35enqBTxoc)
 
 ## 2. 発表者
 

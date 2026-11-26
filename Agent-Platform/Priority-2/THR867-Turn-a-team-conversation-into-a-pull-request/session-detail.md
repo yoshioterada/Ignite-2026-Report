@@ -6,7 +6,8 @@
 
 内容は 3 つに分かれます。1 つ目は、各自が個人のプロジェクトでチャットから GitHub Copilot を使う様子、2 つ目は、チームで共同作業する様子、3 つ目は、Work IQ のコネクタを使って、GitHub と Microsoft 365 にまたがる文脈をチャットに戻す様子です。狙いは、チャットと開発ツールの間の手作業の受け渡しと、画面の切り替えを減らすことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR867](https://ignite.microsoft.com/en-US/sessions/THR867)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR867](https://ignite.microsoft.com/en-US/sessions/THR867)\
+YouTube URL: [https://www.youtube.com/watch?v=ocpZHUnAcVw](https://www.youtube.com/watch?v=ocpZHUnAcVw)
 
 ## 2. 発表者
 

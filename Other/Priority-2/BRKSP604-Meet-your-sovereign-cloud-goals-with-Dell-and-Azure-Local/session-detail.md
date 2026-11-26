@@ -15,7 +15,8 @@
 
 デモは 1 つ行われています。Dell Automation Platform の画面で、Azure Local のクラスター展開を設定するところから、展開の工程を確認するところまでを見せています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP604](https://ignite.microsoft.com/en-US/sessions/BRKSP604)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP604](https://ignite.microsoft.com/en-US/sessions/BRKSP604)\
+YouTube URL: [https://www.youtube.com/watch?v=DzHNJ6quMHQ](https://www.youtube.com/watch?v=DzHNJ6quMHQ)
 
 ## 2. 発表者
 

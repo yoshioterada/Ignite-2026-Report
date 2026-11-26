@@ -6,7 +6,8 @@
 
 中心にあるのは、「AI をどこに導入できますか」と聞くのではなく、「どのプロセスを変革し、どんな成果を変え、その価値はいくらか」を聞くべきだという主張です。Microsoft はそのための研修として AI Value Accelerator Bootcamp を試験運用しており、1 月以降の展開が語られました。なお、画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK508](https://ignite.microsoft.com/en-US/sessions/BRK508)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK508](https://ignite.microsoft.com/en-US/sessions/BRK508)\
+YouTube URL: [https://www.youtube.com/watch?v=0_QUULnNVZQ](https://www.youtube.com/watch?v=0_QUULnNVZQ)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 事例の中心は「カードテスト」と呼ばれる不正手口です。1 人の人物が 24,762 件のカード番号を試していたことが、名寄せによって初めて見えるようになりました。不正に限らず、営業・マーケティングの顧客データ統合や、AI エージェントの土台となるデータ整備にも同じ考え方が使えると、発表者は繰り返し述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1093](https://ignite.microsoft.com/en-US/sessions/THRSP1093)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1093](https://ignite.microsoft.com/en-US/sessions/THRSP1093)\
+YouTube URL: [https://www.youtube.com/watch?v=LP5YcgmF0UQ](https://www.youtube.com/watch?v=LP5YcgmF0UQ)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 開発環境が IDE、ターミナル、チャット、モバイルと分かれている開発者が、Copilot を場所をまたいで使うイメージをつかむための資料として読めます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK273](https://ignite.microsoft.com/en-US/sessions/BRK273)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK273](https://ignite.microsoft.com/en-US/sessions/BRK273)\
+YouTube URL: [https://www.youtube.com/watch?v=zEOmz1d25XA](https://www.youtube.com/watch?v=zEOmz1d25XA)
 
 ## 2. 発表者
 

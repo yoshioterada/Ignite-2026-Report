@@ -8,7 +8,8 @@
 
 このセッションでは、デモとして 2 つの映像（Zone Vibe Pro の音声分離、クラウド PC 上での Logitech Options Plus）が使われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1097](https://ignite.microsoft.com/en-US/sessions/THRSP1097)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1097](https://ignite.microsoft.com/en-US/sessions/THRSP1097)\
+YouTube URL: [https://www.youtube.com/watch?v=2jnOxckBg1U](https://www.youtube.com/watch?v=2jnOxckBg1U)
 
 ## 2. 発表者
 

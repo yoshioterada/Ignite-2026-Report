@@ -6,7 +6,8 @@
 
 中心にあるのは、**予約は「意図」を示すだけで、「実際の行動」は示さない**という点です。チェックイン（到着の記録）と実利用人数（在席状況）を組み合わせると、会議室やデスクの使われ方が分かり、不動産やレイアウトの判断を主観ではなくデータで行えます。ワークプレイスの運用や IT に関わる方に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1123](https://ignite.microsoft.com/en-US/sessions/THRSP1123)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1123](https://ignite.microsoft.com/en-US/sessions/THRSP1123)\
+YouTube URL: [https://www.youtube.com/watch?v=zizHGMZTwcs](https://www.youtube.com/watch?v=zizHGMZTwcs)
 
 ## 2. 発表者
 

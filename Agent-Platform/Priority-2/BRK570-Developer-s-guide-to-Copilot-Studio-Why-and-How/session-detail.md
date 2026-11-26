@@ -8,7 +8,8 @@
 
 主張はひとつです。**Copilot Studio は「ローコードのお絵かきツール」ではなく、ソフトウェアを構築・配備できるプラットフォームである**。そのうえで、プロセスの担当者、開発者、管理者（ガバナンス担当）の 3 者が同じものを一緒に扱えるようにする、という考え方が示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK570](https://ignite.microsoft.com/en-US/sessions/BRK570)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK570](https://ignite.microsoft.com/en-US/sessions/BRK570)\
+YouTube URL: [https://www.youtube.com/watch?v=cFAuSQssEq8](https://www.youtube.com/watch?v=cFAuSQssEq8)
 
 ## 2. 発表者
 

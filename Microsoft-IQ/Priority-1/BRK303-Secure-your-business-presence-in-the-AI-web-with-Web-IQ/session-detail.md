@@ -6,7 +6,8 @@
 
 前半では、AI エージェントに最新の情報を渡す grounding サービス **Web IQ** を、後半では、自社が AI からどう見えているかを測る無料ツール **Microsoft Clarity** の AI visibility 機能を紹介します。Clarity の画面を使ったデモが 2 つあり、最後に比較的長い Q&A があります。マーケティング、EC、Web サイト運営、そして Web IQ を使って AI エージェントを作る開発者に向けた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK303](https://ignite.microsoft.com/en-US/sessions/BRK303)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK303](https://ignite.microsoft.com/en-US/sessions/BRK303)\
+YouTube URL: [https://www.youtube.com/watch?v=nf3U8IU-9KI](https://www.youtube.com/watch?v=nf3U8IU-9KI)
 
 ## 2. 発表者
 

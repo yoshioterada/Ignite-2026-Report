@@ -6,7 +6,8 @@
 
 個々のコンポーネントの運用ガイドはあっても、アプリケーション・データベース・ネットワークを含めた「ワークロード全体」を、問題が起きる前に見通しながら運用する手段がない。これが、数百社の顧客から聞いた共通の悩みとして語られています。その解決として、ワークロードの文脈を保持する新しい ARM リソース「WVI」、go-live 前の構成検証、本番障害の調査と修復が、デモを交えて紹介されました。最後には、ビジネスユーザー向けに Work IQ と組み合わせる、将来の構想（GA 前に提供したいと説明された内容）も示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK435](https://ignite.microsoft.com/en-US/sessions/BRK435)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK435](https://ignite.microsoft.com/en-US/sessions/BRK435)\
+YouTube URL: [https://www.youtube.com/watch?v=MV_RnyoALC0](https://www.youtube.com/watch?v=MV_RnyoALC0)
 
 ## 2. 発表者
 

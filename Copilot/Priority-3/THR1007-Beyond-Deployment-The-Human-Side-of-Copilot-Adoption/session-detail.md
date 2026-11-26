@@ -13,7 +13,8 @@
 
 終盤では、無料の資料が集まる adoption.microsoft.com をライブで見せています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1007](https://ignite.microsoft.com/en-US/sessions/THR1007)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1007](https://ignite.microsoft.com/en-US/sessions/THR1007)\
+YouTube URL: [https://www.youtube.com/watch?v=OaVTiFMJFUE](https://www.youtube.com/watch?v=OaVTiFMJFUE)
 
 ## 2. 発表者
 

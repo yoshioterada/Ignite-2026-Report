@@ -13,7 +13,8 @@
 
 Adobe の Michael Draper 氏が、Baseline Protection に Adobe が取り組む理由を話す場面もあります。デモは 1 つで、Microsoft 365 管理センターでのデバイス状況の確認と、Windows 11 の設定アプリ・チェスゲームを使ったエンドユーザー／開発者体験です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK392](https://ignite.microsoft.com/en-US/sessions/BRK392)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK392](https://ignite.microsoft.com/en-US/sessions/BRK392)\
+YouTube URL: [https://www.youtube.com/watch?v=S9CkU2qmp1E](https://www.youtube.com/watch?v=S9CkU2qmp1E)
 
 ## 2. 発表者
 

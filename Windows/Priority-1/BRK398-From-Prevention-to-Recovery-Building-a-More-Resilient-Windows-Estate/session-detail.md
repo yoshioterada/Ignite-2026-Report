@@ -8,7 +8,8 @@
 
 デモは 2 種類あります。Cloud Rebuild（大幅に早送りされたもの）と、Windows 365 Reserve および Windows 365 の管理画面（Intune ベース）です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK398](https://ignite.microsoft.com/en-US/sessions/BRK398)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK398](https://ignite.microsoft.com/en-US/sessions/BRK398)\
+YouTube URL: [https://www.youtube.com/watch?v=jObh9f6s_Do](https://www.youtube.com/watch?v=jObh9f6s_Do)
 
 ## 2. 発表者
 

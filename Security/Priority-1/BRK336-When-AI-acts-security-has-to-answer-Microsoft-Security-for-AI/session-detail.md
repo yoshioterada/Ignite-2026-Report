@@ -8,7 +8,8 @@
 
 Dareen Radwan 氏のデモでは、Claude Desktop を使う財務担当者の例で、エージェントの権限を必要な範囲だけに絞ること、リスクが上がったときにエージェントだけを止め、ユーザー本人の操作は止めないことが示されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK336](https://ignite.microsoft.com/en-US/sessions/BRK336)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK336](https://ignite.microsoft.com/en-US/sessions/BRK336)\
+YouTube URL: [https://www.youtube.com/watch?v=Fa4lt1lEmVE](https://www.youtube.com/watch?v=Fa4lt1lEmVE)
 
 ## 2. 発表者
 

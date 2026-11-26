@@ -8,7 +8,8 @@
 
 > 補足：発表では、ウォークスルーで見せた機能は「利用可能になっているか、Ignite の期間中にロールアウト中」で、今後数週間で試せるようになると説明されています。ただし、declarative agents については、別の箇所で「準備中（in the pipeline）」とも述べられています（5.6、7 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK205](https://ignite.microsoft.com/en-US/sessions/BRK205)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK205](https://ignite.microsoft.com/en-US/sessions/BRK205)\
+YouTube URL: [https://www.youtube.com/watch?v=KqSe4a_LkG0](https://www.youtube.com/watch?v=KqSe4a_LkG0)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 最後に、当日発表された 5 つの新機能と、VS Code 上で移行を進める様子の紹介があります。Azure DocumentDB への移行を検討している方が、移行の進め方・得られた効果・つまずきやすい点をつかめる内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK375](https://ignite.microsoft.com/en-US/sessions/BRK375)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK375](https://ignite.microsoft.com/en-US/sessions/BRK375)\
+YouTube URL: [https://www.youtube.com/watch?v=nfAlIqcqMGE](https://www.youtube.com/watch?v=nfAlIqcqMGE)
 
 ## 2. 発表者
 

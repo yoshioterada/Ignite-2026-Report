@@ -6,7 +6,8 @@
 
 製品の使い方を解説する技術セッションではなく、パートナーとして何を売り、何を作り、どう人を育てるかという視点の話です。ライブのデモはなく、事例のうち 2 つは録画ビデオで紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK505](https://ignite.microsoft.com/en-US/sessions/BRK505)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK505](https://ignite.microsoft.com/en-US/sessions/BRK505)\
+YouTube URL: [https://www.youtube.com/watch?v=7g-61yIkMgI](https://www.youtube.com/watch?v=7g-61yIkMgI)
 
 ## 2. 発表者
 

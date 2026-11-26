@@ -8,7 +8,8 @@
 
 > 補足：「Caldova」の綴りは、音声認識の都合で「Caldavop」「Caldova」などと揺れて書き起こされています。本稿では、より多く現れる「Caldova」を使います。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR894](https://ignite.microsoft.com/en-US/sessions/THR894)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR894](https://ignite.microsoft.com/en-US/sessions/THR894)\
+YouTube URL: [https://www.youtube.com/watch?v=rB_2QQKZdAY](https://www.youtube.com/watch?v=rB_2QQKZdAY)
 
 ## 2. 発表者
 

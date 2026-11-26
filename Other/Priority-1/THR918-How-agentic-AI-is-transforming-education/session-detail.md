@@ -6,7 +6,8 @@
 
 登壇者自身が「これは戦略の発表ではない」と断っているとおり、製品の話に入る前に前提を整理し、そのうえで「何から始め、何を作れるか」を示す内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR918](https://ignite.microsoft.com/en-US/sessions/THR918)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR918](https://ignite.microsoft.com/en-US/sessions/THR918)\
+YouTube URL: [https://www.youtube.com/watch?v=5aDXLdO2VNU](https://www.youtube.com/watch?v=5aDXLdO2VNU)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 発表全体を貫く考えは、**「ツールやモデルは借りるものだが、インテリジェンスは自分のものとして持つ。それをつなぐのが信頼（trust）だ」** というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK523](https://ignite.microsoft.com/en-US/sessions/BRK523)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK523](https://ignite.microsoft.com/en-US/sessions/BRK523)\
+YouTube URL: [https://www.youtube.com/watch?v=3l9eE6liU5Y](https://www.youtube.com/watch?v=3l9eE6liU5Y)
 
 ## 2. 発表者
 

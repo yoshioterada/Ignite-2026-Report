@@ -8,7 +8,8 @@
 
 メタデータの概要には「ライブデモ」とありますが、文字起こしでは、画面で見せた内容がライブ操作なのか事前に用意した画面なのかは判別できません。語られた範囲で 6 章にまとめます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK245](https://ignite.microsoft.com/en-US/sessions/BRK245)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK245](https://ignite.microsoft.com/en-US/sessions/BRK245)\
+YouTube URL: [https://www.youtube.com/watch?v=Or-5ihGeXkQ](https://www.youtube.com/watch?v=Or-5ihGeXkQ)
 
 ## 2. 発表者
 

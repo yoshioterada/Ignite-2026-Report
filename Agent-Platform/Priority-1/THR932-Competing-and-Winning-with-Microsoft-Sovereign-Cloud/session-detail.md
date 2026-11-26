@@ -8,7 +8,8 @@
 
 > 補足：このセッションは、同日に行われたブレークアウトセッション（ソブリンを会話の中心に置く内容）の続きとして位置づけられています。そのセッションで話した Microsoft Sovereign Cloud の内容、5 つのニーズ、新機能、ロードマップ、パートナー向けのソブリンクラウド specialization は、ここでは詳しく繰り返されません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR932](https://ignite.microsoft.com/en-US/sessions/THR932)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR932](https://ignite.microsoft.com/en-US/sessions/THR932)\
+YouTube URL: [https://www.youtube.com/watch?v=R1piWTgycOY](https://www.youtube.com/watch?v=R1piWTgycOY)
 
 ## 2. 発表者
 

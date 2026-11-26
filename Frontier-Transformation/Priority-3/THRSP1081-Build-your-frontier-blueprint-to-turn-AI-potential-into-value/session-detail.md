@@ -6,7 +6,8 @@
 
 登壇者の主張は、AI の支出が増えているのに ROI（投資対効果）が測りにくく、エージェントが乱立し、シャドー AI も広がるという圧力の中で、**4 つの能力を一緒に前に進めない限り、Copilot とエージェントを規模に乗せることは難しい**というものです。後半では、blueprint の 5 つのステップと、3〜4 週間の標準エンゲージメントが示されます。Kyndryl のサービス紹介を含むセッションです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1081](https://ignite.microsoft.com/en-US/sessions/THRSP1081)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1081](https://ignite.microsoft.com/en-US/sessions/THRSP1081)\
+YouTube URL: [https://www.youtube.com/watch?v=8L5aM69yd64](https://www.youtube.com/watch?v=8L5aM69yd64)
 
 ## 2. 発表者
 

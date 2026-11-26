@@ -6,7 +6,8 @@
 
 発表者の主張は、Microsoft 365 のテナントは、データと ID が存在する土台であり、AI を安全に展開するには、まずテナントを守り、データを統制する必要がある、というものです。内容は、なぜ管理が必要か、Enforcer でどう管理するか、セキュリティを大規模に提供する方法、AI 導入準備のためのデータ統制、という順で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1108](https://ignite.microsoft.com/en-US/sessions/THRSP1108)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1108](https://ignite.microsoft.com/en-US/sessions/THRSP1108)\
+YouTube URL: [https://www.youtube.com/watch?v=L6PvMh5XHcE](https://www.youtube.com/watch?v=L6PvMh5XHcE)
 
 ## 2. 発表者
 

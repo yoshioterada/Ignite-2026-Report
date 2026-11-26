@@ -12,7 +12,8 @@
 
 構成は、「Fact or Fiction（本当か嘘か）」の 3 つの問いを軸に、動画を使ったデモ（PC 上の Copilot、Dell の Auto Diagnose、GB300 搭載ワークステーション）と、Agent 365 などのガバナンスの紹介が続く形です。Q&A の時間は設けられましたが、トランスクリプトには質問が出ていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP622](https://ignite.microsoft.com/en-US/sessions/BRKSP622)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP622](https://ignite.microsoft.com/en-US/sessions/BRKSP622)\
+YouTube URL: [https://www.youtube.com/watch?v=QaildIOlMl4](https://www.youtube.com/watch?v=QaildIOlMl4)
 
 ## 2. 発表者
 

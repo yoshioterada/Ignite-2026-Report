@@ -8,7 +8,8 @@
 
 この記事では、Planner の機能が Copilot 本体・Planner agent・Cowork・Autopilot の中でそれぞれどう使われたかを、語られた順に整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR855](https://ignite.microsoft.com/en-US/sessions/THR855)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR855](https://ignite.microsoft.com/en-US/sessions/THR855)\
+YouTube URL: [https://www.youtube.com/watch?v=dMJaAPR7UHg](https://www.youtube.com/watch?v=dMJaAPR7UHg)
 
 ## 2. 発表者
 

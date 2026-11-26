@@ -8,7 +8,8 @@
 
 > 補足：デモは動画またはライブ形式で複数あります（6 章）。ただし録音は音声のみのため、画面の細部は語られた範囲でしか分かりません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK408](https://ignite.microsoft.com/en-US/sessions/BRK408)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK408](https://ignite.microsoft.com/en-US/sessions/BRK408)\
+YouTube URL: [https://www.youtube.com/watch?v=8fIw7yJRxpI](https://www.youtube.com/watch?v=8fIw7yJRxpI)
 
 ## 2. 発表者
 

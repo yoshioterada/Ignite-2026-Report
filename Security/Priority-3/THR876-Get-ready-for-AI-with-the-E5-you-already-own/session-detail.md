@@ -6,7 +6,8 @@
 
 押さえたい点は 3 つあります。E5 のセキュリティ製品は「1 つのデータ基盤を 4 つの視点で見ている」ものであること、ISOC により Defender の Advanced Hunting の既定の保持期間が 30 日から 90 日に延びたこと、そして最後に示された「E5 を使い切る 3 ステップ」です。後半の Q&A では、Defender の passive mode、E7 と E5 の違い、Sentinel と ISOC の選び方などが話題になりました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR876](https://ignite.microsoft.com/en-US/sessions/THR876)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR876](https://ignite.microsoft.com/en-US/sessions/THR876)\
+YouTube URL: [https://www.youtube.com/watch?v=8l_GgjElFT8](https://www.youtube.com/watch?v=8l_GgjElFT8)
 
 ## 2. 発表者
 

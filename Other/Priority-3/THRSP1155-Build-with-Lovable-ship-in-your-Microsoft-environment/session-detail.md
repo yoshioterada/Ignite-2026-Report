@@ -12,7 +12,8 @@
 - データの機密度に応じて、アプリをどこで動かすのが向いているか
 - Deploy on Azure（プライベートプレビュー）が、Azure 上にどのような構成を作るのか
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1155](https://ignite.microsoft.com/en-US/sessions/THRSP1155)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1155](https://ignite.microsoft.com/en-US/sessions/THRSP1155)\
+YouTube URL: [https://www.youtube.com/watch?v=-Eta4wOW55k](https://www.youtube.com/watch?v=-Eta4wOW55k)
 
 ## 2. 発表者
 

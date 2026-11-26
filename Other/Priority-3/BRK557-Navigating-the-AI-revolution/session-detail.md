@@ -8,7 +8,8 @@ Snover 氏が最初に挙げる心配は、AI によって「10 倍安い従業�
 
 > 注意：このセッションでは画面を使ったデモは行われていません。話は個人の経験に基づく意見と見解が中心で、製品仕様や機能の解説ではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK557](https://ignite.microsoft.com/en-US/sessions/BRK557)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK557](https://ignite.microsoft.com/en-US/sessions/BRK557)\
+YouTube URL: [https://www.youtube.com/watch?v=zpt5QKdIfdI](https://www.youtube.com/watch?v=zpt5QKdIfdI)
 
 ## 2. 発表者
 

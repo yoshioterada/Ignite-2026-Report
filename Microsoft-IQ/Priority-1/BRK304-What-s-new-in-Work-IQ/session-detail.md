@@ -6,7 +6,8 @@
 
 発表の中心にある主張は、**エージェントが仕事を終えられない原因は、モデルの性能ではなくコンテキストの不足にある**という点です。Work IQ は、既存の Microsoft 365 の権限やポリシーを保ったまま、そのコンテキストをエージェントに渡す仕組みとして位置づけられています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK304](https://ignite.microsoft.com/en-US/sessions/BRK304)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK304](https://ignite.microsoft.com/en-US/sessions/BRK304)\
+YouTube URL: [https://www.youtube.com/watch?v=B5tMg3YtkvY](https://www.youtube.com/watch?v=B5tMg3YtkvY)
 
 ## 2. 発表者
 

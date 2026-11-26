@@ -6,7 +6,8 @@
 
 冒頭では、「月曜日から実行できる戦略を持ち帰ってほしい」という目標が示されました。そのために、後半では架空の会社を想定した簡易的な定着計画を、会場と一緒に埋めていきます。使う資源は、adoption.microsoft.com のサイト、その中のプロンプトギャラリー、そして Digital Accelerator（デジタル アクセラレーター）という実践型のコーチングプログラムです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK583](https://ignite.microsoft.com/en-US/sessions/BRK583)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK583](https://ignite.microsoft.com/en-US/sessions/BRK583)\
+YouTube URL: [https://www.youtube.com/watch?v=Ri8g9W_JuiU](https://www.youtube.com/watch?v=Ri8g9W_JuiU)
 
 ## 2. 発表者
 

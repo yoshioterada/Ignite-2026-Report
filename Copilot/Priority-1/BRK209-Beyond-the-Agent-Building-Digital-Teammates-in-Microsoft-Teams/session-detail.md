@@ -6,7 +6,8 @@
 
 発表は **Design（設計）・Identity / Security / Access（ID・セキュリティ・アクセス）・Context（コンテキスト）** の 3 つの柱（発表では「Act」＝幕と呼んでいます）で進みます。さらに、セッションの冒頭で登壇者が GitHub Copilot に「Zava Helper」というエージェントを作らせ、終盤でそれを実際に動かして見せる構成でした。新発表として、HTML widgets、plan mode、socket mode（preview）などが紹介されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK209](https://ignite.microsoft.com/en-US/sessions/BRK209)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK209](https://ignite.microsoft.com/en-US/sessions/BRK209)\
+YouTube URL: [https://www.youtube.com/watch?v=RE-3yKhAJy8](https://www.youtube.com/watch?v=RE-3yKhAJy8)
 
 ## 2. 発表者
 

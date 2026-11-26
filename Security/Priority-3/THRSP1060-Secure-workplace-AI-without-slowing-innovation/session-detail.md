@@ -6,7 +6,8 @@
 
 結論は、**AI を禁止するのではなく、ゼロトラスト（許可したものだけを動かし、許可したものにも必要最小限の権限しか与えない）で守りながら AI を許可する**というものです。後半では、その手段として ThreatLocker の allow listing（許可リスト方式）、ring fencing（アプリケーションの動作範囲の制限）、Zero Trust Cloud Access、Zero Trust AI control が紹介されます。つまり、ベンダーの製品紹介を含むセッションです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1060](https://ignite.microsoft.com/en-US/sessions/THRSP1060)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1060](https://ignite.microsoft.com/en-US/sessions/THRSP1060)\
+YouTube URL: [https://www.youtube.com/watch?v=k0yg-Mgyjko](https://www.youtube.com/watch?v=k0yg-Mgyjko)
 
 ## 2. 発表者
 

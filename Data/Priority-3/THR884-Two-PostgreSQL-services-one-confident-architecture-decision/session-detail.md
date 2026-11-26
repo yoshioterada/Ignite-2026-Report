@@ -8,7 +8,8 @@
 
 このセッションは約 25 分の短い登壇で、画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR884](https://ignite.microsoft.com/en-US/sessions/THR884)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR884](https://ignite.microsoft.com/en-US/sessions/THR884)\
+YouTube URL: [https://www.youtube.com/watch?v=kN32RqvG3Vk](https://www.youtube.com/watch?v=kN32RqvG3Vk)
 
 ## 2. 発表者
 

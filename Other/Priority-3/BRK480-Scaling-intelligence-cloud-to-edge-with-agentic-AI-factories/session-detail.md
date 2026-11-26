@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドとビデオ、口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK480](https://ignite.microsoft.com/en-US/sessions/BRK480)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK480](https://ignite.microsoft.com/en-US/sessions/BRK480)\
+YouTube URL: [https://www.youtube.com/watch?v=EWHW_2aS_uE](https://www.youtube.com/watch?v=EWHW_2aS_uE)
 
 ## 2. 発表者
 

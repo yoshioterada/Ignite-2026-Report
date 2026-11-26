@@ -8,7 +8,8 @@
 
 画面を見せながらの説明が 3 回ほどあります（Simcenter X Hub の画面、Physics AI Foundry の学習と予測、エージェントの例）。画面の細部は音声からは確認できないため、6 章では語られた範囲だけを書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1147](https://ignite.microsoft.com/en-US/sessions/THRSP1147)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1147](https://ignite.microsoft.com/en-US/sessions/THRSP1147)\
+YouTube URL: [https://www.youtube.com/watch?v=39G06wP0gYo](https://www.youtube.com/watch?v=39G06wP0gYo)
 
 ## 2. 発表者
 

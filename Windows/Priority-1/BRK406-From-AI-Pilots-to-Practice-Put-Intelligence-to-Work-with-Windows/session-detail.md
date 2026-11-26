@@ -8,7 +8,8 @@
 
 なお、このセッションには複数のデモがあり、それぞれ別の話者のナレーションで進みます。画面の細部は音声からは分からないため、本稿ではナレーションで語られた範囲だけを書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK406](https://ignite.microsoft.com/en-US/sessions/BRK406)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK406](https://ignite.microsoft.com/en-US/sessions/BRK406)\
+YouTube URL: [https://www.youtube.com/watch?v=-RhUWaygkis](https://www.youtube.com/watch?v=-RhUWaygkis)
 
 ## 2. 発表者
 

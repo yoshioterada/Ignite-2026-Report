@@ -6,7 +6,8 @@
 
 内容は、「メンターとは、あなたがやりたいと持ち込んだ無茶なアイデアに『やってみよう』と言ってくれた人」というわかりやすい定義から始まり、最後は「あなたが必要としていたメンターになろう」という呼びかけで終わります。このセッションでは、画面を使ったデモは行われていません（スライドと対話形式の口頭説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1024](https://ignite.microsoft.com/en-US/sessions/THR1024)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1024](https://ignite.microsoft.com/en-US/sessions/THR1024)\
+YouTube URL: [https://www.youtube.com/watch?v=jDMNnrUGxyg](https://www.youtube.com/watch?v=jDMNnrUGxyg)
 
 ## 2. 発表者
 

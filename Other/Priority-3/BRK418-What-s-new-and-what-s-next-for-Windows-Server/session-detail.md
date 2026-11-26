@@ -14,7 +14,8 @@
 
 最後に、Windows Server 2025 向けの hotpatch 無料化、AVD hybrid の GA、Windows Server 2016 のサポート終了（ESU）についての案内があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK418](https://ignite.microsoft.com/en-US/sessions/BRK418)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK418](https://ignite.microsoft.com/en-US/sessions/BRK418)\
+YouTube URL: [https://www.youtube.com/watch?v=ILfFXsnodq4](https://www.youtube.com/watch?v=ILfFXsnodq4)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 構成は 3 部です。最初に製品側から、攻撃ディスラプションの仕組みと、直近の成果の数値が示されます。次に、パートナー企業 BlueVoyant の担当者が、実際の顧客環境で起きた 3 つの事例と、そこから得た学びを紹介します。最後に、脅威リサーチの主任が、ハイブリッド型ランサムウェアと AI エージェントへの攻撃という 2 つの攻撃シナリオを説明し、それぞれ録画デモで見せます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK333](https://ignite.microsoft.com/en-US/sessions/BRK333)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK333](https://ignite.microsoft.com/en-US/sessions/BRK333)\
+YouTube URL: [https://www.youtube.com/watch?v=JaVtPH747V8](https://www.youtube.com/watch?v=JaVtPH747V8)
 
 ## 2. 発表者
 

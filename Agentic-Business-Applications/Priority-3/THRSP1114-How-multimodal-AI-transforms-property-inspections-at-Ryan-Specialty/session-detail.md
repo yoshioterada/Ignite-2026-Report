@@ -6,7 +6,8 @@
 
 発表では、この作業をエージェントのパイプライン（抽出、単純チェック、複雑な分析、画像の分析、突き合わせ）と、人による確認の組み合わせで置き換えた結果、**所要時間を 136 分から 1 時間未満に短縮した**ことが語られます。あわせて、Foundry を中心とした Microsoft のスタックでの構成、写真から見つけたリスクの実例、ナレッジエンジニアリングの進め方、効率化の次に目指す「プロセスインテリジェンス」の考え方が紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1114](https://ignite.microsoft.com/en-US/sessions/THRSP1114)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1114](https://ignite.microsoft.com/en-US/sessions/THRSP1114)\
+YouTube URL: [https://www.youtube.com/watch?v=nGetBsOpa4U](https://www.youtube.com/watch?v=nGetBsOpa4U)
 
 ## 2. 発表者
 

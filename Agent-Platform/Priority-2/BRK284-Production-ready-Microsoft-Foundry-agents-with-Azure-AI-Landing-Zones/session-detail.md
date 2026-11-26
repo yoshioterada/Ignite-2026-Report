@@ -11,7 +11,8 @@
 - エージェント用の基盤は、エージェントを動かす側の「エージェントランディングゾーン（スポーク）」と、共有モデルを統制する「AI ゲートウェイランディングゾーン（ハブ）」の 2 つの部品で構成する。
 - 要件から設計判断を決め、パラメーターファイルに落とし込み、`azd` でデプロイし、評価と監視で運用するという流れで、ゼロから作らずに済む。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK284](https://ignite.microsoft.com/en-US/sessions/BRK284)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK284](https://ignite.microsoft.com/en-US/sessions/BRK284)\
+YouTube URL: [https://www.youtube.com/watch?v=YCsWHd7VDOk](https://www.youtube.com/watch?v=YCsWHd7VDOk)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 内容は、ハードウェアセキュリティ、Windows baseline protection、administrator protection、NTLM 廃止に向けた動き、Autopatch と Hotpatch、パスワードレスのサインイン改善、declarative management、BitLocker と remote lock、管理外デバイス向けの保護（Windows 365 / Azure Virtual Desktop 関連）、そしてエージェント向けの保護の方向性と幅広いです。複数のデモが含まれます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK405](https://ignite.microsoft.com/en-US/sessions/BRK405)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK405](https://ignite.microsoft.com/en-US/sessions/BRK405)\
+YouTube URL: [https://www.youtube.com/watch?v=C39DKJ6ybgk](https://www.youtube.com/watch?v=C39DKJ6ybgk)
 
 ## 2. 発表者
 

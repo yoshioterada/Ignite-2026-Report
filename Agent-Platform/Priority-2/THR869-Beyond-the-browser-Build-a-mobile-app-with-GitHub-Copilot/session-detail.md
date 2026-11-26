@@ -12,7 +12,8 @@
 
 **3 つともデモが行われています。** 録音は音声のみのため、画面上の細かい表示は発話で語られた範囲に限って書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR869](https://ignite.microsoft.com/en-US/sessions/THR869)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR869](https://ignite.microsoft.com/en-US/sessions/THR869)\
+YouTube URL: [https://www.youtube.com/watch?v=EL3DLbfy6WU](https://www.youtube.com/watch?v=EL3DLbfy6WU)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 デモの題材は、入社したばかりの経理部門の社員が VPN に接続できない、という実際に TeamViewer で起きた問い合わせです。Tia は 6 つのシステムをたどり、6 回の「ナレッジホップ（情報をたどって原因に近づく段階）」を経て、10 個のスクリプトを実行し、原因を突き止めて修復します。発表では、人手なら 1 時間以上かかる作業が、技術者の承認を挟みながら 5 分未満で終わったと説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1062](https://ignite.microsoft.com/en-US/sessions/THRSP1062)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1062](https://ignite.microsoft.com/en-US/sessions/THRSP1062)\
+YouTube URL: [https://www.youtube.com/watch?v=6dQI_WPlpso](https://www.youtube.com/watch?v=6dQI_WPlpso)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションでは、登壇者がその場で画面を操作するライブのデモは行われていません。面接の録音を含む動画と、製品紹介ビデオが再生されました（6 章）。また、質疑応答の時間は録音上は設けられておらず、終了後に個別に話したい人は声をかけてほしいという呼びかけで締められています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1126](https://ignite.microsoft.com/en-US/sessions/THRSP1126)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1126](https://ignite.microsoft.com/en-US/sessions/THRSP1126)\
+YouTube URL: [https://www.youtube.com/watch?v=D_XtYRW3h0I](https://www.youtube.com/watch?v=D_XtYRW3h0I)
 
 ## 2. 発表者
 

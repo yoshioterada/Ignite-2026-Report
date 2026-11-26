@@ -8,7 +8,8 @@ Commvault 側の成果として語られたのは、Lucidity が管理するス�
 
 > 注意：このセッションは Lucidity の製品紹介を兼ねており、数値は登壇者が語ったものです。第三者による検証や、導入前後の詳細なコスト内訳は発表では示されていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1107](https://ignite.microsoft.com/en-US/sessions/THRSP1107)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1107](https://ignite.microsoft.com/en-US/sessions/THRSP1107)\
+YouTube URL: [https://www.youtube.com/watch?v=K8X_gVMfRf4](https://www.youtube.com/watch?v=K8X_gVMfRf4)
 
 ## 2. 発表者
 

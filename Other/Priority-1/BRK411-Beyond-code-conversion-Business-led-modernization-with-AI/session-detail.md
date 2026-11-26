@@ -12,7 +12,8 @@
 
 このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明、対談が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK411](https://ignite.microsoft.com/en-US/sessions/BRK411)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK411](https://ignite.microsoft.com/en-US/sessions/BRK411)\
+YouTube URL: [https://www.youtube.com/watch?v=N12e3ITrZuo](https://www.youtube.com/watch?v=N12e3ITrZuo)
 
 ## 2. 発表者
 

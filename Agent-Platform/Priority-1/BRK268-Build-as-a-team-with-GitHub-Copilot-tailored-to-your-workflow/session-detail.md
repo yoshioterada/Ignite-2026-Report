@@ -16,7 +16,8 @@
 
 デモが多いセッションです。ただし録音は音声のみのため、画面の細部は、登壇者が口頭で説明した範囲に限って書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK268](https://ignite.microsoft.com/en-US/sessions/BRK268)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK268](https://ignite.microsoft.com/en-US/sessions/BRK268)\
+YouTube URL: [https://www.youtube.com/watch?v=9KvG88rZTMg](https://www.youtube.com/watch?v=9KvG88rZTMg)
 
 ## 2. 発表者
 

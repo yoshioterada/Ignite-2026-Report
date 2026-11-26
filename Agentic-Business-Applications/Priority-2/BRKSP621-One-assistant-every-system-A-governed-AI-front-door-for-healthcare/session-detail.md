@@ -8,7 +8,8 @@
 
 セッションのタイトルにはヘルスケア（医療）とありますが、医療分野に特化した説明は少なく、コールセンターの例で Epic、Salesforce、ServiceNow を行き来する負担が語られる程度です。内容の大半は、業種を問わない企業向けの話です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP621](https://ignite.microsoft.com/en-US/sessions/BRKSP621)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP621](https://ignite.microsoft.com/en-US/sessions/BRKSP621)\
+YouTube URL: [https://www.youtube.com/watch?v=WjzgxTtdfno](https://www.youtube.com/watch?v=WjzgxTtdfno)
 
 ## 2. 発表者
 

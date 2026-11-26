@@ -8,7 +8,8 @@
 
 なお、公式の概要には「モダンな SOC アーキテクチャをステージ上でライブに分解する」とありますが、トランスクリプトから確認できる範囲では、画面を使ったデモやアーキテクチャの図解の実演はありません（6 章参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK320](https://ignite.microsoft.com/en-US/sessions/BRK320)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK320](https://ignite.microsoft.com/en-US/sessions/BRK320)\
+YouTube URL: [https://www.youtube.com/watch?v=FJ0uMegdm3I](https://www.youtube.com/watch?v=FJ0uMegdm3I)
 
 ## 2. 発表者
 

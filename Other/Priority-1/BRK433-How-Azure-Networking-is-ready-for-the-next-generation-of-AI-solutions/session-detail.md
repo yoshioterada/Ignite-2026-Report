@@ -6,7 +6,8 @@
 
 発表全体を貫く主張は、「**AI はクラウド上の平均的なワークロードではない。それがクラウドの進化を牽引している**」という点です。ネットワークは単なる接続手段ではなく、エージェントの時代における「インテリジェントな制御点」になっていく、というのが Igor 氏の見方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK433](https://ignite.microsoft.com/en-US/sessions/BRK433)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK433](https://ignite.microsoft.com/en-US/sessions/BRK433)\
+YouTube URL: [https://www.youtube.com/watch?v=DsJUyF4Ep48](https://www.youtube.com/watch?v=DsJUyF4Ep48)
 
 ## 2. 発表者
 

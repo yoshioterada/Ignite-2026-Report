@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません。スライドと口頭の説明、最後の質疑応答で構成されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK470](https://ignite.microsoft.com/en-US/sessions/BRK470)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK470](https://ignite.microsoft.com/en-US/sessions/BRK470)\
+YouTube URL: [https://www.youtube.com/watch?v=N6ghUk5TvPc](https://www.youtube.com/watch?v=N6ghUk5TvPc)
 
 ## 2. 発表者
 

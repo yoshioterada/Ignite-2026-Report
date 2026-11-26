@@ -6,7 +6,8 @@
 
 さらに、Copilot Cowork（発表では "Cowork"）から OneNote のページを作る例（動画）、提供状況（Frontier 向けにロールアウト中）、会場からの 6 つの質問への回答もあります。OneNote を日常的に使っていて、Copilot でノート活用を進めたい方向けの内容です。デモの一部は途中でうまく動かず、やり直した場面があり、その様子も含めて整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK207](https://ignite.microsoft.com/en-US/sessions/BRK207)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK207](https://ignite.microsoft.com/en-US/sessions/BRK207)\
+YouTube URL: [https://www.youtube.com/watch?v=3q1hkvz-Jhg](https://www.youtube.com/watch?v=3q1hkvz-Jhg)
 
 ## 2. 発表者
 

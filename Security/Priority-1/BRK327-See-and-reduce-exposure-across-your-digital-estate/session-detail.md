@@ -8,7 +8,8 @@
 
 > 注意：トランスクリプトでは、新しい体験の名称が "Perception" と書き起こされています。公式の製品名かどうかは、音声認識の都合で表記が確定できません。メタデータ上のセッション概要は「Microsoft Security Exposure Management」の新しい体験と説明しています。以降の本文では、聞こえた表記のまま "Perception" と書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK327](https://ignite.microsoft.com/en-US/sessions/BRK327)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK327](https://ignite.microsoft.com/en-US/sessions/BRK327)\
+YouTube URL: [https://www.youtube.com/watch?v=uryhoPb2R1I](https://www.youtube.com/watch?v=uryhoPb2R1I)
 
 ## 2. 発表者
 

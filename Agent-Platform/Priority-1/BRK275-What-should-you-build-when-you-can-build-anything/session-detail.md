@@ -6,7 +6,8 @@
 
 登壇者の主張は一貫していて、「AI にワンショットで作らせるのは party trick で、平均的な（mid な）ものにしかならない」「そこに自分の好みと専門性を入れ、学びながら作ることで、AI を使っても『タイピングが終わっても、考えることは終わらない』」というものです。デモはロールコースター・タイクーンへのモデル組み込み、中国語の声調練習アプリ、GPU のモニタリング TUI の 3 本で、最後に GitHub 提供の景品をかけたトリビアと、Copilot の使い方のヒントで終わります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK275](https://ignite.microsoft.com/en-US/sessions/BRK275)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK275](https://ignite.microsoft.com/en-US/sessions/BRK275)\
+YouTube URL: [https://www.youtube.com/watch?v=v-qx7J2S43Q](https://www.youtube.com/watch?v=v-qx7J2S43Q)
 
 ## 2. 発表者
 

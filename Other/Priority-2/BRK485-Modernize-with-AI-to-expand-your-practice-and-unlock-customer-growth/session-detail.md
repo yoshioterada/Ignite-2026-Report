@@ -11,7 +11,8 @@
 - パートナーが自社のノウハウを組み合わせて収益化する際の考え方（TCS、ReadyWorks、Accenture の実例）
 - 3 年計画の Epic 移行を 18 か月で完了させた事例の数値
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK485](https://ignite.microsoft.com/en-US/sessions/BRK485)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK485](https://ignite.microsoft.com/en-US/sessions/BRK485)\
+YouTube URL: [https://www.youtube.com/watch?v=w8r7M22Jyo4](https://www.youtube.com/watch?v=w8r7M22Jyo4)
 
 ## 2. 発表者
 

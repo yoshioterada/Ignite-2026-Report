@@ -6,7 +6,8 @@
 
 発表者は、架空のコーヒーチェーン 4th Coffee を例に、「エスプレッソが酸っぱい」という問いに答えられないエージェントを、オントロジーによって答えられるエージェントへ変えていく流れを見せました。会場で画面を操作するデモがあり、オントロジーの画面、Copilot Studio のエージェント、GitHub Copilot からの接続が示されています。**統合されたデータは、理解されたデータではない**というのが中心のメッセージです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR970](https://ignite.microsoft.com/en-US/sessions/THR970)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR970](https://ignite.microsoft.com/en-US/sessions/THR970)\
+YouTube URL: [https://www.youtube.com/watch?v=d3C74KP_NJU](https://www.youtube.com/watch?v=d3C74KP_NJU)
 
 ## 2. 発表者
 

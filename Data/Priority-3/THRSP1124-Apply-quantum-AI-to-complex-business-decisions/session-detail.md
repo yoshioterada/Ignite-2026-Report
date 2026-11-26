@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモ（不正検知の題材で SAS Quantum Lab を見せる部分）が行われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1124](https://ignite.microsoft.com/en-US/sessions/THRSP1124)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1124](https://ignite.microsoft.com/en-US/sessions/THRSP1124)\
+YouTube URL: [https://www.youtube.com/watch?v=OUohS2B5o1c](https://www.youtube.com/watch?v=OUohS2B5o1c)
 
 ## 2. 発表者
 

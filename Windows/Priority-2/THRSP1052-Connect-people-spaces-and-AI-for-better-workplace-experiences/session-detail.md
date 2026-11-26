@@ -8,7 +8,8 @@ Q-SYS がスポンサーを務める発表で、Microsoft Teams、Copilot、Plac
 
 **機器単位で選ぶのではなく、人が仕事をする流れと、建物全体の運用を支える基盤として考える**、というのが中心のメッセージです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1052](https://ignite.microsoft.com/en-US/sessions/THRSP1052)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1052](https://ignite.microsoft.com/en-US/sessions/THRSP1052)\
+YouTube URL: [https://www.youtube.com/watch?v=DgKuLR8MrN0](https://www.youtube.com/watch?v=DgKuLR8MrN0)
 
 ## 2. 発表者
 

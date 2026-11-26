@@ -8,7 +8,8 @@
 
 発表全体を通した結論は、**「2026 年は secure by default で、とにかく今すぐラベル付けを始める。ユーザーの手作業には頼らず、自動化で大規模に展開する」** というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK347](https://ignite.microsoft.com/en-US/sessions/BRK347)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK347](https://ignite.microsoft.com/en-US/sessions/BRK347)\
+YouTube URL: [https://www.youtube.com/watch?v=gwBLfbtcHkY](https://www.youtube.com/watch?v=gwBLfbtcHkY)
 
 ## 2. 発表者
 

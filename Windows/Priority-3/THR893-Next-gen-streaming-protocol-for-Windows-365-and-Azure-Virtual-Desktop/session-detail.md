@@ -6,7 +6,8 @@
 
 最初に押さえておきたい点は、**Direct Stream はブランド名であり、利用者側で設定変更や再構成は不要**ということです。ネットワーク設定もファイアウォールのルールも、これまでのままで使えると登壇者は繰り返し強調しています。一方で、Multipath、Fast reconnect、60 FPS の維持、HEVC、NVIDIA Blackwell GPU 向けの最適化など、中身は大きく進化しています。話は、接続の切れにくさ、つながるまでの速さ、セキュリティ、セッション内の画面性能の 4 つの観点で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR893](https://ignite.microsoft.com/en-US/sessions/THR893)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR893](https://ignite.microsoft.com/en-US/sessions/THR893)\
+YouTube URL: [https://www.youtube.com/watch?v=yMETXQoXedg](https://www.youtube.com/watch?v=yMETXQoXedg)
 
 ## 2. 発表者
 

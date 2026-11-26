@@ -8,7 +8,8 @@
 
 デモでは、複数ソースの財務データに品質ゲートをかけて整え、Semantic Model に意味を書き込み、Ontology でテーブル間の関係を定義し、最後に Fabric data agent で回答させるところまでを順に見せています。このセッションにはライブデモがあります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR986](https://ignite.microsoft.com/en-US/sessions/THR986)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR986](https://ignite.microsoft.com/en-US/sessions/THR986)\
+YouTube URL: [https://www.youtube.com/watch?v=kivfd_pg4k8](https://www.youtube.com/watch?v=kivfd_pg4k8)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 発表の最も強いメッセージは、**UFP は旧 Premier Support for Partners（PSFP）の名前を変えたものではなく、「リアクティブなサポート」から「パートナー主導のカスタマーサクセス」へとモデルそのものを変える提供物**だという点です。このセッションは画面を使ったデモのない、スライドと口頭説明のセッションです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK510](https://ignite.microsoft.com/en-US/sessions/BRK510)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK510](https://ignite.microsoft.com/en-US/sessions/BRK510)\
+YouTube URL: [https://www.youtube.com/watch?v=TthZy3KJ6Q0](https://www.youtube.com/watch?v=TthZy3KJ6Q0)
 
 ## 2. 発表者
 

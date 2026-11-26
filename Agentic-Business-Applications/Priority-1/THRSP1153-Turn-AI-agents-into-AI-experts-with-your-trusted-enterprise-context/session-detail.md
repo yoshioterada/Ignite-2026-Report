@@ -6,7 +6,8 @@
 
 発表では、画面を使ったデモが 2 回あります。1 回目はマーケティング分析担当者を演じ、「高額顧客」の一覧づくりから、データ資産の探索、データ品質、リネージ（データの出どころ）の確認、Power BI ダッシュボード作成の依頼までを Copilot で進める流れです。2 回目は、Copilot Studio で作ったエージェントに Informatica の MCP サーバーをつなぎ、ライブで動かすものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1153](https://ignite.microsoft.com/en-US/sessions/THRSP1153)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1153](https://ignite.microsoft.com/en-US/sessions/THRSP1153)\
+YouTube URL: [https://www.youtube.com/watch?v=1QwHEKbTBSU](https://www.youtube.com/watch?v=1QwHEKbTBSU)
 
 ## 2. 発表者
 

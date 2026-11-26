@@ -8,7 +8,8 @@
 
 発表の結論は 1 つにまとまっています。**ID セキュリティはチームスポーツであり、ID 側とセキュリティ側の間に手作業の引き継ぎを挟まず、コンテキストを自動でつなげることが勝負どころ**という考えです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK332](https://ignite.microsoft.com/en-US/sessions/BRK332)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK332](https://ignite.microsoft.com/en-US/sessions/BRK332)\
+YouTube URL: [https://www.youtube.com/watch?v=oclJ0WzN69Q](https://www.youtube.com/watch?v=oclJ0WzN69Q)
 
 ## 2. 発表者
 

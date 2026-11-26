@@ -8,7 +8,8 @@ Brendan 氏が示す流れは、1 つのエージェントを題材にして 2 �
 
 このセッションでは、**画面を使ったライブデモ**が行われます。Brendan 氏は、クリックはライブの操作なので読み込みに少し時間がかかる、と断っています。パートナー 2 社もそれぞれ画面付きのデモを見せ、Sierra 側は発表者自身が「動画（video demo）」と説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR857](https://ignite.microsoft.com/en-US/sessions/THR857)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR857](https://ignite.microsoft.com/en-US/sessions/THR857)\
+YouTube URL: [https://www.youtube.com/watch?v=lWSaJ_BOz4I](https://www.youtube.com/watch?v=lWSaJ_BOz4I)
 
 ## 2. 発表者
 

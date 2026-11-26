@@ -6,7 +6,8 @@
 
 Microsoft 側は Forward Deployed Engineering（FDE、顧客の現場に入り込んで共同開発するエンジニアリングチーム）が、Vanguard 側は財務アドバイザー向け事業の担当者が登壇しました。デモは生のデモではなく、Vanguard の環境で作成した模擬データによる録画ウォークスルーです。現在は約 7 人の営業担当者が本番環境でパイロット利用しており、今後数か月で数百人の営業担当者に展開する予定と説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR916](https://ignite.microsoft.com/en-US/sessions/THR916)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR916](https://ignite.microsoft.com/en-US/sessions/THR916)\
+YouTube URL: [https://www.youtube.com/watch?v=LxPfVekNy5U](https://www.youtube.com/watch?v=LxPfVekNy5U)
 
 ## 2. 発表者
 

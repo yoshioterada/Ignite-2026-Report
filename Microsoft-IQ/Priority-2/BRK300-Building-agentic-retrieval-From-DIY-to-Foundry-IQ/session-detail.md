@@ -6,7 +6,8 @@
 
 前半では、Python の開発者としてゼロから組み立てる流れが紹介されます。単純なハイブリッド検索から始め、複合質問、多段（マルチホップ）質問、処理の複雑さを見分ける分類器（ルーター）へと、質問が難しくなるたびに部品を足していきます。後半では、Foundry IQ が Ignite で公開した検索特化モデル **Microsoft Retriever One**（パブリックプレビュー）と、段階的に処理を引き上げる **auto 検索推論レベル**が紹介されます。結論として、発表者は Coco Rinth のシナリオでは Foundry IQ の組み込み方式が優位だと述べています。そのうえで、自分のデータで評価して選ぶよう勧めています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK300](https://ignite.microsoft.com/en-US/sessions/BRK300)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK300](https://ignite.microsoft.com/en-US/sessions/BRK300)\
+YouTube URL: [https://www.youtube.com/watch?v=r-dTV5NYLig](https://www.youtube.com/watch?v=r-dTV5NYLig)
 
 ## 2. 発表者
 

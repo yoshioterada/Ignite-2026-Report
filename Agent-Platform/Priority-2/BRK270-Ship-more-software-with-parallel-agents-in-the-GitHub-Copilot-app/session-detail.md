@@ -6,7 +6,8 @@
 
 発表者は、**開発者の仕事は「コードを 1 行ずつ書く」ことから「たくさんのエージェントを指揮する」ことへ移った**という前提で話を進めています。その指揮を支える機能として、オーケストレーション（複数セッションの指揮）、キャンバス、クラウドエージェント、Copilot Fusion、エージェントによる自己検証、Agent Merge、オートメーション、コネクター、Enterprise Managed Settings が順に紹介されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK270](https://ignite.microsoft.com/en-US/sessions/BRK270)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK270](https://ignite.microsoft.com/en-US/sessions/BRK270)\
+YouTube URL: [https://www.youtube.com/watch?v=Lso-XTS0UkI](https://www.youtube.com/watch?v=Lso-XTS0UkI)
 
 ## 2. 発表者
 

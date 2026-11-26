@@ -6,7 +6,8 @@
 
 内容の中心は技術の詳細ではなく、経営として AI をどう進めるかです。AI を生存のための取り組みと位置づける理由、個別のユースケースではなく業務全体を対象にする判断、成果の測り方、従業員への伝え方、IT と事業部門の共同推進、プロセスより業務ルールとガードレールを標準化するという考え方などが、具体的に語られています。なお、画面を使ったデモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP631](https://ignite.microsoft.com/en-US/sessions/BRKSP631)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP631](https://ignite.microsoft.com/en-US/sessions/BRKSP631)\
+YouTube URL: [https://www.youtube.com/watch?v=CrV_FcQ9vNQ](https://www.youtube.com/watch?v=CrV_FcQ9vNQ)
 
 ## 2. 発表者
 

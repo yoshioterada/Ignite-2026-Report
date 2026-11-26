@@ -15,7 +15,8 @@
 
 なお、このセッションは Theater H での最後のセッションで、画面を使ったデモはありません。スライドと口頭の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1022](https://ignite.microsoft.com/en-US/sessions/THR1022)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1022](https://ignite.microsoft.com/en-US/sessions/THR1022)\
+YouTube URL: [https://www.youtube.com/watch?v=3z6gOmYmC-0](https://www.youtube.com/watch?v=3z6gOmYmC-0)
 
 ## 2. 発表者
 

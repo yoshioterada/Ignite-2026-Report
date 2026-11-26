@@ -8,7 +8,8 @@
 
 > 補足：Foundry の画面は、ライブではなくスクリーンショットで紹介されました。M365 管理センターのデモは「ライブで行う」と明言されています。ビジネス分析アプリと Copilot の画面は、ライブとは明言されていませんが、画面を切り替えて操作しながら説明されています。詳細は 6 章に書きました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK482](https://ignite.microsoft.com/en-US/sessions/BRK482)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK482](https://ignite.microsoft.com/en-US/sessions/BRK482)\
+YouTube URL: [https://www.youtube.com/watch?v=w6Gq-xqUFGE](https://www.youtube.com/watch?v=w6Gq-xqUFGE)
 
 ## 2. 発表者
 

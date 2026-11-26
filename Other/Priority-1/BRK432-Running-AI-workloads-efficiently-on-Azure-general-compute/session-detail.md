@@ -8,7 +8,8 @@ AI ワークロードといえば GPU やアクセラレーターが注目され
 
 > 注意：このセッションでは、VM のシリーズ名（DPLSv7、EPSv7 など）が音声認識で崩れて書き起こされている箇所が多くあります。本文では、聞こえた綴りのまま、またはシリーズ名として確実な範囲で書いています。表記が確定できないものはその旨を注記します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK432](https://ignite.microsoft.com/en-US/sessions/BRK432)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK432](https://ignite.microsoft.com/en-US/sessions/BRK432)\
+YouTube URL: [https://www.youtube.com/watch?v=GdDFaxj42Tk](https://www.youtube.com/watch?v=GdDFaxj42Tk)
 
 ## 2. 発表者
 

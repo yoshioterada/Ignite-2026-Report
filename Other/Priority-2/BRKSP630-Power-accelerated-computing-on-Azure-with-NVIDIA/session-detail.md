@@ -6,7 +6,8 @@
 
 最も大きなメッセージは、AI アプリケーションの性能は計算基盤だけでなくデータ基盤にも左右されるため、両方を GPU で高速化する価値がある、という点です。GPU-accelerated Fabric DW は現時点では限定的なパブリックプレビューです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP630](https://ignite.microsoft.com/en-US/sessions/BRKSP630)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP630](https://ignite.microsoft.com/en-US/sessions/BRKSP630)\
+YouTube URL: [https://www.youtube.com/watch?v=g2wSshatJ90](https://www.youtube.com/watch?v=g2wSshatJ90)
 
 ## 2. 発表者
 

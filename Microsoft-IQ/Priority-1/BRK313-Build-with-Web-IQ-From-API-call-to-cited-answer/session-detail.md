@@ -8,7 +8,8 @@
 
 > 注意：音声認識の都合で、一部の製品名の綴りが確定できません。製品名は "Web IQ" "WebIQ" の両方で書き起こされていますが、本文では Web IQ と書きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK313](https://ignite.microsoft.com/en-US/sessions/BRK313)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK313](https://ignite.microsoft.com/en-US/sessions/BRK313)\
+YouTube URL: [https://www.youtube.com/watch?v=1RbW0rWp6Mc](https://www.youtube.com/watch?v=1RbW0rWp6Mc)
 
 ## 2. 発表者
 

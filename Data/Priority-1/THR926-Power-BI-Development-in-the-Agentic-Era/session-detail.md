@@ -6,7 +6,8 @@
 
 登壇者が一貫して伝えているのは、**エージェントは作業を速くするが、要件の確認と結果の検証は人間の仕事である** という点です。仕様（spec）を先に書く進め方、モデルの選び方、API キーの扱いなど、実際に使うときの注意点も具体的に語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR926](https://ignite.microsoft.com/en-US/sessions/THR926)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR926](https://ignite.microsoft.com/en-US/sessions/THR926)\
+YouTube URL: [https://www.youtube.com/watch?v=3s3AOEHD96Y](https://www.youtube.com/watch?v=3s3AOEHD96Y)
 
 ## 2. 発表者
 

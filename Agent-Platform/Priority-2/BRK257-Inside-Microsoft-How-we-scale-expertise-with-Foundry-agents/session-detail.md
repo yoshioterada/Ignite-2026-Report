@@ -6,7 +6,8 @@
 
 仕事の内容は大きく違うものの、後半では 2 つの事例に共通するパターンが整理されます。専門家が基準を決め、エージェントは根拠のある文脈で作業し、最終判断は人が行う、というものです。ライブデモは、RCA エージェントのほうで行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK257](https://ignite.microsoft.com/en-US/sessions/BRK257)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK257](https://ignite.microsoft.com/en-US/sessions/BRK257)\
+YouTube URL: [https://www.youtube.com/watch?v=Z2U-bSRzDLM](https://www.youtube.com/watch?v=Z2U-bSRzDLM)
 
 ## 2. 発表者
 

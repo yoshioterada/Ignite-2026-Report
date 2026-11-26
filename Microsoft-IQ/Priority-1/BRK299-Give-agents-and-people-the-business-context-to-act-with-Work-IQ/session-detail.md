@@ -10,7 +10,8 @@
 * 業務の文脈を与える仕組みとして、**セマンティックモデル**と**ビジネススキル（business skills）**がデモされた。どちらも GA。
 * Agent 365 による管理（観測、ガバナンス、セキュリティ、コスト）とライセンスの考え方まで説明された。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK299](https://ignite.microsoft.com/en-US/sessions/BRK299)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK299](https://ignite.microsoft.com/en-US/sessions/BRK299)\
+YouTube URL: [https://www.youtube.com/watch?v=fwPBPo0GVkM](https://www.youtube.com/watch?v=fwPBPo0GVkM)
 
 ## 2. 発表者
 

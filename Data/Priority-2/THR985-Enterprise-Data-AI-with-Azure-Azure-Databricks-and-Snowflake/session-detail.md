@@ -8,7 +8,8 @@
 
 発表では、この構成で判断が必要になる 5 つの決定と、実際に踏んだ落とし穴、読み取りの二重課金やセキュリティ上の注意が具体的に語られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR985](https://ignite.microsoft.com/en-US/sessions/THR985)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR985](https://ignite.microsoft.com/en-US/sessions/THR985)\
+YouTube URL: [https://www.youtube.com/watch?v=YImxqMNAndU](https://www.youtube.com/watch?v=YImxqMNAndU)
 
 ## 2. 発表者
 

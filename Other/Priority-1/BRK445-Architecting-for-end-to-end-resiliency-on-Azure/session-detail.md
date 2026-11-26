@@ -10,7 +10,8 @@
 * Azure Multicloud Interconnect（AWS とは GA、GCP とは public preview）
 * Azure Copilot の resiliency agent と Infrastructure Resiliency Manager
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK445](https://ignite.microsoft.com/en-US/sessions/BRK445)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK445](https://ignite.microsoft.com/en-US/sessions/BRK445)\
+YouTube URL: [https://www.youtube.com/watch?v=qMkSR0plPnw](https://www.youtube.com/watch?v=qMkSR0plPnw)
 
 ## 2. 発表者
 

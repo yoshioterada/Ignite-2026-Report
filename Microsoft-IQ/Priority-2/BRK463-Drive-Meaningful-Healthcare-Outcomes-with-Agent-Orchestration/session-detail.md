@@ -6,7 +6,8 @@
 
 中心にある考え方は、「事故が起きてから学ぶ」という後追いの仕組みを、「兆候の段階で気付く」仕組みに変えることです。そのために Intermountain Health は、安全イベントの優先度付け、軽微なイベントのまとまり（クラスター）の発見、被害の予測という 3 つのユースケースに取り組んでいます。医療従事者だけでなく、医療機関を支援するパートナーや ISV の開発者にとっても、エージェント構成と進め方の参考になる内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK463](https://ignite.microsoft.com/en-US/sessions/BRK463)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK463](https://ignite.microsoft.com/en-US/sessions/BRK463)\
+YouTube URL: [https://www.youtube.com/watch?v=xvNNT9Tcj5s](https://www.youtube.com/watch?v=xvNNT9Tcj5s)
 
 ## 2. 発表者
 

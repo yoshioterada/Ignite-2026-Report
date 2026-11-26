@@ -6,7 +6,8 @@
 
 中心になる主張は 2 つです。1 つは、保存時と通信時の暗号化は業界として解決済みで、**使用中のデータを守るのがコンフィデンシャルコンピューティング**であること。もう 1 つは、これにより、作成から破棄まで、自分が持つキーでデータを保護するエンドツーエンドの保護がそろうことです。また、Azure で行った 2 つの「業界初」の取り組み（コンフィデンシャルなライブマイグレーションと、Azure Boost Confidential Device）と、NVIDIA のベアメタル環境で約 4,000 億パラメーターのモデルを動かす実演が示されました。いずれも録画された動画で紹介され、会場でのライブ操作ではありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK443](https://ignite.microsoft.com/en-US/sessions/BRK443)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK443](https://ignite.microsoft.com/en-US/sessions/BRK443)\
+YouTube URL: [https://www.youtube.com/watch?v=xJJ-yalXgEA](https://www.youtube.com/watch?v=xJJ-yalXgEA)
 
 ## 2. 発表者
 

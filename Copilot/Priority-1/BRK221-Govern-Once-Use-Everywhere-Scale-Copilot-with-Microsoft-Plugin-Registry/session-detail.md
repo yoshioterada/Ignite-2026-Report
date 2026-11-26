@@ -8,7 +8,8 @@
 
 発表者が伝えている骨子は、**tools（何ができるか）と skills（どう使うか）と agents を plugin としてまとめ、一度作って Copilot の各所で使い、A365 で一元的に統制する** という考え方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK221](https://ignite.microsoft.com/en-US/sessions/BRK221)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK221](https://ignite.microsoft.com/en-US/sessions/BRK221)\
+YouTube URL: [https://www.youtube.com/watch?v=WXqTRsaqtWI](https://www.youtube.com/watch?v=WXqTRsaqtWI)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションには画面を使ったデモが 2 本あります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK384](https://ignite.microsoft.com/en-US/sessions/BRK384)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK384](https://ignite.microsoft.com/en-US/sessions/BRK384)\
+YouTube URL: [https://www.youtube.com/watch?v=fqgNRVnplRY](https://www.youtube.com/watch?v=fqgNRVnplRY)
 
 ## 2. 発表者
 

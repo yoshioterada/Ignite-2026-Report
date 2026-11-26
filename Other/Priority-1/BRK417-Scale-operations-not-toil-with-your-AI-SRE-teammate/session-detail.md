@@ -8,7 +8,8 @@
 
 結論として繰り返されるのは、**エージェントをモデルの「お願い」で縛るのではなく、モデルの外側の環境で、決定的（deterministic）に制限する**という設計思想です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK417](https://ignite.microsoft.com/en-US/sessions/BRK417)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK417](https://ignite.microsoft.com/en-US/sessions/BRK417)\
+YouTube URL: [https://www.youtube.com/watch?v=lqbe2E-jYs0](https://www.youtube.com/watch?v=lqbe2E-jYs0)
 
 ## 2. 発表者
 

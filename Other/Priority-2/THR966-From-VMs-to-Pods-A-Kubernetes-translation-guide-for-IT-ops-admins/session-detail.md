@@ -6,7 +6,8 @@
 
 最大のメッセージは、**Kubernetes は基本形では「フェールオーバークラスタリング」と「ネットワーク負荷分散」を行うリソーススケジューラー**だという点です。さらに、構成を VM に入って直すのではなく、望む状態を宣言したファイルで管理する点が運用の考え方を変える、と説明されています。冒頭には聴衆参加型のデモがあり、会場の参加者のスマートフォンからの接続で Kubernetes が自動でコンテナーを増やす様子が示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR966](https://ignite.microsoft.com/en-US/sessions/THR966)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR966](https://ignite.microsoft.com/en-US/sessions/THR966)\
+YouTube URL: [https://www.youtube.com/watch?v=YY7thCGZXY4](https://www.youtube.com/watch?v=YY7thCGZXY4)
 
 ## 2. 発表者
 

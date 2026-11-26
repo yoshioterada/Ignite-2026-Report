@@ -8,7 +8,8 @@
 
 このセッションでは、Parse のライブデモが行われ、Embed と Re-rank についても画面を使った実例が示されました（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1066](https://ignite.microsoft.com/en-US/sessions/THRSP1066)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1066](https://ignite.microsoft.com/en-US/sessions/THRSP1066)\
+YouTube URL: [https://www.youtube.com/watch?v=jcdAPqPLiIQ](https://www.youtube.com/watch?v=jcdAPqPLiIQ)
 
 ## 2. 発表者
 

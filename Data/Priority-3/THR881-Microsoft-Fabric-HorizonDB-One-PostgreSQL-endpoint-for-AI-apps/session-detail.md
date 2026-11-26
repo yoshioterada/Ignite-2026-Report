@@ -12,7 +12,8 @@
 
 後半のデモ（一部は録画映像を使用）では、約 1 億行の orders テーブルに対する分析クエリが 40 秒から 3.8 秒に短縮される様子が紹介されます。現時点でパブリックプレビューであり、試すには Fabric テナント管理者の操作が必要です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR881](https://ignite.microsoft.com/en-US/sessions/THR881)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR881](https://ignite.microsoft.com/en-US/sessions/THR881)\
+YouTube URL: [https://www.youtube.com/watch?v=Bot-T0980BI](https://www.youtube.com/watch?v=Bot-T0980BI)
 
 ## 2. 発表者
 

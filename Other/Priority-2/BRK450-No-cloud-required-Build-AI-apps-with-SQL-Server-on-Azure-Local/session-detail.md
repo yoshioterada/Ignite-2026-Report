@@ -8,7 +8,8 @@
 
 > 補足：発表で見せるデモは、事前に録画した映像をスライドに埋め込んだものです。発表者が画面を見ながら口頭で説明する形式で、音声は再生していません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK450](https://ignite.microsoft.com/en-US/sessions/BRK450)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK450](https://ignite.microsoft.com/en-US/sessions/BRK450)\
+YouTube URL: [https://www.youtube.com/watch?v=VIW2folj5zA](https://www.youtube.com/watch?v=VIW2folj5zA)
 
 ## 2. 発表者
 

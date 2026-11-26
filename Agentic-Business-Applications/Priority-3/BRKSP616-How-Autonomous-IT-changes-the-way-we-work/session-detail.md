@@ -13,7 +13,8 @@
 
 このセッションでは、画面を使ったデモが行われています。競合他社の Web サイト上のデモ、および Robin の 3 つの動作例（端末が遅い、ヘッドセットが使えない、印刷できない）が、登壇者の解説とともに紹介されました。ただし、これらがライブ操作か録画かは、登壇者は明言していません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP616](https://ignite.microsoft.com/en-US/sessions/BRKSP616)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP616](https://ignite.microsoft.com/en-US/sessions/BRKSP616)\
+YouTube URL: [https://www.youtube.com/watch?v=GDg9H9KXqAc](https://www.youtube.com/watch?v=GDg9H9KXqAc)
 
 ## 2. 発表者
 

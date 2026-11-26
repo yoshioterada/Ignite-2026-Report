@@ -6,7 +6,8 @@
 
 チャットや音声で行われている機関投資家向けの取引を、エージェントがどう効率化するかが主題です。ただし、人間の判断を外すのではなく、**人間が決めた範囲の中でエージェントが交渉し、最後は人間が承認する**という設計が一貫しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR915](https://ignite.microsoft.com/en-US/sessions/THR915)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR915](https://ignite.microsoft.com/en-US/sessions/THR915)\
+YouTube URL: [https://www.youtube.com/watch?v=_PN7RYyImbI](https://www.youtube.com/watch?v=_PN7RYyImbI)
 
 ## 2. 発表者
 

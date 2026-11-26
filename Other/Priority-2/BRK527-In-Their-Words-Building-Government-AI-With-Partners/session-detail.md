@@ -6,7 +6,8 @@
 
 中心となる事例は、カリフォルニア州交通局（Caltrans）の **Traffic Mobility Insight（TMI）** です。交通データを生成 AI の基盤に集約し、運用担当者が普通の英語で質問できるようにした取り組みで、州の技術局（California Department of Technology、CDT）が基盤を提供し、Microsoft と NVIDIA が技術面で支えました。討議の結論を先に挙げると、**技術から入るのではなく、解決すべき課題と成果指標（KPI）から入ること**、そして **ガバナンスと法務・セキュリティ部門を最初から巻き込むこと** が、登壇者に共通する助言です。後半では Microsoft 側から、パートナーが Microsoft と協業して成果を出すための営業フレームワークの説明がありました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK527](https://ignite.microsoft.com/en-US/sessions/BRK527)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK527](https://ignite.microsoft.com/en-US/sessions/BRK527)\
+YouTube URL: [https://www.youtube.com/watch?v=LgmQkpoeJUc](https://www.youtube.com/watch?v=LgmQkpoeJUc)
 
 ## 2. 発表者
 

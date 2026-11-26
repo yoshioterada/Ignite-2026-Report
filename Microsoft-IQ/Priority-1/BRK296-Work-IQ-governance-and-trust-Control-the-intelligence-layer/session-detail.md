@@ -6,7 +6,8 @@
 
 1 つ目の問いには、テナント単位のポリシーに加えて、**エージェント単位のポリシー**と人による承認（human in the loop）を組み合わせる仕組みで答えています。2 つ目の問いには、**情報フロー制御（information flow control）** として、Sanitization（無害化）と Provenance（来歴の証明）という 2 つの機能を発表しています。デモは 3 本あります。1 本目は架空の会社 Caldova、2 本目と 3 本目は Wild World Importers 社と Fourth Coffee を舞台にしています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK296](https://ignite.microsoft.com/en-US/sessions/BRK296)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK296](https://ignite.microsoft.com/en-US/sessions/BRK296)\
+YouTube URL: [https://www.youtube.com/watch?v=R8SIpsv7JK8](https://www.youtube.com/watch?v=R8SIpsv7JK8)
 
 ## 2. 発表者
 

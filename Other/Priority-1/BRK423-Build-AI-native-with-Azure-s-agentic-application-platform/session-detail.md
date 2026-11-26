@@ -13,7 +13,8 @@
 
 このセッションには画面を使ったデモがあります。ただし録音は音声のみのため、画面の細部は登壇者が語った範囲だけを記載しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK423](https://ignite.microsoft.com/en-US/sessions/BRK423)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK423](https://ignite.microsoft.com/en-US/sessions/BRK423)\
+YouTube URL: [https://www.youtube.com/watch?v=4_zRszUl4_o](https://www.youtube.com/watch?v=4_zRszUl4_o)
 
 ## 2. 発表者
 

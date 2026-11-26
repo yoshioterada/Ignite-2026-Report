@@ -6,7 +6,8 @@
 
 冒頭で Jason 氏は、Intune が管理・保護する対象が「デバイスとアプリ」から「デバイス、アプリ、エージェント、コンテナー、モデル」に広がったこと、そして脆弱性が悪用されるまでの時間が極端に短くなったことを挙げ、人間の速度ではなく「マシンの速度」で運用できるツールを目指していると説明しました。発表されたのは、**Intune for Servers**、Intune Explorer と Custom Reporting、アプリの自動更新ポリシー、Deployment plans、インベントリに基づくフィルター、device health、脆弱性対応エージェント、エージェントの検出とソフトウェアコンプライアンスなどです。多くの項目で、画面を使ったデモが行われました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK404](https://ignite.microsoft.com/en-US/sessions/BRK404)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK404](https://ignite.microsoft.com/en-US/sessions/BRK404)\
+YouTube URL: [https://www.youtube.com/watch?v=XhDqfjq4ha8](https://www.youtube.com/watch?v=XhDqfjq4ha8)
 
 ## 2. 発表者
 

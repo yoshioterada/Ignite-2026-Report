@@ -6,7 +6,8 @@
 
 発表の中心は、2 人の発表者のやり取りと画面を使ったデモです。1 人が「AI を日常業務で使いこなしたい、金融業界のビジネスユーザー」の役を演じ、もう 1 人が機能を見せていきます。**AI Skills Navigator は無料で、複数の言語に対応しており、今日から使える**と最初に説明されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR950](https://ignite.microsoft.com/en-US/sessions/THR950)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR950](https://ignite.microsoft.com/en-US/sessions/THR950)\
+YouTube URL: [https://www.youtube.com/watch?v=1-abSbeu8lw](https://www.youtube.com/watch?v=1-abSbeu8lw)
 
 ## 2. 発表者
 

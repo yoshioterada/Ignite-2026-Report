@@ -8,7 +8,8 @@
 
 > 補足：デモの画面は音声からは細部が分からないため、本書では語られた内容に限って書いています。コスト管理画面のデモは、発表者自身が「模擬データ（モックデータ）」だと説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK233](https://ignite.microsoft.com/en-US/sessions/BRK233)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK233](https://ignite.microsoft.com/en-US/sessions/BRK233)\
+YouTube URL: [https://www.youtube.com/watch?v=Qp3PPg15V3E](https://www.youtube.com/watch?v=Qp3PPg15V3E)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 結論は最後に Sara が語った一文に集約されています。**Build it once, use it everywhere, govern centrally**（一度作れば、どこでも使え、集中管理できる）という考え方です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR851](https://ignite.microsoft.com/en-US/sessions/THR851)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR851](https://ignite.microsoft.com/en-US/sessions/THR851)\
+YouTube URL: [https://www.youtube.com/watch?v=LNGliOD6LFk](https://www.youtube.com/watch?v=LNGliOD6LFk)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 要点は、**トレーナーの仕事は教室の中だけで完結せず、顧客の支援、社会への貢献、仲間との交流へと広がる**ということです。聴衆には、MCT とつながること、学んだことを共有すること、プログラムに参加することが呼びかけられました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR971](https://ignite.microsoft.com/en-US/sessions/THR971)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR971](https://ignite.microsoft.com/en-US/sessions/THR971)\
+YouTube URL: [https://www.youtube.com/watch?v=PoNsZqbR2l0](https://www.youtube.com/watch?v=PoNsZqbR2l0)
 
 ## 2. 発表者
 

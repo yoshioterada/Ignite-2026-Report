@@ -8,7 +8,8 @@
 
 > 補足：デモの多くは画面録画のビデオで示されており、一部は再生できなかったことが音声から分かります。この文書では、音声で語られた範囲だけを書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK399](https://ignite.microsoft.com/en-US/sessions/BRK399)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK399](https://ignite.microsoft.com/en-US/sessions/BRK399)\
+YouTube URL: [https://www.youtube.com/watch?v=bXRatkrcawQ](https://www.youtube.com/watch?v=bXRatkrcawQ)
 
 ## 2. 発表者
 

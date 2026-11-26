@@ -8,7 +8,8 @@
 
 > 注意：このセッションでは、画面を使ったライブデモは行われていません。導入の後、対談に入る前に短い動画が流されますが、動画の内容は音声からは確認できません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR911](https://ignite.microsoft.com/en-US/sessions/THR911)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR911](https://ignite.microsoft.com/en-US/sessions/THR911)\
+YouTube URL: [https://www.youtube.com/watch?v=nAEMaziozQ4](https://www.youtube.com/watch?v=nAEMaziozQ4)
 
 ## 2. 発表者
 

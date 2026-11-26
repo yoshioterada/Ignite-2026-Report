@@ -8,7 +8,8 @@
 
 このセッションのデモは**事前録画**です。登壇者は、録画にした理由を「デモに自信がないからではなく、安定した Wi-Fi を誰かと奪い合いたくないから」と冗談めかして説明しています。また、カットなしで実機の画面をそのまま見せると述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR993](https://ignite.microsoft.com/en-US/sessions/THR993)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR993](https://ignite.microsoft.com/en-US/sessions/THR993)\
+YouTube URL: [https://www.youtube.com/watch?v=J8RxHdm-1Aw](https://www.youtube.com/watch?v=J8RxHdm-1Aw)
 
 ## 2. 発表者
 

@@ -12,7 +12,8 @@ AI アシスタントの機能については、録画された紹介動画が�
 
 > 注意：製品名は、セッションタイトルでは ArrowSphere ですが、音声認識の結果では「Atosphere」「Aosphere」「our sphere」など複数の聞こえ方をしています。この文書では ArrowSphere に統一しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP592](https://ignite.microsoft.com/en-US/sessions/BRKSP592)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP592](https://ignite.microsoft.com/en-US/sessions/BRKSP592)\
+YouTube URL: [https://www.youtube.com/watch?v=aeUJS2Tvd0U](https://www.youtube.com/watch?v=aeUJS2Tvd0U)
 
 ## 2. 発表者
 

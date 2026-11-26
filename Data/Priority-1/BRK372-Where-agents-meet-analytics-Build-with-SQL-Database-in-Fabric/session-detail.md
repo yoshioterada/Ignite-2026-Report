@@ -8,7 +8,8 @@
 
 結論として、登壇者が最後に強調したのは「Azure SQL Database から全部 Fabric に移す必要はない」という点です。mirroring を有効にするだけでも多くの価値が得られ、新しいアプリを作る場合や Fabric 内でデータベースが必要な場合に SQL database in Fabric が有力な選択肢になる、という立場です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK372](https://ignite.microsoft.com/en-US/sessions/BRK372)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK372](https://ignite.microsoft.com/en-US/sessions/BRK372)\
+YouTube URL: [https://www.youtube.com/watch?v=oSrdkHz4bzg](https://www.youtube.com/watch?v=oSrdkHz4bzg)
 
 ## 2. 発表者
 

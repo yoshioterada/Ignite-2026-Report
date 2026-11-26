@@ -8,7 +8,8 @@
 
 > 補足：登壇者自身が「新機能の紹介が多いセッションで、詳細は後続のディープダイブ・セッションで扱う」と述べています。本資料でもそれぞれの機能の詳細な設定方法までは触れられていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK242](https://ignite.microsoft.com/en-US/sessions/BRK242)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK242](https://ignite.microsoft.com/en-US/sessions/BRK242)\
+YouTube URL: [https://www.youtube.com/watch?v=kpqnUaS5438](https://www.youtube.com/watch?v=kpqnUaS5438)
 
 ## 2. 発表者
 

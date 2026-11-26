@@ -6,7 +6,8 @@
 
 「新しい PC を開発できる状態にするのに数時間から数日かかる」「Windows でも Linux と同じコマンドを使いたい」「エージェントを安全に動かしたい」といった悩みを持つ開発者や、開発者向けの端末を用意する IT 管理者に向いた内容です。紹介された機能の多くは、すでに retail / GA チャネルで使えると説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK393](https://ignite.microsoft.com/en-US/sessions/BRK393)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK393](https://ignite.microsoft.com/en-US/sessions/BRK393)\
+YouTube URL: [https://www.youtube.com/watch?v=3-mKS__FgI0](https://www.youtube.com/watch?v=3-mKS__FgI0)
 
 ## 2. 発表者
 

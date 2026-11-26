@@ -6,7 +6,8 @@
 
 発表の中心は、「小さなモデルでもチューニングすれば、フロンティアモデルと同等の品質を、はるかに低いコストで出せるか」という問いです。Land O'Lakes、Pearson、EY の事例が示され、Pearson では、フロンティアモデルが 1 タスクあたり約 1.78 ドルかかるのに対し、チューニングした MAI-11 は約 0.25 ドルという比較が紹介されました。Frontier Tuning の開発チームによる仕組みの説明、GitHub Copilot 上のプラグインを使った画面付きのデモ、2 本のビデオ、顧客事例、という構成です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK238](https://ignite.microsoft.com/en-US/sessions/BRK238)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK238](https://ignite.microsoft.com/en-US/sessions/BRK238)\
+YouTube URL: [https://www.youtube.com/watch?v=9UENr8cFrsU](https://www.youtube.com/watch?v=9UENr8cFrsU)
 
 ## 2. 発表者
 

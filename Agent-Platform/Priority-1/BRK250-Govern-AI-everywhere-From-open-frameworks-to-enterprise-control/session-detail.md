@@ -8,7 +8,8 @@
 
 セッションは、Microsoft 側の 2 名が模擬の銀行シナリオでデモを見せる前半、HPE（Hewlett Packard Enterprise）の 2 名が自社の課題と設計原則を語る中盤、そして評価（Assert）と監査証跡（OpenTelemetry トレース）をデモで示す後半で構成されています。エージェントのガバナンスやセキュリティを担当する方、複数フレームワークでエージェントを開発している方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK250](https://ignite.microsoft.com/en-US/sessions/BRK250)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK250](https://ignite.microsoft.com/en-US/sessions/BRK250)\
+YouTube URL: [https://www.youtube.com/watch?v=zF5gEcN5BZQ](https://www.youtube.com/watch?v=zF5gEcN5BZQ)
 
 ## 2. 発表者
 

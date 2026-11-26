@@ -6,7 +6,8 @@
 
 Lenovo のパートナーセッションであり、Lenovo のサービスと実績の紹介が多くを占めます。このセッションでは画面を使ったデモは行われておらず、スライドと口頭の説明、および SOC アナリストの対応を説明する短いビデオが中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP623](https://ignite.microsoft.com/en-US/sessions/BRKSP623)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP623](https://ignite.microsoft.com/en-US/sessions/BRKSP623)\
+YouTube URL: [https://www.youtube.com/watch?v=cJiTRuKtdfY](https://www.youtube.com/watch?v=cJiTRuKtdfY)
 
 ## 2. 発表者
 

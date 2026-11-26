@@ -8,7 +8,8 @@
 
 デモは 4 つあります。Copilot で調査して Skill とプラグインにする流れ、1 回のプロンプトでアプリを作る流れ、GitHub と Foundry でエージェントを作って改善させる流れ、そしてモデルをファインチューニングする流れです。サプライチェーンの遅延対応を一貫した題材にしているので、一連の流れとして追えます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV641](https://ignite.microsoft.com/en-US/sessions/INV641)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV641](https://ignite.microsoft.com/en-US/sessions/INV641)\
+YouTube URL: [https://www.youtube.com/watch?v=USCPjmePxpM](https://www.youtube.com/watch?v=USCPjmePxpM)
 
 ## 2. 発表者
 

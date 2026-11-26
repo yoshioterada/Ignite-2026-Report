@@ -6,7 +6,8 @@
 
 ダッシュボードはすべて緑で、オブザーバビリティにも問題がない。それなのにユーザーからは「遅い」「動かない」という声が届く。そんな経験のあるプラットフォームエンジニアに向けて、**本番に近い構成に実際に障害（フォールト）を注入し、レジリエンスを検証する**という考え方が示されます。デモでは、チケット販売アプリケーションの AKS と Cosmos DB 間のネットワークを切断し、冗長構成のあるサイトとないサイトで挙動がどう違うかを見せています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR898](https://ignite.microsoft.com/en-US/sessions/THR898)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR898](https://ignite.microsoft.com/en-US/sessions/THR898)\
+YouTube URL: [https://www.youtube.com/watch?v=DiW67JaxtVk](https://www.youtube.com/watch?v=DiW67JaxtVk)
 
 ## 2. 発表者
 

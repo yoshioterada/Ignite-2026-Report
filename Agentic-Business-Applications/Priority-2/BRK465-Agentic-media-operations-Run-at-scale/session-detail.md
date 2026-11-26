@@ -6,7 +6,8 @@
 
 構成は 3 部に分かれています。Kantar の専門知識がどのように創作上の判断に生かされるか、エンジニアリングでどう高速性と信頼性を実現したか、そして評価（エバリュエーション）によってどう信頼を獲得したかです。静止画広告と動画広告の改善を、録画された画面で見せるデモもあります。最後に、複雑なエージェント型ワークフローの製品づくりで重要だったパターンが、4 つの観点で整理されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK465](https://ignite.microsoft.com/en-US/sessions/BRK465)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK465](https://ignite.microsoft.com/en-US/sessions/BRK465)\
+YouTube URL: [https://www.youtube.com/watch?v=OMjjc4XNp58](https://www.youtube.com/watch?v=OMjjc4XNp58)
 
 ## 2. 発表者
 

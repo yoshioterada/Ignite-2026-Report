@@ -6,7 +6,8 @@
 
 事例の中心は、Boehringer Ingelheim の Amy Curley 氏（Global Feasibility & Planning Manager）による録画プレゼンテーションです。メールと PowerPoint から「計画がなぜ、どう変わったか」を再構築する作業を、Copilot in SharePoint の **skills（12 個を連結）** で自動化した取り組みで、手作業の 2〜3.5 時間が AI 支援で 20〜30 分程度になったと報告されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK217](https://ignite.microsoft.com/en-US/sessions/BRK217)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK217](https://ignite.microsoft.com/en-US/sessions/BRK217)\
+YouTube URL: [https://www.youtube.com/watch?v=fTxiek68gUk](https://www.youtube.com/watch?v=fTxiek68gUk)
 
 ## 2. 発表者
 

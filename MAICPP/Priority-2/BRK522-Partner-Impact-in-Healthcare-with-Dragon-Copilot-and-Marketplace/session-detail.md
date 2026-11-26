@@ -6,7 +6,8 @@
 
 中心となる主張は、**医療には技術革新が不足しているのではなく、現場のワークフローに統合されていないことが問題だ**という点です。そのうえで、Dragon Copilot 上の Marketplace は一般提供（GA）されており、パートナーは自己完結型の手順で出品を始められると説明されました。GW Rhythm X は初のコードを書いてから Marketplace 掲載まで、およそ 30 日だったと語っています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK522](https://ignite.microsoft.com/en-US/sessions/BRK522)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK522](https://ignite.microsoft.com/en-US/sessions/BRK522)\
+YouTube URL: [https://www.youtube.com/watch?v=roX9Qe39GJE](https://www.youtube.com/watch?v=roX9Qe39GJE)
 
 ## 2. 発表者
 

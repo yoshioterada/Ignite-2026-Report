@@ -12,7 +12,8 @@
 - Azure Monitor のデータを Fabric に取り込んでビジネス影響を分析する方法
 - Azure Monitor pipeline の VM 対応や PII の難読化などの新機能
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK416](https://ignite.microsoft.com/en-US/sessions/BRK416)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK416](https://ignite.microsoft.com/en-US/sessions/BRK416)\
+YouTube URL: [https://www.youtube.com/watch?v=2Hl6Tr81AAE](https://www.youtube.com/watch?v=2Hl6Tr81AAE)
 
 ## 2. 発表者
 

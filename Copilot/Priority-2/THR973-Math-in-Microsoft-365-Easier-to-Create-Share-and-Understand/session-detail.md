@@ -6,7 +6,8 @@
 
 内容は大きく 3 つに分かれます。まず Microsoft 365 Copilot で数式入りの資料を作るデモ、次に数式を他の形式とやり取りしても読める状態を保つ仕組み、最後に近日提供予定の新機能です。画面を使ったデモが中心で、スライドの説明は少なめです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR973](https://ignite.microsoft.com/en-US/sessions/THR973)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR973](https://ignite.microsoft.com/en-US/sessions/THR973)\
+YouTube URL: [https://www.youtube.com/watch?v=epFSIpjLxRU](https://www.youtube.com/watch?v=epFSIpjLxRU)
 
 ## 2. 発表者
 

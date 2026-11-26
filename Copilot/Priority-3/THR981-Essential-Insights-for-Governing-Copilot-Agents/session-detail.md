@@ -8,7 +8,8 @@
 
 登壇者が繰り返し述べるのは、「新しいことは何もない。新しい理由ができただけだ」という点です。このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR981](https://ignite.microsoft.com/en-US/sessions/THR981)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR981](https://ignite.microsoft.com/en-US/sessions/THR981)\
+YouTube URL: [https://www.youtube.com/watch?v=-JUuQfyfMxk](https://www.youtube.com/watch?v=-JUuQfyfMxk)
 
 ## 2. 発表者
 

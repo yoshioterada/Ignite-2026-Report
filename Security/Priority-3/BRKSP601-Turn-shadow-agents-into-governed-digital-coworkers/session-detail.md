@@ -16,7 +16,8 @@
 - 外部で作られたエージェントを Agent 365 に取り込む手順
 - 月曜の朝から何を始めればよいか
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP601](https://ignite.microsoft.com/en-US/sessions/BRKSP601)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP601](https://ignite.microsoft.com/en-US/sessions/BRKSP601)\
+YouTube URL: [https://www.youtube.com/watch?v=KBKMHowkRmE](https://www.youtube.com/watch?v=KBKMHowkRmE)
 
 ## 2. 発表者
 

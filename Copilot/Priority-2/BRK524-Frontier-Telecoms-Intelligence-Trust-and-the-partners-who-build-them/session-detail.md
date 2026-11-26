@@ -12,7 +12,8 @@
 
 デモは行われていません。スライドと口頭の説明、対談で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK524](https://ignite.microsoft.com/en-US/sessions/BRK524)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK524](https://ignite.microsoft.com/en-US/sessions/BRK524)\
+YouTube URL: [https://www.youtube.com/watch?v=2DQ9Bg-D7us](https://www.youtube.com/watch?v=2DQ9Bg-D7us)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 このセッションでは画面を使ったデモが行われています（手順は 6 章にまとめています）。ただし、コスト面（Price it）はフレームワークの説明のみで、デモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1070](https://ignite.microsoft.com/en-US/sessions/THRSP1070)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1070](https://ignite.microsoft.com/en-US/sessions/THRSP1070)\
+YouTube URL: [https://www.youtube.com/watch?v=9TIM4NhQFwI](https://www.youtube.com/watch?v=9TIM4NhQFwI)
 
 ## 2. 発表者
 

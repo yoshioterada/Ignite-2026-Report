@@ -6,7 +6,8 @@
 
 発表全体の軸は、「Copilot に操作方法を聞く」段階から「Copilot にやりたい成果を伝えて任せる」段階へ移っているという点です。そのうえで、何をしたのかを確認でき、元に戻せる（コントロールできる）ことが繰り返し強調されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK206](https://ignite.microsoft.com/en-US/sessions/BRK206)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK206](https://ignite.microsoft.com/en-US/sessions/BRK206)\
+YouTube URL: [https://www.youtube.com/watch?v=9M9qXO54lYo](https://www.youtube.com/watch?v=9M9qXO54lYo)
 
 ## 2. 発表者
 

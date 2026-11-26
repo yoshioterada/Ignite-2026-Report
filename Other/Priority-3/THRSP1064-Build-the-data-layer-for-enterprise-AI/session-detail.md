@@ -8,7 +8,8 @@
 
 このセッションにはデモがあり、Eon のコンソールから OneLake、データエージェントまでを順に見せます（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1064](https://ignite.microsoft.com/en-US/sessions/THRSP1064)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1064](https://ignite.microsoft.com/en-US/sessions/THRSP1064)\
+YouTube URL: [https://www.youtube.com/watch?v=JZK3iDzDbnA](https://www.youtube.com/watch?v=JZK3iDzDbnA)
 
 ## 2. 発表者
 

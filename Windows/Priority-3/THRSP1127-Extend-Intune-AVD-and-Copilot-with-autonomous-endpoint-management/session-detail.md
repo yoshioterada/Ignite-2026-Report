@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったライブデモが行われています（6 章）。ただし録音は音声のみで、画面の細部は登壇者のナレーションから分かる範囲に限られます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1127](https://ignite.microsoft.com/en-US/sessions/THRSP1127)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1127](https://ignite.microsoft.com/en-US/sessions/THRSP1127)\
+YouTube URL: [https://www.youtube.com/watch?v=u72PodqEKZc](https://www.youtube.com/watch?v=u72PodqEKZc)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表は、コストの課題、両社の提携と Azure Native Integrations プログラムの説明、サービスの機能（シンプロビジョニングとデータ削減）、Azure ポータルでの操作のビデオデモ、Azure Storage Center での可視化、そして Copilot Studio で作ったエージェントによる可観測性のデモで進みます。**ブロックストレージのコストは、データ削減とシンプロビジョニングの組み合わせで、平均的な 5 対 1 の削減率から少なくとも 40% 下がる**というのが、発表者の示した数字です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1122](https://ignite.microsoft.com/en-US/sessions/THRSP1122)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1122](https://ignite.microsoft.com/en-US/sessions/THRSP1122)\
+YouTube URL: [https://www.youtube.com/watch?v=Q5QvTzRZfCk](https://www.youtube.com/watch?v=Q5QvTzRZfCk)
 
 ## 2. 発表者
 

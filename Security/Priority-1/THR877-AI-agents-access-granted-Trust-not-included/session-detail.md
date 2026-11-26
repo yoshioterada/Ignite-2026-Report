@@ -8,7 +8,8 @@
 
 > 補足：トランスクリプトでは Agent 365 が「8365」「A365」と書き起こされています。文脈から Agent 365 と判断して表記しています（音声認識の都合で確定はできません）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR877](https://ignite.microsoft.com/en-US/sessions/THR877)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR877](https://ignite.microsoft.com/en-US/sessions/THR877)\
+YouTube URL: [https://www.youtube.com/watch?v=Ym2ESu2-KQM](https://www.youtube.com/watch?v=Ym2ESu2-KQM)
 
 ## 2. 発表者
 

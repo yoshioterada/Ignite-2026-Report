@@ -6,7 +6,8 @@
 
 構成は次の流れです。最初に Microsoft の Bev 氏が、移行を後押しする要因（ライセンス、ハードウェア費用、障害の影響）と、お客様から聞く不安を整理します。続いて Willis Towers Watson（WTW）と Chevron のお客様 2 名が、実際の移行経験を語ります。後半では Roop 氏が、不安への答えとなる製品機能を、3 つのデモを交えて紹介します。最後に Bev 氏が、持ち帰るための実践的な推奨事項で締めます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK402](https://ignite.microsoft.com/en-US/sessions/BRK402)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK402](https://ignite.microsoft.com/en-US/sessions/BRK402)\
+YouTube URL: [https://www.youtube.com/watch?v=075aHrGBSkI](https://www.youtube.com/watch?v=075aHrGBSkI)
 
 ## 2. 発表者
 

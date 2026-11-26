@@ -13,7 +13,8 @@
 
 このセッションを読むと、トークン数の見積もり方、価格 API の見方、コスト計算式、プロンプトキャッシュなどの節約策、そして Azure Monitor を使った集計の流れが分かります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR979](https://ignite.microsoft.com/en-US/sessions/THR979)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR979](https://ignite.microsoft.com/en-US/sessions/THR979)\
+YouTube URL: [https://www.youtube.com/watch?v=HM78LZecuJM](https://www.youtube.com/watch?v=HM78LZecuJM)
 
 ## 2. 発表者
 

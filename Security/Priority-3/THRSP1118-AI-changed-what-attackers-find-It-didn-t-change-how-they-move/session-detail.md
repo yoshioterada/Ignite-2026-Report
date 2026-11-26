@@ -6,7 +6,8 @@
 
 内容は、Illumio の製品が行う「ネットワークの状態（network posture）の自動評価」「脆弱性の到達範囲（blast radius）の計算」「過剰な通信許可の自動削減」の考え方が中心です。画面を操作するデモは行われておらず、スライドと口頭の説明が中心です（詳しくは 6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1118](https://ignite.microsoft.com/en-US/sessions/THRSP1118)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1118](https://ignite.microsoft.com/en-US/sessions/THRSP1118)\
+YouTube URL: [https://www.youtube.com/watch?v=ni6IgFRPi74](https://www.youtube.com/watch?v=ni6IgFRPi74)
 
 ## 2. 発表者
 

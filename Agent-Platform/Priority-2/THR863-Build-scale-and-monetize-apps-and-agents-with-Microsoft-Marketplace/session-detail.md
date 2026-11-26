@@ -6,7 +6,8 @@
 
 発表は「構築（Build）」「収益化（Monetize）」「拡大（Scale）」の 3 段階で進みます。何をどう作るかが、どう売るかを決める、というのが一貫したテーマです。後半では、Marketplace を使って販売を伸ばす段階的な進め方、成長を示す数値、チャネルパートナーの活用、次に使える資料が紹介されています。画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR863](https://ignite.microsoft.com/en-US/sessions/THR863)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR863](https://ignite.microsoft.com/en-US/sessions/THR863)\
+YouTube URL: [https://www.youtube.com/watch?v=MoN5Y7N508w](https://www.youtube.com/watch?v=MoN5Y7N508w)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 比較は Microsoft の登壇者が Copilot 側の立場から行ったものです。この文書でも、結果は「発表者がそう説明した」内容として書いています。比較では、画像生成、Work IQ による同僚の特定、機密ラベルの継承、共有ブックの変更履歴といった具体的な場面が示されました。最後の Q&A では、Work IQ を使った比較かどうか、Claude や ChatGPT に移った顧客を Copilot に戻すための比較指標、auto モデルの透明性、機密ラベルの扱いなどの質問が出ています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK226](https://ignite.microsoft.com/en-US/sessions/BRK226)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK226](https://ignite.microsoft.com/en-US/sessions/BRK226)\
+YouTube URL: [https://www.youtube.com/watch?v=7alJqEjQPvk](https://www.youtube.com/watch?v=7alJqEjQPvk)
 
 ## 2. 発表者
 

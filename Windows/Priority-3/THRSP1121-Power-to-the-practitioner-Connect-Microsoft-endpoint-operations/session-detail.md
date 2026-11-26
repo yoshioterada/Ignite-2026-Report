@@ -12,7 +12,8 @@
 - Entra、Intune、Windows 365、Azure、Entra backup との連携で何ができるのか
 - デモで、ユーザー・デバイス・脆弱性・チケットがどうつながって見えるのか
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1121](https://ignite.microsoft.com/en-US/sessions/THRSP1121)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1121](https://ignite.microsoft.com/en-US/sessions/THRSP1121)\
+YouTube URL: [https://www.youtube.com/watch?v=UR_9HBCXkMQ](https://www.youtube.com/watch?v=UR_9HBCXkMQ)
 
 ## 2. 発表者
 

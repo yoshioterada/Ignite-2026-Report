@@ -6,7 +6,8 @@
 
 全体は「データの露出リスクを把握する」「保護の仕組みを入れる」「AI 利用のリスクを見つけて調べる」「規制への対応を進める」という流れで進みます。なかでも発表の目玉は、**2027 年 1 月から、機密情報の種類（sensitive information type）に基づいて Copilot のグラウンディングやプロンプトを DLP でブロックできるようになる**という発表です。ラベルが付いていないファイルでも対象にできるため、「全ファイルにラベルが付くまで待たずに Copilot の展開を始められる」と説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK342](https://ignite.microsoft.com/en-US/sessions/BRK342)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK342](https://ignite.microsoft.com/en-US/sessions/BRK342)\
+YouTube URL: [https://www.youtube.com/watch?v=tkicc2MIpNg](https://www.youtube.com/watch?v=tkicc2MIpNg)
 
 ## 2. 発表者
 

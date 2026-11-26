@@ -6,7 +6,8 @@
 
 後半は、ManpowerGroup の Amanda Jack 氏を迎えたインタビュー形式です。複数の国に分散していたセキュリティツールを Microsoft のセキュリティスタックに移行した経緯、組織変更の進め方、AI を事業に広げる際の考え方が語られました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK326](https://ignite.microsoft.com/en-US/sessions/BRK326)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK326](https://ignite.microsoft.com/en-US/sessions/BRK326)\
+YouTube URL: [https://www.youtube.com/watch?v=Ymdv-OXGcVI](https://www.youtube.com/watch?v=Ymdv-OXGcVI)
 
 ## 2. 発表者
 

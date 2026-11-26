@@ -8,7 +8,8 @@
 
 発表全体を通した結論は、**「ゼロオペレーションはゼロ人間を意味しない」** という点です。エージェントが動く場面でも、人間が統制（ガバナンス）を担い続けるという考え方が、最初から最後まで一貫しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1109](https://ignite.microsoft.com/en-US/sessions/THRSP1109)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1109](https://ignite.microsoft.com/en-US/sessions/THRSP1109)\
+YouTube URL: [https://www.youtube.com/watch?v=0KIa8le1l1A](https://www.youtube.com/watch?v=0KIa8le1l1A)
 
 ## 2. 発表者
 

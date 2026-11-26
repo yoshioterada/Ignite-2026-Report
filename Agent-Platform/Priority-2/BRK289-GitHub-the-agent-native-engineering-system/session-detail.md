@@ -6,7 +6,8 @@ GitHub が考える「エージェントネイティブなエンジニアリン�
 
 発表全体の主張は、開発の価値の単位はトークン数やコード行数ではなく**成果**であり、目標は「ソフトウェアの仕事を完了させる」ことだ、という点にあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK289](https://ignite.microsoft.com/en-US/sessions/BRK289)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK289](https://ignite.microsoft.com/en-US/sessions/BRK289)\
+YouTube URL: [https://www.youtube.com/watch?v=3BPEyTu-8mw](https://www.youtube.com/watch?v=3BPEyTu-8mw)
 
 ## 2. 発表者
 

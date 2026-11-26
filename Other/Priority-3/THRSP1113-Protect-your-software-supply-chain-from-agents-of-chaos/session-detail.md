@@ -8,7 +8,8 @@
 
 このセッションでは、登壇者が「短いデモ」と予告したうえで、イメージ一覧サイト（images.chainguard.dev）を開いて見せる場面があります。あわせて、コーディングエージェントで試した結果の報告もあります（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1113](https://ignite.microsoft.com/en-US/sessions/THRSP1113)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1113](https://ignite.microsoft.com/en-US/sessions/THRSP1113)\
+YouTube URL: [https://www.youtube.com/watch?v=7kG6sZcAHQE](https://www.youtube.com/watch?v=7kG6sZcAHQE)
 
 ## 2. 発表者
 

@@ -9,7 +9,8 @@
 - 障害対策は「最初から」計画する。後から足すほど難しく、費用もかかる。
 - Azure Infrastructure Resiliency Manager や Resiliency Agent などのツールで、「新規構築時から (Start)」「今ある環境を (Get)」「維持し続ける (Stay)」の各段階を、AI で簡単にできるようになってきた。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK452](https://ignite.microsoft.com/en-US/sessions/BRK452)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK452](https://ignite.microsoft.com/en-US/sessions/BRK452)\
+YouTube URL: [https://www.youtube.com/watch?v=ADjH1TTLx8w](https://www.youtube.com/watch?v=ADjH1TTLx8w)
 
 ## 2. 発表者
 

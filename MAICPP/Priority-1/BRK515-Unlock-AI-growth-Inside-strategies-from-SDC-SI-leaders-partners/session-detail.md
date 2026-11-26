@@ -6,7 +6,8 @@
 
 話題は大きく 4 つです。AI を本番で使い切る顧客の特徴、AI のエコノミクス（コストと成果報酬）、Microsoft Marketplace と co-sell の活用、パートナー同士の連携です。最後に「今後 90 日でパートナーがやるべきこと」を 1 文ずつ挙げて締めています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK515](https://ignite.microsoft.com/en-US/sessions/BRK515)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK515](https://ignite.microsoft.com/en-US/sessions/BRK515)\
+YouTube URL: [https://www.youtube.com/watch?v=6MkzoXW0xsw](https://www.youtube.com/watch?v=6MkzoXW0xsw)
 
 ## 2. 発表者
 

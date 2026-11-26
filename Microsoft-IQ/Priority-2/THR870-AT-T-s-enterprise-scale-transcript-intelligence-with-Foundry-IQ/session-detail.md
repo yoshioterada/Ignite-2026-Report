@@ -8,7 +8,8 @@
 
 もう一つの論点は、数字を調べる情報源と、業務上の「なぜ」を考える知識を組み合わせることです。**データを集めるだけでなく、その意味と関係をエージェントへ伝える必要がある** という、Foundry IQ の今後の方向にも話が広がります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR870](https://ignite.microsoft.com/en-US/sessions/THR870)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR870](https://ignite.microsoft.com/en-US/sessions/THR870)\
+YouTube URL: [https://www.youtube.com/watch?v=tkOiVw-QQK4](https://www.youtube.com/watch?v=tkOiVw-QQK4)
 
 ## 2. 発表者
 

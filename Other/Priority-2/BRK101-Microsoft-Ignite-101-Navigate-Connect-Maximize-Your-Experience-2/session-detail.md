@@ -8,7 +8,8 @@
 
 発表の中心は「事前に計画し、無理をせず、人とつながる」という考え方です。セッションは 0 日目（前日）の開催で、発表者は「本来 45 分の枠と思って準備したが、実際は 1 時間だった」と冒頭で説明しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK101](https://ignite.microsoft.com/en-US/sessions/BRK101)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK101](https://ignite.microsoft.com/en-US/sessions/BRK101)\
+YouTube URL: [https://www.youtube.com/watch?v=MvdVSDSamVE](https://www.youtube.com/watch?v=MvdVSDSamVE)
 
 ## 2. 発表者
 

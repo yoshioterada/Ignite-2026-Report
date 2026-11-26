@@ -6,7 +6,8 @@
 
 デモでは、エンドユーザーが Copilot の利用量を確認する画面、IT 管理者が spending policy（支出ポリシー）を作ってモデルや上限を決め、権限を委任する画面、そしてビジネスリーダーが支出・価値・ポリシーを管理する「Agent 365 business analytics」アプリが示されます。最後に、ライセンスに関する案内もあります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR865](https://ignite.microsoft.com/en-US/sessions/THR865)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR865](https://ignite.microsoft.com/en-US/sessions/THR865)\
+YouTube URL: [https://www.youtube.com/watch?v=d8w0_Hqr1eg](https://www.youtube.com/watch?v=d8w0_Hqr1eg)
 
 ## 2. 発表者
 

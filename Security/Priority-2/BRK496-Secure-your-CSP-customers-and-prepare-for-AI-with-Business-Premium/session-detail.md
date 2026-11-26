@@ -8,7 +8,8 @@
 
 画面を使ったデモはありません。スライドと口頭の説明、司会との対談、パートナーの事例発表で進みます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK496](https://ignite.microsoft.com/en-US/sessions/BRK496)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK496](https://ignite.microsoft.com/en-US/sessions/BRK496)\
+YouTube URL: [https://www.youtube.com/watch?v=qH7moM_fCOg](https://www.youtube.com/watch?v=qH7moM_fCOg)
 
 ## 2. 発表者
 

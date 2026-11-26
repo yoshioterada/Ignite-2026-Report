@@ -14,7 +14,8 @@
 
 > 注意：このセッションに画面操作のデモはありません。製品の技術的な詳細も、ほとんど語られていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/KEY02](https://ignite.microsoft.com/en-US/sessions/KEY02)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/KEY02](https://ignite.microsoft.com/en-US/sessions/KEY02)\
+YouTube URL: [https://www.youtube.com/watch?v=Oe8nJV3yXtk](https://www.youtube.com/watch?v=Oe8nJV3yXtk)
 
 ## 2. 発表者
 

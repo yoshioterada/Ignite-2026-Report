@@ -12,7 +12,8 @@
 
 このセッションには画面を使ったデモが複数あります（詳細は 6 章）。Q&A の時間は設けられておらず、質疑は書き起こしにありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK560](https://ignite.microsoft.com/en-US/sessions/BRK560)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK560](https://ignite.microsoft.com/en-US/sessions/BRK560)\
+YouTube URL: [https://www.youtube.com/watch?v=Ia1KSxhAGn8](https://www.youtube.com/watch?v=Ia1KSxhAGn8)
 
 ## 2. 発表者
 

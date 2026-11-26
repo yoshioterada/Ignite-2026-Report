@@ -6,7 +6,8 @@ Microsoft のサポートを、普段ライセンスを購入しているパー�
 
 両者の違いは、請求・契約を仲介する仕組みに加え、営業段階で協業するかどうかです。**販売経路が変わっても、Unified のサポート提供そのものは Microsoft が担います。**
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1036](https://ignite.microsoft.com/en-US/sessions/THR1036)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1036](https://ignite.microsoft.com/en-US/sessions/THR1036)\
+YouTube URL: [https://www.youtube.com/watch?v=AqyMLg-zgkc](https://www.youtube.com/watch?v=AqyMLg-zgkc)
 
 ## 2. 発表者
 

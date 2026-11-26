@@ -13,7 +13,8 @@
 
 このセッションでは画面を使ったライブデモは行われていません。Avanade の営業向けツールは、ビデオを使って紹介されたと読み取れます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP608](https://ignite.microsoft.com/en-US/sessions/BRKSP608)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP608](https://ignite.microsoft.com/en-US/sessions/BRKSP608)\
+YouTube URL: [https://www.youtube.com/watch?v=BbPRdQK9CDw](https://www.youtube.com/watch?v=BbPRdQK9CDw)
 
 ## 2. 発表者
 

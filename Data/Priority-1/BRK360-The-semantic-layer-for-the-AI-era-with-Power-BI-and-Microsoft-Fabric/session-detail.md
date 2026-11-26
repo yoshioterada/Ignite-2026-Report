@@ -6,7 +6,8 @@
 
 先に結論を書くと、発表の主張は「人間が操作しても、エージェントが答えても、同じ指標なら同じ数字が返る状態をつくる。そのために、ビジネス上の意味（セマンティクス）を一度定義して、あらゆる場所で再利用する」というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK360](https://ignite.microsoft.com/en-US/sessions/BRK360)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK360](https://ignite.microsoft.com/en-US/sessions/BRK360)\
+YouTube URL: [https://www.youtube.com/watch?v=Yz37YryLtI4](https://www.youtube.com/watch?v=Yz37YryLtI4)
 
 ## 2. 発表者
 

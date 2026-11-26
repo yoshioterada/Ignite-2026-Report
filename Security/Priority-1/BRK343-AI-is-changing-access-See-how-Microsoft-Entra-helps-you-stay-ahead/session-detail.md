@@ -6,7 +6,8 @@
 
 発表者は冒頭で、「現在の基盤にある弱点は、エージェントや AI アプリケーションがそのまま引き継ぐ」と述べています。そのため、人に対する ID ガバナンスや権限の整理を後回しにせず、エージェントが増える前に片づける必要がある、というのが全体の出発点です。内容は盛りだくさんで、発表者自身が「時間が足りない」と言いながら進めたセッションです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK343](https://ignite.microsoft.com/en-US/sessions/BRK343)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK343](https://ignite.microsoft.com/en-US/sessions/BRK343)\
+YouTube URL: [https://www.youtube.com/watch?v=ciQTkCm03GA](https://www.youtube.com/watch?v=ciQTkCm03GA)
 
 ## 2. 発表者
 

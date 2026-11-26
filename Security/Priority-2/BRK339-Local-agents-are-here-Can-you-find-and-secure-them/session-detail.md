@@ -8,7 +8,8 @@
 
 デモは 3 回あります。Microsoft 365 管理センターと Intune での発見と封じ込め、Microsoft Entra での動的な権限付与と条件付きアクセス、Defender XDR での調査です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK339](https://ignite.microsoft.com/en-US/sessions/BRK339)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK339](https://ignite.microsoft.com/en-US/sessions/BRK339)\
+YouTube URL: [https://www.youtube.com/watch?v=KDf2p7lhnWQ](https://www.youtube.com/watch?v=KDf2p7lhnWQ)
 
 ## 2. 発表者
 

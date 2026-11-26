@@ -6,7 +6,8 @@
 
 発表の結論は次の一文に集約されています。**賢いエージェントだけでは足りません。正しい事実を与え、できることを制御し、その価値を測る必要があります。** 前半では、顧客側のエージェントと Microsoft 側のエージェントが 1 つのインシデントを一緒に調べるデモが示されました。後半では、その裏側の設計（実行エンジン、インシデントメモリ、セキュリティ・評価・ROI）が説明されています。自社でインシデント対応のエージェントを作ろうとしている開発者や運用担当者が、設計パターンを持ち帰れる内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK314](https://ignite.microsoft.com/en-US/sessions/BRK314)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK314](https://ignite.microsoft.com/en-US/sessions/BRK314)\
+YouTube URL: [https://www.youtube.com/watch?v=wROhVleVBpY](https://www.youtube.com/watch?v=wROhVleVBpY)
 
 ## 2. 発表者
 

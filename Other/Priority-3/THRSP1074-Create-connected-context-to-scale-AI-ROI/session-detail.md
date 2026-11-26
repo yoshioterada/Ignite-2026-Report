@@ -8,7 +8,8 @@
 
 このセッションを読むと、Teamwork Graph がどんなデータをつなぐのか、Spot On が開発ワークフローをどう自動化して日数を短縮したのか、そしてセキュリティ・ガバナンスの面で Atlassian がどんな管理機能を用意しているのかが分かります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1074](https://ignite.microsoft.com/en-US/sessions/THRSP1074)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1074](https://ignite.microsoft.com/en-US/sessions/THRSP1074)\
+YouTube URL: [https://www.youtube.com/watch?v=3JJZQm81HW4](https://www.youtube.com/watch?v=3JJZQm81HW4)
 
 ## 2. 発表者
 

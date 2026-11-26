@@ -8,7 +8,8 @@
 
 > 補足：公式概要には BHP、Chevron、Constellation の名前が挙がっていますが、実際の発表で名前が出てくる顧客は Chevron、TotalEnergies、電力会社 1 社（音声認識の都合で表記が確定できません、後述）などです。BHP と Constellation の名前は、トランスクリプトでは確認できませんでした。また、ハイドロ発電の最適化にも触れられていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK458](https://ignite.microsoft.com/en-US/sessions/BRK458)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK458](https://ignite.microsoft.com/en-US/sessions/BRK458)\
+YouTube URL: [https://www.youtube.com/watch?v=wy8gMMhhIOY](https://www.youtube.com/watch?v=wy8gMMhhIOY)
 
 ## 2. 発表者
 

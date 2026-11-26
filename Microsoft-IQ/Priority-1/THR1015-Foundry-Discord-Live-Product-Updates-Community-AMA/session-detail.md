@@ -6,7 +6,8 @@
 
 通常のブレークアウトとは違う「コミュニティセッション」で、Nick 氏のパートはスライドを使わず、デモと対話が中心です。Foundry の新機能としては、Foundry Canvas、Copilot harness で作るエージェント、model router、routine（定期実行）、MAI Transcribe 2 streaming、継続的改善（insights と agent optimizer）が画面を使って紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1015](https://ignite.microsoft.com/en-US/sessions/THR1015)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1015](https://ignite.microsoft.com/en-US/sessions/THR1015)\
+YouTube URL: [https://www.youtube.com/watch?v=nAMd4QI3nfA](https://www.youtube.com/watch?v=nAMd4QI3nfA)
 
 ## 2. 発表者
 

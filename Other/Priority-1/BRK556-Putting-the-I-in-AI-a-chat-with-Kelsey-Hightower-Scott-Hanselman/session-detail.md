@@ -8,7 +8,8 @@ Kelsey 氏の立場は「AI そのものは否定しない。ただし AI を魔
 
 AI で何を作るかに迷っている開発者や、AI の導入を進める立場の IT 担当者が、考え方の整理に使える内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK556](https://ignite.microsoft.com/en-US/sessions/BRK556)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK556](https://ignite.microsoft.com/en-US/sessions/BRK556)\
+YouTube URL: [https://www.youtube.com/watch?v=DL3_91x7gM8](https://www.youtube.com/watch?v=DL3_91x7gM8)
 
 ## 2. 発表者
 

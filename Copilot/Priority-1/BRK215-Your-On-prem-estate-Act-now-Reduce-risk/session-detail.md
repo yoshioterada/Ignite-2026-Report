@@ -6,7 +6,8 @@
 
 発表の結論は明快です。**サポート終了バージョンを使わない、パッチを速く当てる、そしてインターネットに直接公開せず、認証付きのリバースプロキシの背後に置く**。この 3 点が、最も効果的な対策として繰り返し強調されました。あわせて、Microsoft 側が「Configure（構成）、Protect（保護）、Patch（パッチ）」の 3 本柱で、オンプレミス製品のセキュリティを引き上げる計画（新機能は来年の初めに提供予定）が示されています。画面を使ったデモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK215](https://ignite.microsoft.com/en-US/sessions/BRK215)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK215](https://ignite.microsoft.com/en-US/sessions/BRK215)\
+YouTube URL: [https://www.youtube.com/watch?v=byaL2mfsTSs](https://www.youtube.com/watch?v=byaL2mfsTSs)
 
 ## 2. 発表者
 

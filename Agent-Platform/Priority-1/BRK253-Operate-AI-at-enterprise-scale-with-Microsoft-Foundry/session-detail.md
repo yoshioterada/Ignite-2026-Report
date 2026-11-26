@@ -8,7 +8,8 @@
 
 結論として、**Foundry には組み込みのガバナンス機能があり、Agent 365 や Purview、Defender など他の Microsoft 製品とも連携して範囲を広げられる**、というのが発表の骨子です。機能にはプレビュー中のものや早期アクセスのものが含まれます。この点は 7 章で整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK253](https://ignite.microsoft.com/en-US/sessions/BRK253)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK253](https://ignite.microsoft.com/en-US/sessions/BRK253)\
+YouTube URL: [https://www.youtube.com/watch?v=gP-LvaNUBWQ](https://www.youtube.com/watch?v=gP-LvaNUBWQ)
 
 ## 2. 発表者
 

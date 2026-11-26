@@ -15,7 +15,8 @@
 
 > 補足：トランスクリプトは映画の音声を含むため、話者の区別が付きにくく、人名や固有名詞に音声認識の誤りが疑われる箇所があります。本文では、自己紹介や発言の中で名前が確認できる場合に限って人名を書き、それ以外は「ある出演者」のように書いています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP638](https://ignite.microsoft.com/en-US/sessions/BRKSP638)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP638](https://ignite.microsoft.com/en-US/sessions/BRKSP638)\
+YouTube URL: [https://www.youtube.com/watch?v=Mikrk88KBkQ](https://www.youtube.com/watch?v=Mikrk88KBkQ)
 
 ## 2. 発表者
 

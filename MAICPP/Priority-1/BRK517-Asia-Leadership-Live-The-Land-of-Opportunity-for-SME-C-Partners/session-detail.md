@@ -6,7 +6,8 @@
 
 発表は 3 部構成です。最初に Gustavo Fuchs 氏が FY27 の優先事項とパートナー向けの機会を話し、次に Rachel Bondi 氏との対談（fireside chat）で顧客の声が語られ、最後に Lily 氏が、クイズを交えてマーケティングの 3 つの習慣を紹介します。全体を通じたメッセージは、**「Microsoft が持つ導入済み顧客基盤（install base）と AI を組み合わせ、パートナー自身も AI を使う側（customer zero）になって、ビジネス部門の意思決定者に直接話しに行こう」** というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK517](https://ignite.microsoft.com/en-US/sessions/BRK517)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK517](https://ignite.microsoft.com/en-US/sessions/BRK517)\
+YouTube URL: [https://www.youtube.com/watch?v=gWOhB-s490U](https://www.youtube.com/watch?v=gWOhB-s490U)
 
 ## 2. 発表者
 

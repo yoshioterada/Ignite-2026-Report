@@ -14,7 +14,8 @@
 - プロンプトに添付したファイルやリンクの中身に対する DLP 制御
 - ローカルエージェントへの DLP の拡張
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK329](https://ignite.microsoft.com/en-US/sessions/BRK329)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK329](https://ignite.microsoft.com/en-US/sessions/BRK329)\
+YouTube URL: [https://www.youtube.com/watch?v=8_ad8PcB8EY](https://www.youtube.com/watch?v=8_ad8PcB8EY)
 
 ## 2. 発表者
 

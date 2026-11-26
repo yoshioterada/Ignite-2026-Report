@@ -12,7 +12,8 @@
 
 発表者は、開発側の生産性とセキュリティ側の可視性・統制が、同じ操作の表と裏として同時に成立することを、実機の画面を行き来しながら見せています。なお冒頭で、発売前のハードウェアや未リリースの機能を使うため、デモがうまくいかない可能性があると断っています（7 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP595](https://ignite.microsoft.com/en-US/sessions/BRKSP595)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP595](https://ignite.microsoft.com/en-US/sessions/BRKSP595)\
+YouTube URL: [https://www.youtube.com/watch?v=l0rmwkFEvPY](https://www.youtube.com/watch?v=l0rmwkFEvPY)
 
 ## 2. 発表者
 

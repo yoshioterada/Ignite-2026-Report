@@ -6,7 +6,8 @@
 
 結論を先に言うと、発表全体のメッセージは「エージェントごとに管理の仕組みを作るのではなく、**すべてのエージェントに共通のコントロールプレーンを持つ**」「従業員に対して行っている ID 管理（採用から退職まで）をエージェントにも同じように適用する」の 2 点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK345](https://ignite.microsoft.com/en-US/sessions/BRK345)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK345](https://ignite.microsoft.com/en-US/sessions/BRK345)\
+YouTube URL: [https://www.youtube.com/watch?v=7kRTopS4Xfg](https://www.youtube.com/watch?v=7kRTopS4Xfg)
 
 ## 2. 発表者
 

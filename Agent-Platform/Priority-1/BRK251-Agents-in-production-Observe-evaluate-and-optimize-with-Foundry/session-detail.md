@@ -6,7 +6,8 @@
 
 流れは、構築段階（trace、データセット、評価）、本番運用（insights と Agent Optimizer）、複数エージェントの監視（fleet view とコスト）の 3 部構成です。それぞれに画面を使ったデモがあり、最後に Tata Consultancy Services（TCS）の事例として、AKS 運用エージェントのトークン消費を約 66% 減らした話が紹介されます。要点は、**trace → 評価 → insights → 最適化という改善のループを、継続的に回す**ことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK251](https://ignite.microsoft.com/en-US/sessions/BRK251)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK251](https://ignite.microsoft.com/en-US/sessions/BRK251)\
+YouTube URL: [https://www.youtube.com/watch?v=jiOBXBAruCM](https://www.youtube.com/watch?v=jiOBXBAruCM)
 
 ## 2. 発表者
 

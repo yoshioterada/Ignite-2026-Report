@@ -6,7 +6,8 @@
 
 エージェントを使えばアイデアから動く POC まで数分で到達できます。しかし、企業の本番環境ではデータベース、認証、バックエンドの設定、既存データへの安全な接続、コンプライアンスとガバナンスへの準拠が必要です。Rayfin はこれらを、アプリを **Microsoft Fabric** に公開（publish）することで引き受ける、という位置づけで説明されます。後半では、Rayfin 向けの新しいツール **Fabricator** のライブデモと、一般提供（GA）を含む Ignite での発表内容が紹介されます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR880](https://ignite.microsoft.com/en-US/sessions/THR880)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR880](https://ignite.microsoft.com/en-US/sessions/THR880)\
+YouTube URL: [https://www.youtube.com/watch?v=ijFzanMpxCA](https://www.youtube.com/watch?v=ijFzanMpxCA)
 
 ## 2. 発表者
 

@@ -10,7 +10,8 @@
 
 > 注意：英語のトランスクリプトは、最後の「今日から始める 3 つの方法」の 3 つ目の途中（「大きなマルチエージェントの継続的なワークフローに進む」と言いかけたところ）で終わっています。以降の内容は録音からは確認できません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK318](https://ignite.microsoft.com/en-US/sessions/BRK318)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK318](https://ignite.microsoft.com/en-US/sessions/BRK318)\
+YouTube URL: [https://www.youtube.com/watch?v=SAg2w_LxGEQ](https://www.youtube.com/watch?v=SAg2w_LxGEQ)
 
 ## 2. 発表者
 

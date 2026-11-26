@@ -6,7 +6,8 @@
 
 前半で、クラウドネイティブでない構成と、Azure Container Apps での構成を比較します。後半は、実際に動くアプリを使ったライブデモです。デモでは、トラフィック増加に伴う自動スケール、リビジョン間のトラフィック分割とロールバック、そして新機能として発表された **Debug with SRE Agent** による原因調査と復旧を順に見せています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1026](https://ignite.microsoft.com/en-US/sessions/THR1026)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1026](https://ignite.microsoft.com/en-US/sessions/THR1026)\
+YouTube URL: [https://www.youtube.com/watch?v=XicNLZ-U860](https://www.youtube.com/watch?v=XicNLZ-U860)
 
 ## 2. 発表者
 

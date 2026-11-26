@@ -8,7 +8,8 @@
 
 このセッションでは画面を使ったデモは行われていません。スライドと対話形式の説明が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK335](https://ignite.microsoft.com/en-US/sessions/BRK335)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK335](https://ignite.microsoft.com/en-US/sessions/BRK335)\
+YouTube URL: [https://www.youtube.com/watch?v=VQfSTXngCaM](https://www.youtube.com/watch?v=VQfSTXngCaM)
 
 ## 2. 発表者
 

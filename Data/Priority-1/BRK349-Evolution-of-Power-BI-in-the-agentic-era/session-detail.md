@@ -8,7 +8,8 @@
 
 この記事を読むと、セッションで何が発表されたか、どの機能が GA で、どれがプレビューや「近日公開」なのかを整理して把握できます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK349](https://ignite.microsoft.com/en-US/sessions/BRK349)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK349](https://ignite.microsoft.com/en-US/sessions/BRK349)\
+YouTube URL: [https://www.youtube.com/watch?v=IVdDFdnMHq8](https://www.youtube.com/watch?v=IVdDFdnMHq8)
 
 ## 2. 発表者
 

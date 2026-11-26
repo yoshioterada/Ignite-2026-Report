@@ -8,7 +8,8 @@
 
 > 補足：MXC は「初期段階にある」と登壇者自身が述べています。オープンソースで公開開発されており、現時点ではコンテナーごとにポリシーの書き方が揃っていないなど、制約も説明されました（7 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK390](https://ignite.microsoft.com/en-US/sessions/BRK390)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK390](https://ignite.microsoft.com/en-US/sessions/BRK390)\
+YouTube URL: [https://www.youtube.com/watch?v=bVlGlQy9H_g](https://www.youtube.com/watch?v=bVlGlQy9H_g)
 
 ## 2. 発表者
 

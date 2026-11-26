@@ -8,7 +8,8 @@
 
 なお、トランスクリプトは、チームで作業する「ワークスペース」の紹介の途中で終わっており、Q&A は含まれていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1031](https://ignite.microsoft.com/en-US/sessions/THR1031)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1031](https://ignite.microsoft.com/en-US/sessions/THR1031)\
+YouTube URL: [https://www.youtube.com/watch?v=7IK_71kb18s](https://www.youtube.com/watch?v=7IK_71kb18s)
 
 ## 2. 発表者
 

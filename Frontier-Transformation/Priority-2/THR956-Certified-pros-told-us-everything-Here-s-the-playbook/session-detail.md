@@ -6,7 +6,8 @@
 
 結論を先に言うと、**暗記ではなく理解し、実際に手を動かし、時間に余裕を持って臨むこと**です。後半では、AZ-104 の練習問題 2 問を例に、正解以外の選択肢まで説明できるようになる練習が紹介されます。画面操作を伴うデモは行われていません（スライドで問題を読み上げる形式です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR956](https://ignite.microsoft.com/en-US/sessions/THR956)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR956](https://ignite.microsoft.com/en-US/sessions/THR956)\
+YouTube URL: [https://www.youtube.com/watch?v=2zraWYqzKtg](https://www.youtube.com/watch?v=2zraWYqzKtg)
 
 ## 2. 発表者
 

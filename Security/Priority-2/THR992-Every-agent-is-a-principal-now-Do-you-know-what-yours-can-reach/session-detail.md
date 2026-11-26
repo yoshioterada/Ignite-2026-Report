@@ -6,7 +6,8 @@ Copilot Studio でエージェントを公開すると、裏側の Microsoft Ent
 
 結論を先に書くと、エージェントの種類によって、エージェント ID が作られる時期と、「付与済みのアクセス許可」に表示される内容が異なります。さらに、エージェント ID が導入される前に作った古いエージェントには ID がなく、移行の方針を決める必要があります。セッションの最後には、会社に戻ってから確認すべきことが 4 点にまとめられています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR992](https://ignite.microsoft.com/en-US/sessions/THR992)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR992](https://ignite.microsoft.com/en-US/sessions/THR992)\
+YouTube URL: [https://www.youtube.com/watch?v=g_KTnZHEQj8](https://www.youtube.com/watch?v=g_KTnZHEQj8)
 
 ## 2. 発表者
 

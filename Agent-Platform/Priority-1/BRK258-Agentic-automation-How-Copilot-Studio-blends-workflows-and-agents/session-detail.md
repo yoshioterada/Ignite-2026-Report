@@ -13,7 +13,8 @@
 
 ワークフローにエージェントを組み込みたい開発者や IT 担当者が、機能の全体像と、コストの見積もり方まで把握できる構成です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK258](https://ignite.microsoft.com/en-US/sessions/BRK258)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK258](https://ignite.microsoft.com/en-US/sessions/BRK258)\
+YouTube URL: [https://www.youtube.com/watch?v=AHB2g2UFo1E](https://www.youtube.com/watch?v=AHB2g2UFo1E)
 
 ## 2. 発表者
 

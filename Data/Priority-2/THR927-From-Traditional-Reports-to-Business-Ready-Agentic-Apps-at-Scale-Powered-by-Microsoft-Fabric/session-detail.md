@@ -6,7 +6,8 @@
 
 発表は、課題、アーキテクチャ、構築を速める 4 つの AI スキル、約 3 分のデモ動画、そして得られた教訓の順に進みます。中心の主張は、**意味（用語の定義、指標、ルール）を AI 対応のセマンティックモデルに 1 度だけ定義し、1 つの基盤から複数の利用形態を提供する**ことです。デモは、録画された約 3 分の動画の上映です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR927](https://ignite.microsoft.com/en-US/sessions/THR927)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR927](https://ignite.microsoft.com/en-US/sessions/THR927)\
+YouTube URL: [https://www.youtube.com/watch?v=Bi8ES9r0TrI](https://www.youtube.com/watch?v=Bi8ES9r0TrI)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表の出発点は「デモから本番にどう進むか」という課題です。「2028 年までに 13 億を超えるエージェントが作られ、その 80% 以上が音声でやり取りされる」という市場予測を引きつつ、「現在、1 つの簡単な機能ですらスケールさせた企業は約 4 分の 1」と説明しています。この差を埋めるために、モデルの選択肢、ビルドからデプロイ・運用までのライフサイクル管理、電話連携が強化された、というのが発表の骨子です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK244](https://ignite.microsoft.com/en-US/sessions/BRK244)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK244](https://ignite.microsoft.com/en-US/sessions/BRK244)\
+YouTube URL: [https://www.youtube.com/watch?v=WWlyV-dyw8w](https://www.youtube.com/watch?v=WWlyV-dyw8w)
 
 ## 2. 発表者
 

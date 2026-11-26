@@ -8,7 +8,8 @@
 
 デモは多く、Rust への書き換え、スキル生成、フック、Blender による 3D 再現、GitHub Actions / Azure Pipelines での自動修正、セッションプロトコルを使った Windows デスクトップアプリの作成が順に行われます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1072](https://ignite.microsoft.com/en-US/sessions/THRSP1072)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1072](https://ignite.microsoft.com/en-US/sessions/THRSP1072)\
+YouTube URL: [https://www.youtube.com/watch?v=vmqqSgM8bjw](https://www.youtube.com/watch?v=vmqqSgM8bjw)
 
 ## 2. 発表者
 

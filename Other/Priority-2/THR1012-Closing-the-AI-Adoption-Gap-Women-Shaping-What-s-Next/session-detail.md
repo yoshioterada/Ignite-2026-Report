@@ -8,7 +8,8 @@
 
 最初に示された調査データのとおり、AI を使う女性は男性より少なく、使っても評価されにくいという現実があります。パネルでは、それを変えるための具体的な行動が語られています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1012](https://ignite.microsoft.com/en-US/sessions/THR1012)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1012](https://ignite.microsoft.com/en-US/sessions/THR1012)\
+YouTube URL: [https://www.youtube.com/watch?v=4fEzht3UX1E](https://www.youtube.com/watch?v=4fEzht3UX1E)
 
 ## 2. 発表者
 

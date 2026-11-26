@@ -6,7 +6,8 @@
 
 最も印象的な数字は、GitHub Copilot が Foundry 上で、同じプロンプト・同じリクエスト・同じモデルのまま、usage-based billing を開始した 6 月から現在までに、**費用を 68% 減らした**という点です。この記事では、その背景にある仕組みと、読者が自分のアプリで取れる手段を整理します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR862](https://ignite.microsoft.com/en-US/sessions/THR862)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR862](https://ignite.microsoft.com/en-US/sessions/THR862)\
+YouTube URL: [https://www.youtube.com/watch?v=ZRypxn2J9J8](https://www.youtube.com/watch?v=ZRypxn2J9J8)
 
 ## 2. 発表者
 

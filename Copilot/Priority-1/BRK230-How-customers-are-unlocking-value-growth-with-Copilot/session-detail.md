@@ -14,7 +14,8 @@
 
 なお、このセッションでは画面を使ったデモは行われていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK230](https://ignite.microsoft.com/en-US/sessions/BRK230)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK230](https://ignite.microsoft.com/en-US/sessions/BRK230)\
+YouTube URL: [https://www.youtube.com/watch?v=A-FxCIhgcQ4](https://www.youtube.com/watch?v=A-FxCIhgcQ4)
 
 ## 2. 発表者
 

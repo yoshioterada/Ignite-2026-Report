@@ -6,7 +6,8 @@
 
 ポイントは、**人が行うのは変更の承認 1 回だけで、検知から修正までの流れをエージェントが進める**ことと、**そのエージェントを ServiceNow Control Tower と Agent 365 の両方で管理する**ことです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1137](https://ignite.microsoft.com/en-US/sessions/THRSP1137)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1137](https://ignite.microsoft.com/en-US/sessions/THRSP1137)\
+YouTube URL: [https://www.youtube.com/watch?v=PlKoeuRbikY](https://www.youtube.com/watch?v=PlKoeuRbikY)
 
 ## 2. 発表者
 

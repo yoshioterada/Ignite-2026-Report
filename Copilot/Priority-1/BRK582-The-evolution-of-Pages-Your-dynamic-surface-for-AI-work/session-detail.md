@@ -8,7 +8,8 @@
 
 > 注意：デモの対象は Frontier プログラムで順次提供される機能です。提供状況は 9 章のまとめと 5.10 の記述のとおり、発表時点の予定です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK582](https://ignite.microsoft.com/en-US/sessions/BRK582)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK582](https://ignite.microsoft.com/en-US/sessions/BRK582)\
+YouTube URL: [https://www.youtube.com/watch?v=3BdbIEgzzOs](https://www.youtube.com/watch?v=3BdbIEgzzOs)
 
 ## 2. 発表者
 

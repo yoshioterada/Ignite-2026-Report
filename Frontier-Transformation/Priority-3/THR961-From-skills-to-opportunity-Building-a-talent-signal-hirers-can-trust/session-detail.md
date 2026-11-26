@@ -6,7 +6,8 @@
 
 発表の問いは、「スキルを一覧に書くだけの状態から、仕事を得るための証拠に変えるにはどうすればよいか」というものです。例として、GitHub Copilot を毎日使っているソフトウェアエンジニアの Ellis（架空の人物）が取り上げられます。Ellis の GitHub Copilot での実際の作業をもとに、Microsoft が習熟度（proficiency）を評価し、本人が許可すれば、その結果が LinkedIn のプロフィールに信頼できるシグナルとして表示される、という流れです。公開から約 3 か月の初期成果と、質疑応答（Q&A）も含まれます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR961](https://ignite.microsoft.com/en-US/sessions/THR961)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR961](https://ignite.microsoft.com/en-US/sessions/THR961)\
+YouTube URL: [https://www.youtube.com/watch?v=zFzu50x3ZFs](https://www.youtube.com/watch?v=zFzu50x3ZFs)
 
 ## 2. 発表者
 

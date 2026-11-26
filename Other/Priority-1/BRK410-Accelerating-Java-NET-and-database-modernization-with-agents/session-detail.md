@@ -8,7 +8,8 @@
 
 > 補足：音声認識では CLI の名前が「modernized CLI」と聞こえる箇所があります。`modernize plan create` のように読み上げられた箇所に合わせ、この文書では「modernize CLI」と書き、コマンド名もその表記にしています（コマンドの綴りは音声から聞こえた範囲のものです）。架空の会社名も、音声認識で「Caldova」「Coldova」などと揺れており、この文書では「Caldova」に統一しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK410](https://ignite.microsoft.com/en-US/sessions/BRK410)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK410](https://ignite.microsoft.com/en-US/sessions/BRK410)\
+YouTube URL: [https://www.youtube.com/watch?v=I4RmpEAA_bE](https://www.youtube.com/watch?v=I4RmpEAA_bE)
 
 ## 2. 発表者
 

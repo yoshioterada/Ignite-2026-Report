@@ -10,7 +10,8 @@
 
 > 補足：この基調講演には質疑応答のセクションはありません。そのため Q&A の節は設けていません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/KEY01](https://ignite.microsoft.com/en-US/sessions/KEY01)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/KEY01](https://ignite.microsoft.com/en-US/sessions/KEY01)\
+YouTube URL: [https://www.youtube.com/watch?v=-JSecnudwvY](https://www.youtube.com/watch?v=-JSecnudwvY)
 
 ## 2. 発表者
 

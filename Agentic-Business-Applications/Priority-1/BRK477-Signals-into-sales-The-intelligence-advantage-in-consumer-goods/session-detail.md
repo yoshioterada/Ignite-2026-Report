@@ -12,7 +12,8 @@
 
 このセッションでは画面を使ったライブデモは行われていません。パネルの途中で、顧客向けエージェントを紹介するビデオが流れました（6 章を参照）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK477](https://ignite.microsoft.com/en-US/sessions/BRK477)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK477](https://ignite.microsoft.com/en-US/sessions/BRK477)\
+YouTube URL: [https://www.youtube.com/watch?v=glrAVNkMIoo](https://www.youtube.com/watch?v=glrAVNkMIoo)
 
 ## 2. 発表者
 

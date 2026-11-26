@@ -6,7 +6,8 @@
 
 後半では、EY の Ken Robb 氏が設計パートナーとして使った立場から、現場の見方を語ります。結論は一貫していて、**根本対策はあくまでパッチ適用**であり、シールドはそれまでの時間を稼ぐ手段です。もう 1 つの要点は、資産やビジネスのコンテキストを整理しておくことが、自動化の効果を左右するという点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK316](https://ignite.microsoft.com/en-US/sessions/BRK316)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK316](https://ignite.microsoft.com/en-US/sessions/BRK316)\
+YouTube URL: [https://www.youtube.com/watch?v=KG0AmW9SEkM](https://www.youtube.com/watch?v=KG0AmW9SEkM)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 登壇者は冒頭で、見せる内容はすべて本番環境のもので、デモ用の模擬データではないと断っています。発表時間は 25 分です。最も強調されたのは、コードを書かせる前の「質問による要件の詰め込み」に時間をかけること、そして人間が計画とコード品質の確認に残ることです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1002](https://ignite.microsoft.com/en-US/sessions/THR1002)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1002](https://ignite.microsoft.com/en-US/sessions/THR1002)\
+YouTube URL: [https://www.youtube.com/watch?v=fAm5Y9F0xng](https://www.youtube.com/watch?v=fAm5Y9F0xng)
 
 ## 2. 発表者
 

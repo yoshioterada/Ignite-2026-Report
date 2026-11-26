@@ -6,7 +6,8 @@
 
 発話からは、スライドや製品の画面を使った説明は確認できず、デモも行われていません。後半で、不在だった登壇者が話す予定だった要点（ガードレール、評価、人間の関与と、月曜日からできる三つの対策）が司会によって代読されます。内容は、エージェントを安全に作るための考え方と、規制のある業界での実情を知りたい人向けです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1009](https://ignite.microsoft.com/en-US/sessions/THR1009)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1009](https://ignite.microsoft.com/en-US/sessions/THR1009)\
+YouTube URL: [https://www.youtube.com/watch?v=dWcwwQhdfho](https://www.youtube.com/watch?v=dWcwwQhdfho)
 
 ## 2. 発表者
 

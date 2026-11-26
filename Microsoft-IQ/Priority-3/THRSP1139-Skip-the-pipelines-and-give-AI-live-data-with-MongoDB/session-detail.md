@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモが行われています（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1139](https://ignite.microsoft.com/en-US/sessions/THRSP1139)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1139](https://ignite.microsoft.com/en-US/sessions/THRSP1139)\
+YouTube URL: [https://www.youtube.com/watch?v=-SK0SwhsVl4](https://www.youtube.com/watch?v=-SK0SwhsVl4)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 Ignite で発表された新機能 **Business Plugins**、EY による大規模運用の事例、Rayfin を使ったアプリ構築のデモが含まれます。発表者自身が「これはレベル 100 の内容」と述べているとおり、製品の全体像をつかむための入門的な位置づけです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK305](https://ignite.microsoft.com/en-US/sessions/BRK305)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK305](https://ignite.microsoft.com/en-US/sessions/BRK305)\
+YouTube URL: [https://www.youtube.com/watch?v=9OXKXmAsFu4](https://www.youtube.com/watch?v=9OXKXmAsFu4)
 
 ## 2. 発表者
 

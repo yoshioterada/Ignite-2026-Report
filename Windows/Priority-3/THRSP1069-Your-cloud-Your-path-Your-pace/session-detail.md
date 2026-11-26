@@ -10,7 +10,8 @@
 
 発表中には、Compass の動作を示すデモ（発話上は短い動画）と、vSphere 環境への AVD Hybrid 適用を示すデモの 2 本があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1069](https://ignite.microsoft.com/en-US/sessions/THRSP1069)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1069](https://ignite.microsoft.com/en-US/sessions/THRSP1069)\
+YouTube URL: [https://www.youtube.com/watch?v=8Vcp6w8C8NE](https://www.youtube.com/watch?v=8Vcp6w8C8NE)
 
 ## 2. 発表者
 

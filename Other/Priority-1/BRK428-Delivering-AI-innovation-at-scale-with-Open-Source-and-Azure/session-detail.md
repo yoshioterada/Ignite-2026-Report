@@ -6,7 +6,8 @@
 
 公式の概要には「デモ中心のセッション」とありますが、**実際には画面を使ったデモは行われず、スライドと口頭の説明、そして会場との質疑応答が中心**でした。メッセージは、モデルと実行場所を自分で選べる「AI learning loop」を、オープンソースで自分たちの管理下に置こう、というものです。登壇者は冒頭で、紹介する内容はすべてオープンで、自宅や Raspberry Pi でも動かして自分の AI スタックを組めると話しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK428](https://ignite.microsoft.com/en-US/sessions/BRK428)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK428](https://ignite.microsoft.com/en-US/sessions/BRK428)\
+YouTube URL: [https://www.youtube.com/watch?v=sU5R4raZkRA](https://www.youtube.com/watch?v=sU5R4raZkRA)
 
 ## 2. 発表者
 

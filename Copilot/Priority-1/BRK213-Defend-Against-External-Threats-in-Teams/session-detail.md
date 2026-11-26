@@ -12,7 +12,8 @@
 
 この文書では、発表で語られた内容を順に整理します。各機能の提供状況（GA、パブリックプレビューなど）も、発表で語られた範囲で併記しました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK213](https://ignite.microsoft.com/en-US/sessions/BRK213)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK213](https://ignite.microsoft.com/en-US/sessions/BRK213)\
+YouTube URL: [https://www.youtube.com/watch?v=lVrLm87w_OE](https://www.youtube.com/watch?v=lVrLm87w_OE)
 
 ## 2. 発表者
 

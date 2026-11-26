@@ -6,7 +6,8 @@
 
 全体を通して、実際の画面を使ったデモが中心です。ネットワーク側の 4 つの機能のうち、Adaptive Virtual Patching は Ashish が操作の過程を口頭で説明しながら進めたデモです。残りの 3 つ（Azure Firewall のマルウェア検出、アプリケーション脅威防御、Azure Bastion の RDP vision / SSH vision）は、"Welcome to ..." や "Today, I'm going to demonstrate ..." と一人称で語りかけるナレーションが入るデモで、ライブの操作ではなく解説つきの映像が流れた形に聞こえます（録画かどうかを明言する発言はありません）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK330](https://ignite.microsoft.com/en-US/sessions/BRK330)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK330](https://ignite.microsoft.com/en-US/sessions/BRK330)\
+YouTube URL: [https://www.youtube.com/watch?v=mONiQX0HCas](https://www.youtube.com/watch?v=mONiQX0HCas)
 
 ## 2. 発表者
 

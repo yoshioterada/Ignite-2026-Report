@@ -6,7 +6,8 @@
 
 最初に結論を書くと、Foundry を使っている場合、**移行のために利用者がやるべき作業は発表では求められていません**。Foundry 上の Web 検索（general web search）はすでに Web IQ に切り替わっており、既存の仕組みはそのまま動き続けると説明されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR872](https://ignite.microsoft.com/en-US/sessions/THR872)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR872](https://ignite.microsoft.com/en-US/sessions/THR872)\
+YouTube URL: [https://www.youtube.com/watch?v=F8xxE_-CDV8](https://www.youtube.com/watch?v=F8xxE_-CDV8)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 後半では、今週 GA になった **Copilot Managed Runtime**（Microsoft の外のツールで作ったアプリも動かせるホスティング基盤）を取り上げ、Power Platform との管理・ガバナンスの違いを説明します。さらに、運用（ホスト、ALM、モニタリング）、コスト管理、そして Copilot Cowork から Power Platform を管理する拡張性のデモが続きます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK382](https://ignite.microsoft.com/en-US/sessions/BRK382)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK382](https://ignite.microsoft.com/en-US/sessions/BRK382)\
+YouTube URL: [https://www.youtube.com/watch?v=1nD3sEe1JYw](https://www.youtube.com/watch?v=1nD3sEe1JYw)
 
 ## 2. 発表者
 

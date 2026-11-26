@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったライブデモは行われていません。Sales Agent を紹介するビデオが 1 本上映されています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK535](https://ignite.microsoft.com/en-US/sessions/BRK535)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK535](https://ignite.microsoft.com/en-US/sessions/BRK535)\
+YouTube URL: [https://www.youtube.com/watch?v=FYxjzD-HY0U](https://www.youtube.com/watch?v=FYxjzD-HY0U)
 
 ## 2. 発表者
 

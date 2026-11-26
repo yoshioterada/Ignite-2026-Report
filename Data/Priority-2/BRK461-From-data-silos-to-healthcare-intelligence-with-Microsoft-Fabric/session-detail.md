@@ -6,7 +6,8 @@
 
 最後に質疑応答があり、ガバナンス枠組みの作り方と、患者アウトカムの測定方法が取り上げられました。医療に限らず、データ基盤を AI 活用につなげたい方に役立つ内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK461](https://ignite.microsoft.com/en-US/sessions/BRK461)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK461](https://ignite.microsoft.com/en-US/sessions/BRK461)\
+YouTube URL: [https://www.youtube.com/watch?v=wKKWSpcHQZk](https://www.youtube.com/watch?v=wKKWSpcHQZk)
 
 ## 2. 発表者
 

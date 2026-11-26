@@ -6,7 +6,8 @@
 
 この記事では、デモで語られた順に設定項目と推奨値を整理し、最後に Q&A の要点をまとめます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR891](https://ignite.microsoft.com/en-US/sessions/THR891)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR891](https://ignite.microsoft.com/en-US/sessions/THR891)\
+YouTube URL: [https://www.youtube.com/watch?v=bWa4eDSmwNg](https://www.youtube.com/watch?v=bWa4eDSmwNg)
 
 ## 2. 発表者
 

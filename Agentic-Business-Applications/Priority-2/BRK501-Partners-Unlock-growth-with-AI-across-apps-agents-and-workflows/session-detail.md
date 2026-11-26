@@ -6,7 +6,8 @@
 
 発表の軸は、個人の生産性向上とは異なり、**組織が所有する業務プロセスにはエージェント・ワークフロー・アプリの 3 点セットが必要になる**という考え方です。そのうえで、従来のマネージドサービスの収益が圧縮される一方で、エージェントのライフサイクル全体を支える次世代のマネージドサービスに価値が移る、という見通しが示されました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK501](https://ignite.microsoft.com/en-US/sessions/BRK501)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK501](https://ignite.microsoft.com/en-US/sessions/BRK501)\
+YouTube URL: [https://www.youtube.com/watch?v=GX3YHt0aZO4](https://www.youtube.com/watch?v=GX3YHt0aZO4)
 
 ## 2. 発表者
 

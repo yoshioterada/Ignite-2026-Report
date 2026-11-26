@@ -10,7 +10,8 @@
 - 防御側も、エージェントと人が協働できる「統合された」基盤（統合データ基盤と共有セキュリティコンテキスト）が必要である。
 - 導入は「全部入れ替え」でも「統合されていない新ツールの積み増し」でもなく、すでに使える ISOC（Sentinel と Defender）から始められる。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK324](https://ignite.microsoft.com/en-US/sessions/BRK324)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK324](https://ignite.microsoft.com/en-US/sessions/BRK324)\
+YouTube URL: [https://www.youtube.com/watch?v=Rz1Ky9Kf54I](https://www.youtube.com/watch?v=Rz1Ky9Kf54I)
 
 ## 2. 発表者
 

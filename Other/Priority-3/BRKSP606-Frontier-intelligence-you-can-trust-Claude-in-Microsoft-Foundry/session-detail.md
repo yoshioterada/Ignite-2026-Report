@@ -6,7 +6,8 @@
 
 構成は、Claude の位置づけ、Foundry で Claude を使う 4 つの理由（性能、Microsoft のスタック、本番までの速さ、安全性とガバナンス）、そして「エージェントを本番に出す前に答えるべき 3 つの質問」です。後半には、架空の銀行の紛争（dispute）対応デスクを題材にした動画のデモと、原子力分野の Everstar の事例が含まれます。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP606](https://ignite.microsoft.com/en-US/sessions/BRKSP606)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP606](https://ignite.microsoft.com/en-US/sessions/BRKSP606)\
+YouTube URL: [https://www.youtube.com/watch?v=Gh3K6nRrhnQ](https://www.youtube.com/watch?v=Gh3K6nRrhnQ)
 
 ## 2. 発表者
 

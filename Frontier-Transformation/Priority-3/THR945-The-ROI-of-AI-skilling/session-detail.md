@@ -8,7 +8,8 @@
 
 このセッションでは、画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR945](https://ignite.microsoft.com/en-US/sessions/THR945)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR945](https://ignite.microsoft.com/en-US/sessions/THR945)\
+YouTube URL: [https://www.youtube.com/watch?v=dGg6Wi_MJuA](https://www.youtube.com/watch?v=dGg6Wi_MJuA)
 
 ## 2. 発表者
 

@@ -11,7 +11,8 @@
 - 2 社の顧客が実際にどう token 消費を抑えているか
 - 予算（ダラーまたはトークン）を Foundry 側で強制する機能の概要
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK247](https://ignite.microsoft.com/en-US/sessions/BRK247)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK247](https://ignite.microsoft.com/en-US/sessions/BRK247)\
+YouTube URL: [https://www.youtube.com/watch?v=-vWly99DJNY](https://www.youtube.com/watch?v=-vWly99DJNY)
 
 ## 2. 発表者
 

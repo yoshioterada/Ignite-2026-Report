@@ -8,7 +8,8 @@
 
 このセッションでは画面を使ったデモが行われています。ただし、時間のかかる処理は、画面の外で事前に実行しておいた完成版に切り替えて見せています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR864](https://ignite.microsoft.com/en-US/sessions/THR864)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR864](https://ignite.microsoft.com/en-US/sessions/THR864)\
+YouTube URL: [https://www.youtube.com/watch?v=hu8E6NI623Y](https://www.youtube.com/watch?v=hu8E6NI623Y)
 
 ## 2. 発表者
 

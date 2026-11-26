@@ -6,7 +6,8 @@
 
 このセッションでは、ISV の調査結果を手がかりに、共同開発（Co-build）、共同マーケティング（Co-market）、共同営業（Co-sell）、共同サービス提供（Co-serve）の四つの協業を説明しています。**Marketplace への掲載は、売る理由や使い続ける仕組みの代わりにはならない**というのが中心的なメッセージです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1039](https://ignite.microsoft.com/en-US/sessions/THR1039)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1039](https://ignite.microsoft.com/en-US/sessions/THR1039)\
+YouTube URL: [https://www.youtube.com/watch?v=Z8_k2FrPhsA](https://www.youtube.com/watch?v=Z8_k2FrPhsA)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 内容は大きく 2 つです。1 つは、架空の「Walter White」のプレイヤーデータを使った、疑わしい取引の検知から調査レポートの生成までのデモです。もう 1 つは、そのプラットフォームを Azure でどう構築したか、AI をどこに足したか、という技術の話です。結論は、**AI は既存の機械学習やデータ基盤の上に、意味のある場所へ加えるもの**であり、チャットボットだけで成り立つものではない、という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1019](https://ignite.microsoft.com/en-US/sessions/THR1019)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1019](https://ignite.microsoft.com/en-US/sessions/THR1019)\
+YouTube URL: [https://www.youtube.com/watch?v=MzOQWjv2kFU](https://www.youtube.com/watch?v=MzOQWjv2kFU)
 
 ## 2. 発表者
 

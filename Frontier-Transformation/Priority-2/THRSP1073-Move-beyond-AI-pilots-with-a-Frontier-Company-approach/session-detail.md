@@ -6,7 +6,8 @@
 
 発表者自身が、洗練された成功事例を見せるのではなく、通ってきたプロセスと「うまくいかなかったこと」を共有すると述べています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1073](https://ignite.microsoft.com/en-US/sessions/THRSP1073)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1073](https://ignite.microsoft.com/en-US/sessions/THRSP1073)\
+YouTube URL: [https://www.youtube.com/watch?v=UgfwQX1Z5_M](https://www.youtube.com/watch?v=UgfwQX1Z5_M)
 
 ## 2. 発表者
 

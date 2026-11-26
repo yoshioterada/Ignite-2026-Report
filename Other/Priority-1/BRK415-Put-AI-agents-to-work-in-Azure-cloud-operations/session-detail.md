@@ -8,7 +8,8 @@
 
 結論として発表者が強調したのは、**エージェントに運用を任せるには、コンテキストとガードレール（統制）の両方が必要**という点です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK415](https://ignite.microsoft.com/en-US/sessions/BRK415)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK415](https://ignite.microsoft.com/en-US/sessions/BRK415)\
+YouTube URL: [https://www.youtube.com/watch?v=5jOWwIbGgrs](https://www.youtube.com/watch?v=5jOWwIbGgrs)
 
 ## 2. 発表者
 

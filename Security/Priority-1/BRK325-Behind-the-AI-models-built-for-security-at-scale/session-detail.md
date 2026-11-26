@@ -6,7 +6,8 @@
 
 最初に脅威の状況（AI が攻撃と防御の双方を変えていること）を整理し、次にモデルの訓練方法と、訓練環境の封じ込めの仕組みを説明します。続いて 3 回のリリースの成果とベンチマーク結果を示し、最後に、セキュリティチームが予算の制約の中で AI を使う際の考え方に話が進みます。終盤には Q&A があります。このセッションでは画面を使ったデモは行われていません（スライドと口頭の説明が中心です）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK325](https://ignite.microsoft.com/en-US/sessions/BRK325)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK325](https://ignite.microsoft.com/en-US/sessions/BRK325)\
+YouTube URL: [https://www.youtube.com/watch?v=uBBNR3CyltE](https://www.youtube.com/watch?v=uBBNR3CyltE)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 後半では、同じパターンを自前で構築せずに Microsoft Marketplace からインストールして約 1 時間で使い始める近道として、42 社の「AI Universe」が紹介されます。どちらの方法でも使える GitHub リポジトリが用意されており、手元の環境で再現できる点が特徴です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1001](https://ignite.microsoft.com/en-US/sessions/THR1001)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1001](https://ignite.microsoft.com/en-US/sessions/THR1001)\
+YouTube URL: [https://www.youtube.com/watch?v=l5avAwXooME](https://www.youtube.com/watch?v=l5avAwXooME)
 
 ## 2. 発表者
 

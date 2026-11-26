@@ -13,7 +13,8 @@
 
 登壇者が多く、冒頭で「かなり速く進める」と断っています。画面を操作するライブデモはありません。最後に Q&A の時間もありませんでした。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK499](https://ignite.microsoft.com/en-US/sessions/BRK499)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK499](https://ignite.microsoft.com/en-US/sessions/BRK499)\
+YouTube URL: [https://www.youtube.com/watch?v=n6V-3UD93bY](https://www.youtube.com/watch?v=n6V-3UD93bY)
 
 ## 2. 発表者
 

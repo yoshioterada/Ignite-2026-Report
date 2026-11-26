@@ -10,7 +10,8 @@
 
 このセッションでは、画面を使った実演（デモ）が複数ありますが、音声から分かるのは語られた内容までです。画面の細部は確認できません（6 章）。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP624](https://ignite.microsoft.com/en-US/sessions/BRKSP624)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP624](https://ignite.microsoft.com/en-US/sessions/BRKSP624)\
+YouTube URL: [https://www.youtube.com/watch?v=kFy43ZRdy1U](https://www.youtube.com/watch?v=kFy43ZRdy1U)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 前半では ISOC の構成と顧客にとっての利点が語られ、後半では MSSP（セキュリティ運用の委託サービス）として約 2 か月半プレビュー版を試した Micah 氏が、移行、保存コスト、自動化、連携型のデータコネクタなどを実感に基づいて話します。録画された紹介動画の上映もありました。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1016](https://ignite.microsoft.com/en-US/sessions/THR1016)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THR1016](https://ignite.microsoft.com/en-US/sessions/THR1016)\
+YouTube URL: [https://www.youtube.com/watch?v=PMPFeICncVM](https://www.youtube.com/watch?v=PMPFeICncVM)
 
 ## 2. 発表者
 

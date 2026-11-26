@@ -6,7 +6,8 @@
 
 内容は大きく 3 つに分かれます。NC2 の概要と DR の選択肢、Azure 側に必要なネットワーク構成、そして Prism Central 上でレイヤー 2 延長・保護ポリシー・リカバリープランを作り、計画的フェイルオーバーを実行するデモです。**デモの最後には、2 台の仮想マシンが同じ IP アドレスのまま Azure 上で起動します。**
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1088](https://ignite.microsoft.com/en-US/sessions/THRSP1088)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1088](https://ignite.microsoft.com/en-US/sessions/THRSP1088)\
+YouTube URL: [https://www.youtube.com/watch?v=z1KkFYcyCEs](https://www.youtube.com/watch?v=z1KkFYcyCEs)
 
 ## 2. 発表者
 

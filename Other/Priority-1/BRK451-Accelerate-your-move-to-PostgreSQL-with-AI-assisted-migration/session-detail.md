@@ -6,7 +6,8 @@
 
 発表では、移行を 3 つの作業に分けて考えます。**スキーマを変換し、アプリケーションのコードを適合させ、データを移す**、という整理です。スキーマ変換とアプリケーション変換は VS Code の PostgreSQL 拡張機能と GitHub Copilot CLI のスキル、データ移行は Azure Database Migration Service（DMS）が受け持つ、という役割分担になっています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK451](https://ignite.microsoft.com/en-US/sessions/BRK451)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK451](https://ignite.microsoft.com/en-US/sessions/BRK451)\
+YouTube URL: [https://www.youtube.com/watch?v=6yc6Ja05rvE](https://www.youtube.com/watch?v=6yc6Ja05rvE)
 
 ## 2. 発表者
 

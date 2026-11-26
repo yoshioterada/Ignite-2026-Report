@@ -14,7 +14,8 @@
 
 > 補足：このセッションの英語トランスクリプトには、固有名詞や数値の聞き取りの誤りがかなり含まれています。以降の文章では、誤りが疑われる語は聞こえた綴りのまま示し、「聞き取り不明瞭」「音声認識の都合で確定できません」と注記しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK540](https://ignite.microsoft.com/en-US/sessions/BRK540)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK540](https://ignite.microsoft.com/en-US/sessions/BRK540)\
+YouTube URL: [https://www.youtube.com/watch?v=ji05P21fIFU](https://www.youtube.com/watch?v=ji05P21fIFU)
 
 ## 2. 発表者
 

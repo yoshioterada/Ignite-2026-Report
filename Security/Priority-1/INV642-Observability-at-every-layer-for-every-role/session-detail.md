@@ -13,7 +13,8 @@ Agent 365 の管理者向け・ビジネス部門向けデモが 2 本、Percept
 
 > 補足：Perception、MDASH、ARTEX など、製品・機能の名称は音声認識の結果の綴りです。メタデータやセッション概要では確認できないため、綴りは音声認識の都合で確定できません。以降は聞こえた綴りのまま記載します。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV642](https://ignite.microsoft.com/en-US/sessions/INV642)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/INV642](https://ignite.microsoft.com/en-US/sessions/INV642)\
+YouTube URL: [https://www.youtube.com/watch?v=qsA63OwFKP4](https://www.youtube.com/watch?v=qsA63OwFKP4)
 
 ## 2. 発表者
 

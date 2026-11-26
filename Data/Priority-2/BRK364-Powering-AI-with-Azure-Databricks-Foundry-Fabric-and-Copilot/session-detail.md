@@ -6,7 +6,8 @@
 
 聞き手として、データ基盤を Azure Databricks と Fabric のどちらで使うか、あるいは両方使う場合にどうつなぐか、AI のコストとガバナンスをどう管理するかに関心のある開発者や IT 担当者を想定した内容です。中心となる主張は、**Azure Databricks と Fabric の間は「一方通行の扉」ではなく、データも AI もどちらからも使える**という点です。画面を操作するライブデモは行われておらず、スライドと一部の画面キャプチャ・短い動画が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK364](https://ignite.microsoft.com/en-US/sessions/BRK364)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK364](https://ignite.microsoft.com/en-US/sessions/BRK364)\
+YouTube URL: [https://www.youtube.com/watch?v=8pTyobgz28Y](https://www.youtube.com/watch?v=8pTyobgz28Y)
 
 ## 2. 発表者
 

@@ -8,7 +8,8 @@
 
 発表の中心にある考え方は、**AI の導入は技術の問題である前に、組織と人の問題であり、実務の中で成果指標を決めて進める必要がある**というものです。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK225](https://ignite.microsoft.com/en-US/sessions/BRK225)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK225](https://ignite.microsoft.com/en-US/sessions/BRK225)\
+YouTube URL: [https://www.youtube.com/watch?v=CzFo0yVqPQ0](https://www.youtube.com/watch?v=CzFo0yVqPQ0)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 進行は、Azure Cosmos DB に携わる 2 名の登壇者（Madeline Egan 氏は product manager と自己紹介）が、会場参加型のクイズを挟みながら対話形式で行います。途中で、バグ調査を題材にした画面デモがあります。後半には、Willis Towers Watson（WTW）のエンジニアが、自社の AI 機能 Violet で Cosmos DB を使っている構成と、実装で学んだ教訓を話します。最後に GA・プレビューの発表と、AI Search との使い分けに関する質疑応答があります。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK367](https://ignite.microsoft.com/en-US/sessions/BRK367)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK367](https://ignite.microsoft.com/en-US/sessions/BRK367)\
+YouTube URL: [https://www.youtube.com/watch?v=eLzQtvwZdmU](https://www.youtube.com/watch?v=eLzQtvwZdmU)
 
 ## 2. 発表者
 

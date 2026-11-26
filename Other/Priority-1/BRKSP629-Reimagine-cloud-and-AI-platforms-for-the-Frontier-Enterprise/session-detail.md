@@ -8,7 +8,8 @@
 
 なお、これは対談形式のセッションで、画面を使ったデモはありません。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP629](https://ignite.microsoft.com/en-US/sessions/BRKSP629)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRKSP629](https://ignite.microsoft.com/en-US/sessions/BRKSP629)\
+YouTube URL: [https://www.youtube.com/watch?v=VMpCSI-mkFg](https://www.youtube.com/watch?v=VMpCSI-mkFg)
 
 ## 2. 発表者
 

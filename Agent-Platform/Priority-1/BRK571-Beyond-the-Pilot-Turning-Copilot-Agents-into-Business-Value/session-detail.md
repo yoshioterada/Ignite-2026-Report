@@ -8,7 +8,8 @@ AI のパイロット（試験導入）は、いまや至るところで行わ�
 
 このセッションでは、画面を使ったデモは行われていません。登壇者の経験談と対話が中心です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK571](https://ignite.microsoft.com/en-US/sessions/BRK571)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK571](https://ignite.microsoft.com/en-US/sessions/BRK571)\
+YouTube URL: [https://www.youtube.com/watch?v=Lw4aIE8B9o4](https://www.youtube.com/watch?v=Lw4aIE8B9o4)
 
 ## 2. 発表者
 

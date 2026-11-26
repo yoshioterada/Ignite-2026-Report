@@ -8,7 +8,8 @@
 
 > 注意：このセッションは、ハードウェア（電源・冷却設備）を提供する会社の製品紹介を兼ねた内容です。音声認識の精度があまり高くなく、数値や用語が不明瞭な箇所があります。該当する箇所には本文中で注記しています。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1132](https://ignite.microsoft.com/en-US/sessions/THRSP1132)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/THRSP1132](https://ignite.microsoft.com/en-US/sessions/THRSP1132)\
+YouTube URL: [https://www.youtube.com/watch?v=k40vjWJDjAQ](https://www.youtube.com/watch?v=k40vjWJDjAQ)
 
 ## 2. 発表者
 

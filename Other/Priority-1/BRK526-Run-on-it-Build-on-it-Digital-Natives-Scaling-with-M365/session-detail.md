@@ -6,7 +6,8 @@
 
 ISV やパートナーとして Microsoft 365 / Copilot 向けのソリューションを作る方、自社の業務を Microsoft 365 上でエージェントとともに回したい方に向いた内容です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK526](https://ignite.microsoft.com/en-US/sessions/BRK526)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK526](https://ignite.microsoft.com/en-US/sessions/BRK526)\
+YouTube URL: [https://www.youtube.com/watch?v=xDyI3j-PHKM](https://www.youtube.com/watch?v=xDyI3j-PHKM)
 
 ## 2. 発表者
 

@@ -6,7 +6,8 @@
 
 発表は大きく 3 つのデモで構成されています。Keycloak と Microsoft Entra のフェデレーションを使ったクラウド／ローカルの同一アプリの動作、エージェントのメモリをクラウドからローカルへ引き継ぐ例、そして接続が切れてもガバナンスを効かせる「grant-based consumption」のピザ工場シミュレーションです。Adaptive Apps は**フレームワークではなくパターン**であり、特定のツールに縛られないというのが一貫した主張です。
 
-セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK446](https://ignite.microsoft.com/en-US/sessions/BRK446)
+セッション URL: [https://ignite.microsoft.com/en-US/sessions/BRK446](https://ignite.microsoft.com/en-US/sessions/BRK446)\
+YouTube URL: [https://www.youtube.com/watch?v=El-j55WMssI](https://www.youtube.com/watch?v=El-j55WMssI)
 
 ## 2. 発表者
 
